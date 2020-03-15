@@ -1,0 +1,27 @@
+.table_trap_damage td,
+.table_trap_damage th {
+  padding: 4px 0.5em 4px 0.5em;
+}
+
+th.table_divider {
+  padding: 4px;
+  background-color: #ebebeb;
+}
+
+.formula {
+  line-height: 110%;
+  border: 1px solid #dde;
+  margin-left: 1em;
+  margin-right: 2em;
+  background-color: #f0f8ff;
+  font-size: 0.9em;
+}
+
+#table_trap_experience th {
+  text-transform: none;
+}
+
+#table_trap_experience td,
+#table_trap_experience th {
+  padding: 5px 0.5em 5px 0.5em;
+}

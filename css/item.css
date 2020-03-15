@@ -1,0 +1,331 @@
+h2 {
+  padding-left: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 3px;
+  background-color: #def;
+}
+
+h3 {
+  font-size: 100%;
+  font-weight: normal;
+  border-top: 1px solid #def;
+  border-bottom: 3px solid #def;
+  border-left: 10px solid #def;
+  border-right: 3px solid #def;
+  padding-left: 5px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-radius: 2px;
+  margin: 0;
+}
+
+h4 {
+  font-weight: normal;
+  font-size: 90%;
+  border-left: 15px solid #def;
+  padding: 0.3em;
+}
+
+li {
+  font-size: 90%;
+}
+
+.heading {
+  background-color: #def;
+  text-align: center;
+  font-size: 1.3em;
+  margin: 2em 0 0;
+}
+
+.page_heading {
+  margin: 0;
+}
+
+.item_desc {
+  padding: 10px;
+  background-color: #f5faff;
+  border-radius: 5px;
+}
+
+.detail {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.detail-name {
+  flex: 0 0 100%;
+  border: 10px solid #def;
+}
+
+.detail-entry {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 5px;
+}
+
+.detail-section1 img {
+  background-color: #444;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.detail-table {
+  white-space: nowrap;
+  width: auto;
+}
+
+.detail-section1 {
+  flex: 1 0;
+}
+
+.detail-section2 {
+  flex: 0 1 100%;
+}
+
+.section2-table td {
+  padding: 5px;
+}
+
+.summary_phrase {
+  white-space: nowrap;
+}
+
+.img_statue {
+  align-self: center;
+  border-right: 10px solid transparent;
+}
+
+.text_left {
+  text-align: left;
+}
+
+.text_right {
+  text-align: right;
+}
+
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 10px;
+  padding: 0;
+}
+
+table caption {
+  color: #444;
+  background-color: #def;
+  font-size: 1.5em;
+  margin: 0.5em 0 0.75em;
+}
+
+table tr {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 0.35em;
+}
+
+table th {
+  background-color: lightgray;
+}
+
+table th,
+table td {
+  padding: 0.625em;
+  text-align: center;
+  border: 1px solid #ccc;
+  font-size: 90%;
+}
+
+table th {
+  font-size: 0.85em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.statue_location_table th,
+.statue_location_table td {
+  padding: 7px;
+  font-size: 80%;
+}
+
+.material_table th,
+.material_table td {
+  padding: 7px;
+  font-size: 80%;
+}
+
+.material_table_sub_th {
+  background-color: #D0D8E0;
+}
+
+.material_table_soil {
+  background-color: #bbaa33;
+}
+
+.material_table_water {
+  background-color: #aaccff;
+}
+
+.material_table_wood {
+  background-color: #f9dd99;
+}
+
+.material_table_rock {
+  background-color: #e0e0e0;
+}
+
+.material_table_iron_sand {
+  background-color: #b0b0b0;
+}
+
+.warning_text {
+  color: red;
+}
+
+.text_non_turn_ending {
+  color: #66f;
+}
+
+.text_turn_ending {
+  color: #f66;
+}
+
+.text_orange {
+  color: orange;
+}
+
+.diagram {
+  padding: 4px;
+  line-height: 110%;
+  border: 1px solid #dde;
+  margin-left: 1em;
+  margin-right: 2em;
+  background-color: #f0f8ff;
+  white-space: pre-line;
+}
+
+dl {
+  font-size: 90%;
+}
+
+dt {
+  font-weight: bold;
+  margin-left: 1em;
+  margin-top: 1em;
+}
+
+.ally_table td, 
+.ally_table th {
+  padding: 7px;
+  font-size: 80%;
+}
+
+.ally_h3 {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.table_less_padding td, 
+.table_less_padding th {
+  padding: 7px;
+  font-size: 80%;
+}
+
+.monster_kingdom_table td {
+  text-align: left;
+}
+
+.gallery_image {
+  padding-left: 10px;
+  padding-top: 1em;
+}
+
+.table_text_right td {
+  text-align: right;
+}
+
+.table_text_left td {
+  text-align: left;
+}
+
+.stat_table td {
+  background-color: #eef5ff;
+  text-align: right;
+  padding: 5px;
+  font-size: 80%;
+}
+
+.stat_table th {
+  font-size: 80%;
+}
+
+td.stat_table_subheading {
+  text-align: center;
+  background-color: #eaeaff;
+}
+
+th.table_divider,
+td.table_divider {
+  background-color: #fff
+}
+
+.stat_table_monsters td {
+  text-align: left;
+}
+
+td.stat_table_center {
+  text-align: center;
+}
+
+.image_padding {
+  padding-top: 1em;
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+    table-layout: fixed;
+  }
+
+  table caption {
+    font-size: 1.3em;
+  }
+
+  table thead {
+      border: none;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+  }
+
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: 0.625em;
+  }
+
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: 0.8em;
+    text-align: right;
+  }
+
+  table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  table td:last-child {
+    border-bottom: 0;
+  }
+
+}

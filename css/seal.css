@@ -1,0 +1,47 @@
+#quick_links li {
+  font-size: 100%;
+}
+
+.seal_equipment {
+  background-color: #8cc8ff;
+}
+
+.seal_grass {
+  background-color: #80ff80;
+}
+
+.seal_scroll {
+  background-color: #ffb4b4;
+}
+
+.seal_curse {
+  background-color: #6699cc;
+}
+
+.table_seals th {
+  border-color: #bbb;
+}
+
+.table_seals td {
+  padding: 5px 0.5em 5px 0.5em;
+  font-size: 80%;
+}
+
+.table_pro_con th,
+.table_pro_con td {
+  font-size: 0.65em;
+}
+
+.text_left {
+  text-align: left;
+}
+
+dl {
+  font-size: 90%;
+}
+
+dt {
+  font-weight: bold;
+  margin-left: 1em;
+  margin-top: 1em;
+}

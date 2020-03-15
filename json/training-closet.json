@@ -1,0 +1,36 @@
+{
+  "monster": {
+    "1": {
+      "Mamel": 10,
+      "Pit Mamel": 10,
+      "Chintala": 10
+    },
+    "2": {
+      "Mamel": 10,
+      "Pit Mamel": 10,
+      "Chintala": 10
+    },
+    "3": {
+      "Mamel": 5,
+      "Pit Mamel": 10,
+      "Chintala": 10,
+      "Dolly": 5
+    },
+    "4": {
+      "Dolly": 10,
+      "Salty Slug": 5,
+      "Pull Frog": 5,
+      "Rice Trainee": 3,
+      "Crow Tengu": 3,
+      "Bow Boy": 3
+    },
+    "5": {
+      "Dolly": 10,
+      "Salty Slug": 10,
+      "Pull Frog": 10,
+      "Rice Trainee": 10,
+      "Crow Tengu": 3,
+      "Bow Boy": 10
+    }
+  }
+}

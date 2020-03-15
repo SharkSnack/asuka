@@ -1,0 +1,303 @@
+body {
+  font-family: arial;
+}
+
+h2 {
+  padding-left: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 3px;
+  background-color: #def;
+}
+
+h3 {
+  font-size: 100%;
+  font-weight: normal;
+  border-top: 1px solid #def;
+  border-bottom: 3px solid #def;
+  border-left: 10px solid #def;
+  border-right: 3px solid #def;
+  padding-left: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  border-radius: 2px;
+}
+
+h4 {
+  font-weight: normal;
+  font-size: 90%;
+  border-left: 15px solid #def;
+  padding: 0.3em;
+}
+
+a {
+  color: #215dc6;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #a63d21;
+}
+
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin-top: 10px;
+  padding: 0;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: 0.5em 0 0.75em;
+}
+
+table tr {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: 0.35em;
+}
+
+table th {
+  background-color: lightgray;
+}
+
+table th,
+table td {
+  padding: 0.45em;
+  text-align: center;
+  border: 1px solid lightgray;
+  font-size: 90%;
+}
+
+table th {
+  font-size: 0.85em;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border-color: #e1e1e1;
+}
+
+dl {
+  font-size: 90%;
+}
+
+dt {
+  font-weight: bold;
+  margin-left: 1em;
+  margin-top: 1em;
+}
+
+.golden_interval_items td {
+  text-align: left;
+}
+
+.dungeon_heading {
+  margin: 0;
+}
+
+.dungeon_desc {
+  display: flex;
+  flex-direction: row;
+}
+
+.dungeon_desc_text {
+  flex: 1 0;
+}
+
+.dungeon_desc_table {
+  width: auto;
+}
+
+.dungeon_desc_table th {
+  font-size: 80%;
+}
+
+.dungeon_desc_table th,
+.dungeon_desc_table td {
+  padding: 0.625em;
+}
+
+.dungeon_desc_warning {
+  color: red;
+}
+
+.monster_normal {
+  background-color: #e6e6fa;
+}
+
+.monster_weapon {
+  background-color: #9999FF;
+}
+
+.monster_ghost {
+  background-color: #FFFF99;
+}
+
+.monster_drain {
+  background-color: #FF99CC;
+}
+
+.monster_water {
+  background-color: #99CCFF;
+}
+
+.monster_special {
+  background-color: silver;
+}
+
+.monster_one_eyed {
+  background-color: #cfc;
+}
+
+.monster_item_change {
+  background-color: #CC99FF;
+}
+
+.monster_dragon {
+  background-color: #99CC00;
+}
+
+.monster_bomb {
+  background-color: #fc9;
+}
+
+.monster_bone {
+  background-color: yellow;
+}
+
+.monster_table_checkpoint {
+  background-color: #ebebeb;
+}
+
+.dungeon_monster_table table {
+  font-size: 80%;
+}
+
+.onigashima_monster_table table {
+  font-size: 70%;
+}
+
+.hidden_hole_monster_table table {
+  font-size: 50%;
+}
+
+.sealed_room_monster_table table {
+  font-size: 50%;
+}
+
+.sealed_room_monster_table_gold table {
+  font-size: 55%;
+}
+
+.sealed_room_monster_table_gold th {
+  background-color: gold;
+}
+
+.halfway_well_monster_table table {
+  font-size: 50%;
+}
+
+.halfway_well_monster_table_gold table {
+  font-size: 55%;
+}
+
+.halfway_well_monster_table_gold th {
+  background-color: gold;
+}
+
+.road_to_the_end_monster_table table {
+  font-size: 50%;
+}
+
+.road_to_the_end_monster_table th,
+.road_to_the_end_monster_table td {
+  padding: 0.4em;
+}
+
+.road_to_the_end_monster_table_gold table {
+  font-size: 60%;
+}
+
+.road_to_the_end_monster_table_gold th {
+  background-color: gold;
+}
+
+.dungeon_monster_table_gold table {
+  font-size: 70%;
+}
+
+.dungeon_monster_table_gold th {
+  background-color: gold;
+}
+
+.dungeon_item_table_key p {
+  border-left: 15px solid #def;
+  padding: 4px;
+}
+
+.dungeon_item_table td,
+.dungeon_item_table th  {
+  padding: 4px;
+}
+
+.dungeon_item_category {
+  background-color: #ffffcc;
+}
+
+.dungeon_item_table table {
+  font-size: 80%;
+}
+
+.dungeon_item_table_divider {
+  background-color: #ebebeb
+}
+
+.dungeon_table_notes {
+  font-size: 80%;
+  list-style-type: none;
+  padding: 0;
+}
+
+.recommended_monster {
+  background-color: #f9c;
+}
+
+.stat_highlight_1 {
+  background-color: #ff9;
+}
+
+.stat_highlight_2 {
+  background-color: #fc9;
+}
+
+.recommended_monster_notes {
+  text-align: left;
+}
+
+.dungeon_diagram {
+  line-height: 110%;
+  border: 1px solid #dde;
+  margin-left: 1em;
+  margin-right: 2em;
+  background-color: #f0f8ff;
+}
+
+.seal_table_equipment {
+  background-color: #8cc8ff;
+}
+
+.seal_table_item {
+  background-color: #80ff80;
+}
+
+.seal_table_scroll {
+  background-color: #ffb4b4;
+}
+
+.cave_mamel_list {
+  margin-top: 0.5em;
+  list-style-type: circle;
+}
