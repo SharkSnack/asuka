@@ -24,16 +24,16 @@ h2 {
   padding-top: 3px;
   padding-bottom: 3px;
   border-radius: 3px;
-  background-color: #def;
+  background-color: #ffdfbe;
 }
 
 h3 {
   font-size: 100%;
   font-weight: normal;
-  border-top: 1px solid #def;
-  border-bottom: 3px solid #def;
-  border-left: 10px solid #def;
-  border-right: 3px solid #def;
+  border-top: 1px solid #ffdfbe;
+  border-bottom: 3px solid #ffdfbe;
+  border-left: 10px solid #ffdfbe;
+  border-right: 3px solid #ffdfbe;
   padding-left: 5px;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -43,7 +43,7 @@ h3 {
 h4 {
   font-weight: normal;
   font-size: 90%;
-  border-left: 15px solid #def;
+  border-left: 15px solid #ffdfbe;
   padding: 0.3em;
 }
 
