@@ -283,6 +283,14 @@ td.stat_table_center {
   padding-top: 1em;
 }
 
+.derivative1 {
+  background: cyan;
+}
+
+.derivative2 {
+  background: pink;
+}
+
 @media screen and (max-width: 600px) {
   table {
     border: 0;
