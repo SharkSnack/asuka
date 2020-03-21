@@ -95,3 +95,7 @@ table a:hover {
 table a:visited {
   color: #a63d21;
 }
+
+p {
+  font-size: 80%;
+}
