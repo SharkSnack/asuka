@@ -284,11 +284,11 @@ td.stat_table_center {
 }
 
 .derivative1 {
-  background: cyan;
+  background: paleturquoise;
 }
 
 .derivative2 {
-  background: pink;
+  background: lightskyblue;
 }
 
 @media screen and (max-width: 600px) {
