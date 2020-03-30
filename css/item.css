@@ -229,7 +229,7 @@ dt {
 
 .table_less_padding td, 
 .table_less_padding th {
-  padding: 7px;
+  padding: 6px;
   font-size: 80%;
 }
 
@@ -289,6 +289,14 @@ td.stat_table_center {
 
 .derivative2 {
   background: lightskyblue;
+}
+
+.special_synthesis {
+  color: purple;
+}
+
+.summary_sub_category {
+  background-color: white;
 }
 
 @media screen and (max-width: 600px) {
