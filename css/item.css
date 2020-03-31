@@ -77,6 +77,15 @@ li {
   width: auto;
 }
 
+.detail-table {
+  font-size: 90%;
+}
+
+.detail-table td,
+.detail-table th {
+  padding: 6px;
+}
+
 .detail-section1 {
   flex: 1 0;
 }
