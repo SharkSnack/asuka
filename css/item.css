@@ -314,6 +314,16 @@ td.stat_table_center {
   background-color: white;
 }
 
+.table_location {
+
+}
+
+.table_location th,
+.table_location td {
+  padding: 1.5px;
+  font-size: 65%;
+}
+
 @media screen and (max-width: 600px) {
   table {
     border: 0;
