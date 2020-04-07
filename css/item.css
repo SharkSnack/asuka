@@ -314,8 +314,8 @@ td.stat_table_center {
   background-color: white;
 }
 
-.table_location {
-
+.table_location th {
+  background-color: #e2e2e2;
 }
 
 .table_location th,
