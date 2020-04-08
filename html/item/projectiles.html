@@ -24,6 +24,7 @@
         <div>
           <div id="item_summary_table">
             <h2 class="page_heading">Projectile Summary</h2>
+            <p>Power = Asuka's bare-handed attack strength + projectile attack stat.</p>
             <p>※ English names might change as the translation project progresses.</p>
             <table class="table_summary">
               <thead>
@@ -38,7 +39,7 @@
               </thead>
               <tbody>
                 <tr>
-                  <td scope="row"><a href="#wooden_sword">Wooden Arrow<br>木の矢</a></td>
+                  <td scope="row"><a href="#wooden_arrow">Wooden Arrow<br>木の矢</a></td>
                   <td>-</td>
                   <td>5</td>
                   <td>20</td>
@@ -46,7 +47,7 @@
                   <td class="text_left">-</td>
                 </tr>
                 <tr>
-                  <td scope="row"><a href="#wooden_sword">Iron Arrow<br>鉄の矢</a></td>
+                  <td scope="row"><a href="#iron_arrow">Iron Arrow<br>鉄の矢</a></td>
                   <td>-</td>
                   <td>9</td>
                   <td>60</td>
@@ -54,7 +55,7 @@
                   <td class="text_left">-</td>
                 </tr>
                 <tr>
-                  <td scope="row"><a href="#wooden_sword">Poison Arrow<br>毒矢</a></td>
+                  <td scope="row"><a href="#poison_arrow">Poison Arrow<br>毒矢</a></td>
                   <td>-</td>
                   <td>-</td>
                   <td>60</td>
@@ -62,7 +63,7 @@
                   <td class="text_left">Deals 10 damage, and lowers strength by ~20%.</td>
                 </tr>
                 <tr>
-                  <td scope="row"><a href="#wooden_sword">Silver Arrow<br>銀の矢</a></td>
+                  <td scope="row"><a href="#silver_arrow">Silver Arrow<br>銀の矢</a></td>
                   <td>銀</td>
                   <td>11</td>
                   <td>80</td>
@@ -70,7 +71,7 @@
                   <td class="text_left">Pierces through monsters and walls.</td>
                 </tr>
                 <tr>
-                  <td scope="row"><a href="#wooden_sword">Critical Arrow<br>会心の矢</a></td>
+                  <td scope="row"><a href="#critical_arrow">Critical Arrow<br>会心の矢</a></td>
                   <td>-</td>
                   <td>11</td>
                   <td>120</td>
@@ -78,7 +79,7 @@
                   <td class="text_left">Occasionally deals a critical hit.</td>
                 </tr>
                 <tr>
-                  <td scope="row"><a href="#wooden_sword">Razor Arrow<br>かまいたちの矢</a></td>
+                  <td scope="row"><a href="#razor_arrow">Razor Arrow<br>かまいたちの矢</a></td>
                   <td>-</td>
                   <td>9</td>
                   <td>200</td>
@@ -86,7 +87,7 @@
                   <td class="text_left">-</td>
                 </tr>
                 <tr>
-                  <td scope="row"><a href="#wooden_sword">Cannonball<br>大砲の弾</a></td>
+                  <td scope="row"><a href="#cannonball">Cannonball<br>大砲の弾</a></td>
                   <td>-</td>
                   <td>-</td>
                   <td>100</td>
@@ -94,7 +95,7 @@
                   <td class="text_left">Deals 40 damage in a 1 tile radius from where it explodes.</td>
                 </tr>
                 <tr>
-                  <td scope="row"><a href="#wooden_sword">Porky Stone<br>デブータの石</a></td>
+                  <td scope="row"><a href="#porky_stone">Porky Stone<br>デブータの石</a></td>
                   <td>-</td>
                   <td>7</td>
                   <td>150</td>
@@ -107,27 +108,815 @@
           <div id="item_details">
             <h2>Projectile Details</h2>
             <div>
-              <h3 id="wooden_shield">Wooden Arrow (木の矢)</h3>
+              <h3 id="wooden_arrow">Wooden Arrow (木の矢)</h3>
               <div class="detail-entry">
                 <div class="detail-section1">
                   <p class="item_desc">Description Text.</p>
-                  <p>Locations:</p>
-                  <ul>
-                    <li>Halo Country Easy (Floor)</li>
-                  </ul>
+                  <dl>
+                    <dt>Locations</dt>
+                    <dd></dd>
+                  </dl>
+                  <table class="table_location">
+                    <tr>
+                      <th>Closet</th>
+                      <th>Easy</th>
+                      <th>Hard</th>
+                      <th>Koga</th>
+                      <th>Doras</th>
+                      <th>Bufu</th>
+                      <th>Gito</th>
+                      <th>Kaka</th>
+                      <th>Kron</th>
+                      <th>Reeva</th>
+                    </tr>
+                    <tr>
+                      <td>F</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>FS</td>
+                    </tr>
+                    <tr>
+                      <th>Firework</th>
+                      <th>Snake</th>
+                      <th>Snake(R)</th>
+                      <th>Beauty</th>
+                      <th>Bone</th>
+                      <th>Monkey</th>
+                      <th>Cat</th>
+                      <th>Bird</th>
+                      <th>Flame</th>
+                      <th>Treasure</th>
+                    </tr>
+                    <tr>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>-</td>
+                    </tr>
+                    <tr>
+                      <th>Nest</th>
+                      <th>2-Hand</th>
+                      <th>10K</th>
+                      <th>10K Exp</th>
+                      <th>Avidya</th>
+                      <th>Snake(M)</th>
+                      <th>Solid</th>
+                      <th>5 Box</th>
+                      <th>Fight</th>
+                      <th>Econ</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>S</td>
+                    </tr>
+                  </table>
                 </div>
                 <table class="detail-table">
                   <tbody>
                     <tr>
                       <th>Buy</th>
-                      <td>3000</td>
+                      <td>20</td>
                       <th>Sell</th>
-                      <td>1500</td>
+                      <td>2</td>
                     </tr>
                     <tr>
+                      <th>Atk</th>
+                      <td>5</td>
                       <th>Seal</th>
                       <td>-</td>
-                      <th>Stack</th>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div>
+              <h3 id="iron_arrow">Iron Arrow (鉄の矢)</h3>
+              <div class="detail-entry">
+                <div class="detail-section1">
+                  <p class="item_desc">Description Text.</p>
+                  <dl>
+                    <dt>Locations</dt>
+                    <dd></dd>
+                  </dl>
+                  <table class="table_location">
+                    <tr>
+                      <th>Closet</th>
+                      <th>Easy</th>
+                      <th>Hard</th>
+                      <th>Koga</th>
+                      <th>Doras</th>
+                      <th>Bufu</th>
+                      <th>Gito</th>
+                      <th>Kaka</th>
+                      <th>Kron</th>
+                      <th>Reeva</th>
+                    </tr>
+                    <tr>
+                      <td>F</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>FS</td>
+                    </tr>
+                    <tr>
+                      <th>Firework</th>
+                      <th>Snake</th>
+                      <th>Snake(R)</th>
+                      <th>Beauty</th>
+                      <th>Bone</th>
+                      <th>Monkey</th>
+                      <th>Cat</th>
+                      <th>Bird</th>
+                      <th>Flame</th>
+                      <th>Treasure</th>
+                    </tr>
+                    <tr>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>-</td>
+                    </tr>
+                    <tr>
+                      <th>Nest</th>
+                      <th>2-Hand</th>
+                      <th>10K</th>
+                      <th>10K Exp</th>
+                      <th>Avidya</th>
+                      <th>Snake(M)</th>
+                      <th>Solid</th>
+                      <th>5 Box</th>
+                      <th>Fight</th>
+                      <th>Econ</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>S</td>
+                    </tr>
+                  </table>
+                </div>
+                <table class="detail-table">
+                  <tbody>
+                    <tr>
+                      <th>Buy</th>
+                      <td>60</td>
+                      <th>Sell</th>
+                      <td>10</td>
+                    </tr>
+                    <tr>
+                      <th>Atk</th>
+                      <td>9</td>
+                      <th>Seal</th>
+                      <td>-</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div>
+              <h3 id="poison_arrow">Poison Arrow (毒矢)</h3>
+              <div class="detail-entry">
+                <div class="detail-section1">
+                  <p class="item_desc">Description Text.</p>
+                  <dl>
+                    <dt>Locations</dt>
+                    <dd></dd>
+                  </dl>
+                  <table class="table_location">
+                    <tr>
+                      <th>Closet</th>
+                      <th>Easy</th>
+                      <th>Hard</th>
+                      <th>Koga</th>
+                      <th>Doras</th>
+                      <th>Bufu</th>
+                      <th>Gito</th>
+                      <th>Kaka</th>
+                      <th>Kron</th>
+                      <th>Reeva</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                    </tr>
+                    <tr>
+                      <th>Firework</th>
+                      <th>Snake</th>
+                      <th>Snake(R)</th>
+                      <th>Beauty</th>
+                      <th>Bone</th>
+                      <th>Monkey</th>
+                      <th>Cat</th>
+                      <th>Bird</th>
+                      <th>Flame</th>
+                      <th>Treasure</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                    </tr>
+                    <tr>
+                      <th>Nest</th>
+                      <th>2-Hand</th>
+                      <th>10K</th>
+                      <th>10K Exp</th>
+                      <th>Avidya</th>
+                      <th>Snake(M)</th>
+                      <th>Solid</th>
+                      <th>5 Box</th>
+                      <th>Fight</th>
+                      <th>Econ</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                    </tr>
+                  </table>
+                </div>
+                <table class="detail-table">
+                  <tbody>
+                    <tr>
+                      <th>Buy</th>
+                      <td>60</td>
+                      <th>Sell</th>
+                      <td>5</td>
+                    </tr>
+                    <tr>
+                      <th>Atk</th>
+                      <td>10 damage</td>
+                      <th>Seal</th>
+                      <td>-</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div>
+              <h3 id="silver_arrow">Silver Arrow (銀の矢)</h3>
+              <div class="detail-entry">
+                <div class="detail-section1">
+                  <p class="item_desc">Description Text.</p>
+                  <dl>
+                    <dt>Locations</dt>
+                    <dd></dd>
+                  </dl>
+                  <table class="table_location">
+                    <tr>
+                      <th>Closet</th>
+                      <th>Easy</th>
+                      <th>Hard</th>
+                      <th>Koga</th>
+                      <th>Doras</th>
+                      <th>Bufu</th>
+                      <th>Gito</th>
+                      <th>Kaka</th>
+                      <th>Kron</th>
+                      <th>Reeva</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>FS</td>
+                    </tr>
+                    <tr>
+                      <th>Firework</th>
+                      <th>Snake</th>
+                      <th>Snake(R)</th>
+                      <th>Beauty</th>
+                      <th>Bone</th>
+                      <th>Monkey</th>
+                      <th>Cat</th>
+                      <th>Bird</th>
+                      <th>Flame</th>
+                      <th>Treasure</th>
+                    </tr>
+                    <tr>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>-</td>
+                    </tr>
+                    <tr>
+                      <th>Nest</th>
+                      <th>2-Hand</th>
+                      <th>10K</th>
+                      <th>10K Exp</th>
+                      <th>Avidya</th>
+                      <th>Snake(M)</th>
+                      <th>Solid</th>
+                      <th>5 Box</th>
+                      <th>Fight</th>
+                      <th>Econ</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>-</td>
+                    </tr>
+                  </table>
+                </div>
+                <table class="detail-table">
+                  <tbody>
+                    <tr>
+                      <th>Buy</th>
+                      <td>80</td>
+                      <th>Sell</th>
+                      <td>20</td>
+                    </tr>
+                    <tr>
+                      <th>Atk</th>
+                      <td>11</td>
+                      <th>Seal</th>
+                      <td>銀</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div>
+              <h3 id="critical_arrow">Critical Arrow (会心の矢)</h3>
+              <div class="detail-entry">
+                <div class="detail-section1">
+                  <p class="item_desc">Description Text.</p>
+                  <dl>
+                    <dt>Locations</dt>
+                    <dd></dd>
+                  </dl>
+                  <table class="table_location">
+                    <tr>
+                      <th>Closet</th>
+                      <th>Easy</th>
+                      <th>Hard</th>
+                      <th>Koga</th>
+                      <th>Doras</th>
+                      <th>Bufu</th>
+                      <th>Gito</th>
+                      <th>Kaka</th>
+                      <th>Kron</th>
+                      <th>Reeva</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>FS</td>
+                    </tr>
+                    <tr>
+                      <th>Firework</th>
+                      <th>Snake</th>
+                      <th>Snake(R)</th>
+                      <th>Beauty</th>
+                      <th>Bone</th>
+                      <th>Monkey</th>
+                      <th>Cat</th>
+                      <th>Bird</th>
+                      <th>Flame</th>
+                      <th>Treasure</th>
+                    </tr>
+                    <tr>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>-</td>
+                    </tr>
+                    <tr>
+                      <th>Nest</th>
+                      <th>2-Hand</th>
+                      <th>10K</th>
+                      <th>10K Exp</th>
+                      <th>Avidya</th>
+                      <th>Snake(M)</th>
+                      <th>Solid</th>
+                      <th>5 Box</th>
+                      <th>Fight</th>
+                      <th>Econ</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>-</td>
+                    </tr>
+                  </table>
+                </div>
+                <table class="detail-table">
+                  <tbody>
+                    <tr>
+                      <th>Buy</th>
+                      <td>120</td>
+                      <th>Sell</th>
+                      <td>40</td>
+                    </tr>
+                    <tr>
+                      <th>Atk</th>
+                      <td>11</td>
+                      <th>Seal</th>
+                      <td>-</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div>
+              <h3 id="razor_arrow">Razor Arrow (かまいたちの矢)</h3>
+              <div class="detail-entry">
+                <div class="detail-section1">
+                  <p class="item_desc">Description Text.</p>
+                  <dl>
+                    <dt>Locations</dt>
+                    <dd></dd>
+                  </dl>
+                  <table class="table_location">
+                    <tr>
+                      <th>Closet</th>
+                      <th>Easy</th>
+                      <th>Hard</th>
+                      <th>Koga</th>
+                      <th>Doras</th>
+                      <th>Bufu</th>
+                      <th>Gito</th>
+                      <th>Kaka</th>
+                      <th>Kron</th>
+                      <th>Reeva</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>FS</td>
+                    </tr>
+                    <tr>
+                      <th>Firework</th>
+                      <th>Snake</th>
+                      <th>Snake(R)</th>
+                      <th>Beauty</th>
+                      <th>Bone</th>
+                      <th>Monkey</th>
+                      <th>Cat</th>
+                      <th>Bird</th>
+                      <th>Flame</th>
+                      <th>Treasure</th>
+                    </tr>
+                    <tr>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>-</td>
+                    </tr>
+                    <tr>
+                      <th>Nest</th>
+                      <th>2-Hand</th>
+                      <th>10K</th>
+                      <th>10K Exp</th>
+                      <th>Avidya</th>
+                      <th>Snake(M)</th>
+                      <th>Solid</th>
+                      <th>5 Box</th>
+                      <th>Fight</th>
+                      <th>Econ</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>S</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>FS</td>
+                      <td>-</td>
+                      <td>FS</td>
+                      <td>-</td>
+                    </tr>
+                  </table>
+                </div>
+                <table class="detail-table">
+                  <tbody>
+                    <tr>
+                      <th>Buy</th>
+                      <td>200</td>
+                      <th>Sell</th>
+                      <td>80</td>
+                    </tr>
+                    <tr>
+                      <th>Atk</th>
+                      <td>9</td>
+                      <th>Seal</th>
+                      <td>-</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div>
+              <h3 id="cannonball">Cannonball (大砲の弾)</h3>
+              <div class="detail-entry">
+                <div class="detail-section1">
+                  <p class="item_desc">Description Text.</p>
+                  <dl>
+                    <dt>Locations</dt>
+                    <dd></dd>
+                  </dl>
+                  <table class="table_location">
+                    <tr>
+                      <th>Closet</th>
+                      <th>Easy</th>
+                      <th>Hard</th>
+                      <th>Koga</th>
+                      <th>Doras</th>
+                      <th>Bufu</th>
+                      <th>Gito</th>
+                      <th>Kaka</th>
+                      <th>Kron</th>
+                      <th>Reeva</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                    </tr>
+                    <tr>
+                      <th>Firework</th>
+                      <th>Snake</th>
+                      <th>Snake(R)</th>
+                      <th>Beauty</th>
+                      <th>Bone</th>
+                      <th>Monkey</th>
+                      <th>Cat</th>
+                      <th>Bird</th>
+                      <th>Flame</th>
+                      <th>Treasure</th>
+                    </tr>
+                    <tr>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>-</td>
+                    </tr>
+                    <tr>
+                      <th>Nest</th>
+                      <th>2-Hand</th>
+                      <th>10K</th>
+                      <th>10K Exp</th>
+                      <th>Avidya</th>
+                      <th>Snake(M)</th>
+                      <th>Solid</th>
+                      <th>5 Box</th>
+                      <th>Fight</th>
+                      <th>Econ</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>S</td>
+                    </tr>
+                  </table>
+                </div>
+                <table class="detail-table">
+                  <tbody>
+                    <tr>
+                      <th>Buy</th>
+                      <td>100</td>
+                      <th>Sell</th>
+                      <td>50</td>
+                    </tr>
+                    <tr>
+                      <th>Atk</th>
+                      <td>40 damage</td>
+                      <th>Seal</th>
+                      <td>-</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div>
+              <h3 id="porky_stone">Porky Stone (デブータの石)</h3>
+              <div class="detail-entry">
+                <div class="detail-section1">
+                  <p class="item_desc">Description Text.</p>
+                  <dl>
+                    <dt>Locations</dt>
+                    <dd></dd>
+                  </dl>
+                  <table class="table_location">
+                    <tr>
+                      <th>Closet</th>
+                      <th>Easy</th>
+                      <th>Hard</th>
+                      <th>Koga</th>
+                      <th>Doras</th>
+                      <th>Bufu</th>
+                      <th>Gito</th>
+                      <th>Kaka</th>
+                      <th>Kron</th>
+                      <th>Reeva</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                    </tr>
+                    <tr>
+                      <th>Firework</th>
+                      <th>Snake</th>
+                      <th>Snake(R)</th>
+                      <th>Beauty</th>
+                      <th>Bone</th>
+                      <th>Monkey</th>
+                      <th>Cat</th>
+                      <th>Bird</th>
+                      <th>Flame</th>
+                      <th>Treasure</th>
+                    </tr>
+                    <tr>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>-</td>
+                    </tr>
+                    <tr>
+                      <th>Nest</th>
+                      <th>2-Hand</th>
+                      <th>10K</th>
+                      <th>10K Exp</th>
+                      <th>Avidya</th>
+                      <th>Snake(M)</th>
+                      <th>Solid</th>
+                      <th>5 Box</th>
+                      <th>Fight</th>
+                      <th>Econ</th>
+                    </tr>
+                    <tr>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>F</td>
+                      <td>-</td>
+                      <td>F</td>
+                      <td>S</td>
+                    </tr>
+                  </table>
+                </div>
+                <table class="detail-table">
+                  <tbody>
+                    <tr>
+                      <th>Buy</th>
+                      <td>150</td>
+                      <th>Sell</th>
+                      <td>70</td>
+                    </tr>
+                    <tr>
+                      <th>Atk</th>
+                      <td>7</td>
+                      <th>Seal</th>
                       <td>-</td>
                     </tr>
                   </tbody>
