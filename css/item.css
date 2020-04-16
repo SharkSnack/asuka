@@ -324,6 +324,16 @@ td.stat_table_center {
   font-size: 65%;
 }
 
+#table_multiplier th {
+  text-transform: none;
+}
+
+.table_notes {
+  font-size: 80%;
+  list-style-type: none;
+  padding: 0;
+}
+
 @media screen and (max-width: 600px) {
   table {
     border: 0;

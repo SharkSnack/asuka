@@ -1077,7 +1077,11 @@
               <h3 id="amano_kagura">Amano Kagura (天神楽ノ剣)</h3>
               <div class="detail-entry">
                 <div class="detail-section1">
-                  <p class="item_desc">Description Text.</p>
+                  <p class="item_desc">If you lose this weapon, it can be found either on the same floor of the dungeon<br>that you collapsed in, or in the room to the right on the deepest floor of <a href="">Firework Cannon</a>.<br>This is the case even when the weapon is lost due to a Kengo family monster<br>disarming you, or if the weapon is inserted into a Presto Pot.<br><br>As an end game weapon, it doesn't have as high attack power as Fiery Fuuma<br>or Kaburasutegi, but it's still plenty for most dungeons that allow carry-in items.<br>It also has the highest default synthesis slot count among all one-handed weapons.<br><br>However, you'll often have valuable unbreakable bracelets or expanded Storage Pots<br>when you explore dungeons at end game, so it's a given that you won't collapse.<br>It's also possible to prevent equipment loss by synthesizing the 帰 seal (Retreat Scroll),<br>so it might not see much use overall.<br><br>It's not mentioned in the in-game description, but this weapon cannot be used<br>as a secondary item in synthesis. There's a <a href="">glitch</a> that spawns a second Amano Kagura<br>if you collapse in a dungeon after the weapon's seals change within a dungeon.</p>
+                  <dl>
+                    <dt>How to Obtain</dt>
+                    <dd>Found in the room to the right on the deepest floor of Firework Cannon.<br>If you lose the weapon, it can be found in the same room again.</dd>
+                  </dl>
                   <img src="../../image/weapon/amano_kagura.jpg" width="165" height="69">
                   <dl>
                     <dt>Locations</dt>
@@ -1186,8 +1190,10 @@
               <h3 id="fiery_fuuma">Fiery Fuuma (火迅風魔刀)</h3>
               <div class="detail-entry">
                 <div class="detail-section1">
-                  <p class="item_desc">Description Text.</p>
+                  <p class="item_desc">Weapon made by honing a Katana that has been upgraded to the limit.<br>The Katana must have an upgrade value of +99, and all seal slots must be filled.<br><br>It features higher base attack than Amano Kagura, but only has 4 synthesis slots.<br>It has equipment resonance with Helix Shield, but the effect is somewhat lackluster,<br>simply increasing base attack and defense by 5.<br><br>If you plan on using it, you'll want to synthesize some Fuuma Stones<br>to increase the number of synthesis slots.</p>
                   <dl>
+                    <dt>How to Obtain</dt>
+                    <dd>Hone a Katana+99 with all seal slots filled at the blacksmith.</dd>
                     <dt><a href="">Resonance</a></dt>
                     <dd><a href="/asuka/html/item/shields.html#helix_shield">Helix Shield</a> (+5 base attack and defense)</dd>
                   </dl>
@@ -1299,7 +1305,11 @@
               <h3 id="kaburasutegi">Kaburasutegi (秘剣カブラステギ)</h3>
               <div class="detail-entry">
                 <div class="detail-section1">
-                  <p class="item_desc">Description Text.</p>
+                  <p class="item_desc">Mythical sword that not even the legendary Kabura could make consistently.<br>Strongest weapon in the game, with no others coming close to its raw attack power.<br><a href="">Dark Flame's Challenge</a> is the only dungeon without carry-in items in which this<br>weapon can be made, so it's mostly restricted to dungeons with carry-in items.<br><br>It's made by synthesizing 8 specific seals onto a Manji-Kabura.<br>Manji-Kabura normally only has 6 slots, so you either synthesize Fuuma Stones<br>to increase the slot count, or clear <a href="">Koga's Hidden Hole</a> to obtain one with 8 slots.<br><br>Helix Shield also requires 8 slots, so it's best clear Koga's Hidden Hole to obtain<br>a Manji-Kabura or Fuuma Shield with 8 slots to use as a base,<br>and save Fuuma Stones for the other piece of equipment.<br><br>The DC version of Koga's Hidden Hole always rewards you with a Manji-Kabura,<br>while the PC version offers a random selection among Manji-Kabura,<br>Fuuma Shield, and Kengo's Katana.</p>
+                  <dl>
+                    <dt>How to Obtain</dt>
+                    <dd>Synthesize 竜, 月, 目, 水, 回, 仏, 捨, 木 onto a Manji-Kabura. (Seal order doesn't matter)<br>Manji-Kabura has a default slot count of 6 slots, so either synthesize 2 Fuuma Stones,<br>or use an 8 slot Manji-Kabura obtained from clearing Koga's Hidden Hole.</dd>
+                  </dl>
                   <img src="../../image/weapon/kaburasutegi.jpg" width="164" height="58">
                   <dl>
                     <dt>Locations</dt>
@@ -1405,8 +1415,36 @@
               </div>
             </div>
             <h2 id="type_effective_weapons">Type Effective Weapons</h2>
-            <p>Text</p>
-            <p>Table</p>
+            <p>The damage multiplier formula for stacked effects:</p>
+            <table id="table_multiplier" class="table_less_padding">
+              <thead>
+                <tr>
+                  <th>Seal</th>
+                  <th>1 ≦ n ≦ 16</th>
+                  <th>n = 17</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>仏, 水, 目, ド, 月</td>
+                  <td rowspan="2">x(1.5 + (n - 1) * 11 / 30 = (11n + 34) / 30)</td>
+                  <td>x14 ※1</td>
+                </tr>
+                <tr>
+                  <td>竜</td>
+                  <td>- ※2</td>
+                </tr>
+                <tr>
+                  <td>龍</td>
+                  <td>x(2 + (n - 1) * 16 / 30 = (16n + 44) / 30)</td>
+                  <td>x20 ※1</td>
+                </tr>
+              </tbody>
+            </table>
+            <ol class="table_notes">
+              <li>※1 : Double the multiplier of n = 16.</li>
+              <li>※2 : Weapon transforms into a Ryujin Sword, so 17 竜 seals is not possible.</li>
+            </ol>
             <div>
               <h3 id="ghost_sickle">Ghost Sickle (成仏のカマ)</h3>
               <div class="detail-entry">
