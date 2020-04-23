@@ -248,6 +248,12 @@ dt {
   font-size: 80%;
 }
 
+.table_stacked_effect td, 
+.table_stacked_effect th {
+  padding: 4px;
+  font-size: 75%;
+}
+
 .monster_kingdom_table td {
   text-align: left;
 }
