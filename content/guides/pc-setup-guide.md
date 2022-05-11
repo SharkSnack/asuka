@@ -44,9 +44,13 @@ This page provides instructions for installing the game + tools for item name tr
 1. After doing the previous steps, place the No CD Patch Program into the game's folder.
 2. Run the No CD Patch Program.
 
-# Item Translation
+##### If you're missing DirectX8
 
-<span class="redText">※ Item translation feature only works while you're inside a dungeon.</span>
+1. Download and install [DirectX End-User Runtimes (June 2010)](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+
+# Item Name Translation
+
+<span class="redText">※ Item name translation feature only works while you're inside a dungeon.</span>
 
 #### Downloads
 
