@@ -14,8 +14,8 @@ This page provides instructions for installing the game + tools for item name tr
 
 #### Downloads
 
-- [AsfPCN1800.exe](https://img.spike-chunsoft.co.jp/games/asukapc/dl/AsfPCN1800.zip) - This is the official offline update patch (ver1.7.0.0).
-- [AsukaPlus.0.9.1.0](https://asukaplus.blogspot.com/2018/08/asukaplus-0910.html) - Needed for Windows 10. (Download password: eb6KhFw2)
+- [AsfPCN1800.zip](https://img.spike-chunsoft.co.jp/games/asukapc/dl/AsfPCN1800.zip) - This is the official offline update patch (ver1.7.0.0). ([Source](https://www.spike-chunsoft.co.jp/games/asukapc/dl.html))
+- [AsukaPlus.0.9.1.0.zip](https://mega.nz/file/OSwHRAIS#xGtcYVENcVwjONab0GIZNZPMl31rNhIAEhiTMS7O-Gs) - Needed for Windows 10. ([Source](https://asukaplus.blogspot.com/2018/08/asukaplus-0910.html))
 - [asukanocd.zip](https://mega.nz/file/7SBlkKLZ#VfOE9xVTdgJnvxHPyZxLsNZ4WjZZk04R2ERhFyVRfdA) - No CD patch so you can play without the disc.
 
 #### Steps
@@ -29,20 +29,25 @@ This page provides instructions for installing the game + tools for item name tr
 
 1. Mount the ISO and go through the installer.
     - If the installer's text looks garbled, you didn't do the previous step.
+    - If you don't see a mount option, you can also extract the ISO using [7zip](https://www.7-zip.org/download.html) and run the setup file.
+    - Game folder location: Program Files (x86) → CHUNSOFT → AsukaPC
 
 ##### Update the game
 
-1. Run AsfPCN1800.exe to update the game to version 1.7.0.0.
+1. Extract the contents of AsfPCN1800.zip.
+2. Run AsfPCN1800.exe to update the game to version 1.7.0.0.
 
 ##### AsukaPlus
 
-1. Move d3d8.dll and Assist.plus from AsukaPlus.0.9.1.0.zip to the game's folder.
+1. Extract the contents of AsukaPlus.0.9.1.0.zip.
+2. Move d3d8.dll and Assist.plus from AsukaPlus.0.9.1.0.zip to the game's folder.
     - AsfPc.exe is used to start the game instead of Loader.exe now - update your shortcuts!
 
 ##### Apply the No CD patch
 
-1. After doing the previous steps, place the No CD Patch Program into the game's folder.
-2. Run the No CD Patch Program.
+1. After doing the previous steps, extract the contents of asukanocd.zip.
+2. Place the No CD Patch Program into the game's folder.
+3. Run the No CD Patch Program.
 
 ##### If you're missing DirectX8
 
@@ -54,14 +59,19 @@ This page provides instructions for installing the game + tools for item name tr
 
 #### Downloads
 
-- [AsukaTools](http://www.lapcie.com/index.php?page=AsukaTools) - Tool Suite for the game which includes an item name replacement feature. (Choose 安定)
+- [AsukaTools](http://www.lapcie.com/index.php?page=AsukaTools) - Tool Suite for the game which includes an item name replacement feature.
 - [ReplaceName.txt](https://raw.githubusercontent.com/SharkSnack/asuka/main/content/data/ReplaceName.txt) - Item name translations file. (Right-click → Save link as...)
 
 #### Steps
 
+##### AsukaTools
+
+1. The Download link is "Ver x.x.xxx (安定) Download" at the top of the page.
+
 ##### Setup ReplaceName
 
-1. Move ReplaceName.txt to the AsukaTools folder.
+1. Extract the contents of AsukaTools zip file.
+2. Move ReplaceName.txt to the AsukaTools folder.
 
 ##### Enable ReplaceName in AsukaHack
 
