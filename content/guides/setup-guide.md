@@ -4,7 +4,7 @@ metaTitle: "PC Version Setup Guide - Shiren Gaiden: Asuka Kenzan Wiki"
 metaDescription: "PC version setup guide for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
-This page provides instructions for installing the game + tools for item translations.
+This page provides instructions for installing the game + tools for item name translations.
 
 <span class="redText">※ The ISO for the game is not provided.</span>
 
