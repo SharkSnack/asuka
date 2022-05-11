@@ -40,13 +40,13 @@ This page provides instructions for installing the game + tools for item name tr
 ##### AsukaPlus
 
 1. Extract the contents of AsukaPlus.0.9.1.0.zip.
-2. Move d3d8.dll and Assist.plus from AsukaPlus.0.9.1.0.zip to the game's folder.
+2. Move d3d8.dll and Assist.plus from the AsukaPlus.0.9.1.0 folder to the game's folder.
     - AsfPc.exe is used to start the game instead of Loader.exe now - update your shortcuts!
 
 ##### Apply the No CD patch
 
 1. After doing the previous steps, extract the contents of asukanocd.zip.
-2. Place the No CD Patch Program into the game's folder.
+2. Move the No CD Patch Program from the asukanocd folder into the game's folder.
 3. Run the No CD Patch Program.
 
 ##### If you're missing DirectX8
