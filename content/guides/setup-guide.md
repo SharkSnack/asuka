@@ -51,7 +51,7 @@ This page provides instructions for installing the game + tools for item name tr
 #### Downloads
 
 - [AsukaTools](http://www.lapcie.com/index.php?page=AsukaTools) - Tool Suite for the game with includes an item name replacement feature. (Choose 安定)
-- [ReplaceName.txt](/data/ReplaceName.txt) - Item name translations file.
+- [ReplaceName.txt](https://raw.githubusercontent.com/SharkSnack/asuka/main/content/data/ReplaceName.txt) - Item name translations file. (Shift-JIS encoding)
 
 #### Steps
 
