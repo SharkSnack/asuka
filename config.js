@@ -53,7 +53,7 @@ const config = {
     title: 'Shiren Gaiden: Asuka Kenzan Wiki | SharkSnack',
     description: 'Documentation built with mdx.',
     ogImage: null,
-    docsLocation: 'https://github.com/sharksnack/asuka/tree/master/content',
+    docsLocation: 'https://github.com/sharksnack/asuka/tree/main/content',
     favicon: 'https://raw.githubusercontent.com/SharkSnack/asuka/master/src/components/images/favicon-32x32.png',
   },
   pwa: {

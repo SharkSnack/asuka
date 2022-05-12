@@ -1167,6 +1167,12 @@ export const baseStyles = css`
   .highlightFog {
     background-color: #dbdbdb;
   }
+  .highlightDerivative1 {
+    background-color: paleturquoise;
+  }
+  .highlightDerivative2 {
+    background-color: lightskyblue;
+  }
   .monsterDay {
     background-color: #fffff6;
   }
