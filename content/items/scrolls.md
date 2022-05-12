@@ -259,7 +259,7 @@ metaDescription: "Complete scroll details for Shiren Gaiden: Onna Kenshi Asuka K
       <td>-</td>
       <td>1500</td>
       <td>750</td>
-      <td class="leftText">Relearn a secret technique that you've learned in the past.</td>
+      <td class="leftText">Relearn a secret skill that you've learned in the past.</td>
     </tr>
   </tbody>
 </table>

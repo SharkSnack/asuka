@@ -14,7 +14,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     - Derivative skills can be learned by using specific skills.
 - Skills are performed by spending spirit, which charges as turns elapse or you take damage.
 - Spirit Bracelet lets you perform skills outside of the 3 spirit dungeons.
-    - Trial of Kron, Soaring Bird's Challenge, Fight One Shot
+    - Trial of Kron (クロンの試練), Soaring Bird's Challenge (鳥飛魔天の挑戦), Fight One Shot (ファイト一発)
 - Scroll down to [Details](#details) for more information.
 
 # Summary
@@ -233,11 +233,11 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">受け返し</td>
-      <td class="highlightYellow">Parry</td>
+      <td class="highlightYellow">Counter</td>
       <td>4</td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Evasion.<br/>Reflect all enemy regular attacks during the turn this is used.</td>
+      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Evasion.<br/>Reflect all enemy direct attacks during the turn this is used.</td>
     </tr>
     <tr>
       <td class="highlightYellow">強弓</td>
@@ -576,6 +576,14 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
       <td class="leftText">Protects against sleep on the current floor.</td>
     </tr>
     <tr>
+      <td class="highlightYellow">心頭滅却</td>
+      <td class="highlightYellow">Zen</td>
+      <td>6</td>
+      <td>1500</td>
+      <td>750</td>
+      <td class="leftText">Protects against fire damage on the current floor.</td>
+    </tr>
+    <tr>
       <td class="highlightYellow">爆弾無効</td>
       <td class="highlightYellow">Nullify Blast</td>
       <td>2</td>
@@ -648,4 +656,76 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
 
 # Details
 
-[Content]
+#### What are Secret Skills?
+
+
+- Skills are special abilities Asuka can learn by reading skill scrolls.
+- Skills are performed by spending spirit, which charges as turns elapse or you take damage.
+- Only 3 dungeons have this spirit mechanic.
+    - Trial of Kron (クロンの試練), Soaring Bird's Challenge (鳥飛魔天の挑戦), Fight One Shot (ファイト一発)
+- Equipping a Spirit Bracelet lets you use skills in other dungeons.
+    - The Spirit Bracelet can be found on 17F of Trial of Kron (クロンの試練) after clearing the dungeon once.
+- One skill can be assigned to the special attack button by pressing the button in the skill menu.
+    - Projectiles and skills cannot be assigned to the special attack button at the same time.
+
+#### Charging Spirit
+
+- Spirit charges as turns elapse or you take damage.
+- The spirit meter has 10 stages, and the meter will glow when it's completely filled.
+    - Some 10 cost skills require a fully charged (glowing) spirit meter to be used.
+- Spirit charges faster the lower your HP is in Trial of Kron (クロンの試練) and Fight One Shot (ファイト一発).
+    - The number of turns needed to charge 1 spirit meter stage is based on remaining HP.
+    - HP &le; 5% takes 1 turn, HP between 5~10% takes 3 turns, HP between 75~100% takes 50 turns.
+    - It always takes 100 turns to reach full charge (glowing) after reaching stage 10.
+- Spirit also charges when you receive damage.
+    - Damage equal to 10% of your max HP = 1 spirit meter stage.
+- Entering a Monster House charges the spirit meter by 2 stages.
+
+#### Learning Skills
+
+- Skills are learned by reading skill scrolls. ([skill name]の秘技書).
+    - Skill scrolls are common in Trial of Kron (クロンの試練) and Soaring Bird's Challenge (鳥飛魔天の挑戦).
+    - Spirit is not consumed when performing a skill as a result of reading a skill scroll.
+    - Skill scrolls can be bought and sold, and the selling price is always 1/2 of the buying price.
+- Once learned, a skill can be used an unlimited number of times during the current adventure.
+- Asuka will normally forget all skills after the current adventure ends.
+    - However, there's a small chance to master a skill when it's used, and mastered skills are not forgotten.
+- The chance to master a skill is completely random.
+    - It may only take one use, or if you're unlucky, 100+ uses.
+    - Skills also have a chance to be mastered as a result of reading a skill scroll.
+    - Skills can be mastered even if the skill doesn't hit a target.
+
+#### Derivative Skills
+
+- Asuka has a chance to derive new skills as a result of using specific skills.
+- Derivative skills generally cost more spirit, but have boosted damage, range, or effects.
+- The chance to derive new skills is completely random, similar to mastering skills.
+    - Try to master derivative skills quickly so that you don't need to derive them again.
+- Some derivative skills can be found as skill scrolls.
+
+##### Derivative Skill List
+
+|Base Skill|Derivative 1|Derivative 2|
+|-|-|-|
+|Demon Lunge (鬼月)|Tackle (体当)|-|
+|Rock Break (岩石割り)|Rock Crush (岩石崩し)|-|
+|Spirit Throw (気合投げ)|Circle Throw (八方投げ)|-|
+|Spirit Bullet (気攻弾)|Spirit Wave (気攻裂波)|Piercing Wave (貫通裂波)|
+|Strong Toss (強肩)|Piercing Toss (遠投)|-|
+|Barrier (結界)|Invincibility (無敵)|-|
+|Swap (交錯)|Swap Strike (裏当て身)|Piercing Sword (通背剣)|
+|Cross Sword (四方剣)|Circle Sword (八方剣)|-|
+|Imprecation (呪詛)|Binding Curse (呪縛)|-|
+|Deep Breathing (深呼吸)|Metabolism (超代謝)|-|
+|Gitan Toss (銭投げ)|Coin Toss (小判投げ)|Big Coin Toss (大判投げ)|
+|Walrus Guard (トド守り)|Steal (懐盗)|-|
+|Cat Clap (猫だまし)|Tiger Clap (虎だまし)|-|
+|Silk Tree Palm (合歓掌)|Slumber Scent (春眠香)|-|
+|Ignite (発火)|Will-o-Wisp (鬼火)|Flame God (火神)|
+|Dodge (身かわし)|Rebound (跳返)|-|
+|Evasion (見切り)|Counter (受け返し)|-|
+|Lightning Sword (雷神剣)|Thunder (轟天雷)|-|
+
+<div class="tableNotes">
+  <p>※ Derivative 1 skills are learned by using base skills.<br/>※ Derivative 2 skills are learned by using derivative 1 skills.</p>
+</div>

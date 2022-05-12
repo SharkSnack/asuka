@@ -103,7 +103,7 @@ metaDescription: "Complete bracelet details for Shiren Gaiden: Onna Kenshi Asuka
     </tr>
     <tr>
       <td class="highlightYellow">ドレインよけの腕輪</td>
-      <td class="highlightYellow">Anti Drain Bracelet</td>
+      <td class="highlightYellow">Anti-Drain Bracelet</td>
       <td class="leftText">Protects you from Drain type monster special attacks.</td>
     </tr>
     <tr>
@@ -172,7 +172,7 @@ metaDescription: "Complete bracelet details for Shiren Gaiden: Onna Kenshi Asuka
     </tr>
     <tr>
       <td class="highlightYellow">ハラヘラズの腕輪</td>
-      <td class="highlightYellow">No Hunger Bracelet</td>
+      <td class="highlightYellow">Nirvana Bracelet</td>
       <td class="leftText">Stops natural fullness depletion.</td>
     </tr>
     <tr>
