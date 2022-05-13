@@ -16,7 +16,7 @@ This page provides instructions for installing the game + tools for item name tr
 
 - [AsfPCN1800.zip](https://img.spike-chunsoft.co.jp/games/asukapc/dl/AsfPCN1800.zip) - This is the official offline update patch (ver1.7.0.0). ([Source](https://www.spike-chunsoft.co.jp/games/asukapc/dl.html))
 - [AsukaPlus.0.9.1.0.zip](https://mega.nz/file/OSwHRAIS#xGtcYVENcVwjONab0GIZNZPMl31rNhIAEhiTMS7O-Gs) - Needed for Windows 10. ([Source](https://asukaplus.blogspot.com/2018/08/asukaplus-0910.html))
-- [asukanocd.zip](https://mega.nz/file/7SBlkKLZ#VfOE9xVTdgJnvxHPyZxLsNZ4WjZZk04R2ERhFyVRfdA) - No CD patch so you can play without the disc.
+- [asukanocd.zip](https://mega.nz/file/7SBlkKLZ#VfOE9xVTdgJnvxHPyZxLsNZ4WjZZk04R2ERhFyVRfdA) - No CD patch so you can play without the disc. ([Source](http://asuka.lsx3.com/?%A5%C4%A1%BC%A5%EB))
 
 #### Steps
 

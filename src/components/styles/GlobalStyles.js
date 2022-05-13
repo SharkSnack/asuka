@@ -645,18 +645,27 @@ export const baseStyles = css`
   }
   .priceTableMedium th {
     text-align: center;
-    padding: 2px;
+    padding: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
   }
   .priceTableMedium td {
     text-align: center;
-    padding: 2px;
-    font-size: 13.5px;
+    padding: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
   }
-  .priceTablePots th {
-    font-size: 13.5px;
+  .priceTableName {
+    text-align: left !important;
+    background-color: #f7f7f7;
   }
-  .priceTablePots td {
-    font-size: 13.5px;
+  .priceTableSmallerFont th {
+    font-size: 13px;
+    padding: 3px;
+  }
+  .priceTableSmallerFont td {
+    font-size: 13px;
+    padding: 3px;
   }
   .tableDivider {
     font-weight: normal;
@@ -1067,6 +1076,9 @@ export const baseStyles = css`
   }
   .highlightGray {
     background-color: #f3f3f3 !important;
+  }
+  .highlightDarkGray {
+    background-color: #dfdfdf !important;
   }
   .highlightYellow {
     background-color: #ffffe4 !important;
