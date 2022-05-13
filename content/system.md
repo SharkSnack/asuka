@@ -1,7 +1,7 @@
 ---
 title: "System"
-metaTitle: "System - Shiren the Wanderer: Tower of Fortune Wiki"
-metaDescription: "Gameplay Systems for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
+metaTitle: "System - Shiren Gaiden: Asuka Kenzan Wiki"
+metaDescription: "Gameplay Systems for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
 Click on individual sub pages.

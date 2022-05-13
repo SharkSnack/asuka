@@ -1,7 +1,7 @@
 ---
 title: "Dungeons"
-metaTitle: "Dungeons - Shiren the Wanderer: Tower of Fortune Wiki"
-metaDescription: "Dungeon List for Shiren the Wanderer: The Tower of Fortune and the Dice of Fate."
+metaTitle: "Dungeons - Shiren Gaiden: Asuka Kenzan Wiki"
+metaDescription: "Dungeon List for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
 Click on individual sub pages.
