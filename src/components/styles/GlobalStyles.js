@@ -825,6 +825,9 @@ export const baseStyles = css`
     text-align: center;
     padding: 3px;
   }
+  .itemListName {
+    text-align: left !important;
+  }
   .summaryTable th {
     text-align: center;
     padding: 1.5px;
@@ -1082,6 +1085,9 @@ export const baseStyles = css`
   }
   .highlightYellow {
     background-color: #ffffe4 !important;
+  }
+  .highlightYellow2 {
+    background-color: #eeeedc !important;
   }
   .highlightPink {
     background-color: #ffd3d3 !important;

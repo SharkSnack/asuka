@@ -13,7 +13,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
 - Read a skill scroll (秘技書) to have Asuka learn the corresponding secret skill.
     - Derivative skills can be learned by using specific skills.
 - Skills are performed by spending spirit, which charges as turns elapse or you take damage.
-- Spirit Bracelet lets you perform skills outside of the 3 spirit dungeons.
+- Spirit Bracelet (気力の腕輪) lets you perform skills outside of the 3 spirit dungeons.
     - Trial of Kron (クロンの試練), Soaring Bird's Challenge (鳥飛魔天の挑戦), Fight One Shot (ファイト一発)
 - Scroll down to [Details](#details) for more information.
 
@@ -663,7 +663,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
 - Skills are performed by spending spirit, which charges as turns elapse or you take damage.
 - Only 3 dungeons have this spirit mechanic.
     - Trial of Kron (クロンの試練), Soaring Bird's Challenge (鳥飛魔天の挑戦), Fight One Shot (ファイト一発)
-- Equipping a Spirit Bracelet lets you use skills in other dungeons.
+- Equipping a Spirit Bracelet (気力の腕輪) lets you use skills in other dungeons.
     - The Spirit Bracelet can be found on 17F of Trial of Kron (クロンの試練) after clearing the dungeon once.
 - One skill can be assigned to the special attack button by pressing the button in the skill menu.
     - Projectiles and skills cannot be assigned to the special attack button at the same time.

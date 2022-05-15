@@ -316,7 +316,7 @@
 ガマラの箱=Froggo
 ガマグッチの箱=Froggucci
 ガマゴンの箱=Froggon
-くねくねハニーの箱=Twitsy Hani
+くねくねハニーの箱=Twisty Hani
 ゲイズの箱=Gazer
 スーパーゲイズの箱=Super Gazer
 ハイパーゲイズの箱=Hyper Gazer
@@ -404,7 +404,7 @@
 パ王の箱=King Tusker
 パオパ王の箱=Monarch Tusker
 パオパ王ーンの箱=Emperor Tusker
-バッドカンガルーの箱=Bat Kangaroo
+バットカンガルーの箱=Bat Kangaroo
 エビルカンガルーの箱=Evil Kangaroo
 デビルカンガルーの箱=Devil Kangaroo
 タイガーウッホの箱=Tiger Tosser
@@ -422,7 +422,7 @@
 ラシャーガの箱=Lashagga
 オトト兵の箱=Spearfish
 オトト軍曹の箱=Lt. Spearfish
-オトト大将の箱=Cap. Spearfish
+オトト大将の箱=Capt. Spearfish
 オトト元帥の箱=Adm. Spearfish
 プチフェニックスの箱=Tiny Phoenix
 ボーンドラゴンの箱=Bone Dragon
@@ -431,9 +431,9 @@
 アイアンヘッドの箱=Ironhead
 チェインヘッドの箱=Chainhead
 ギガヘッドの箱=Gigahead
-ムーロンの箱=Mulon
-イェンロンの箱=Ienlon
-シンロンの箱=Shinlon
+ムーロンの箱=Muron
+イェンロンの箱=Yenron
+シンロンの箱=Shenron
 ジャガン仮面の箱=Jagan Mask
 ジャガー王子の箱=Jagar Prince
 ジャガール王の箱=Jagar King
@@ -448,8 +448,8 @@
 怪盗ペリカン３世の箱=Thief Pelican III
 怪盗ペリカン４世の箱=Thief Pelican IV
 よせカエルの箱=Tug Frog
-いまカエルの箱=Pull Frog
-すぐカエルの箱=Yank Frog
+すぐカエルの箱=Pull Frog
+いまカエルの箱=Yank Frog
 影ぼうしの箱=Shadow Hat
 黒ぼうしの箱=Black Hat
 闇ぼうしの箱=Dark Hat
