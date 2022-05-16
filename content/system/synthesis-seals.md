@@ -1,0 +1,624 @@
+---
+title: "Synthesis Seals"
+metaTitle: "Synthesis Seals - Shiren Gaiden: Asuka Kenzan Wiki"
+metaDescription: "Synthesis seal details for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
+---
+
+<br/>
+
+<span class="redText">※ English names might change as the translation project progresses.</span>
+
+# Overview
+
+Seals are special abilities that can be synthesized onto weapons or shields.
+
+Each seal is represented as single Japanese character, and the color depends on the source item.<br/>
+The 3 colors are: Equipment (blue), food/grass (green), and scroll/other (red).<br/>
+The 金 seal can be found in 2 colors, but unlike Shiren 2, the effect doesn't differ between colors.
+
+Generally seals make your adventure easier, but some are a double-edged sword<br/>or have an outright negative effect, so some care is needed.
+
+<ul class="quickLinksUL">
+  <li><a href="#rune-list">Rune List</a>
+    <ul>
+      <li><a href="#weapon">Weapon</a></li>
+      <li><a href="#shield">Shield</a></li>
+    </ul>
+  </li>
+  <li><a href="#stacked-effects">Stacked Effects</a>
+    <ul>
+      <li><a href="#weapon-stacking">Weapon</a></li>
+      <li><a href="#shield-stacking">Shield</a></li>
+    </ul>
+  </li>
+  <li><a href="#priority">Priority</a></li>
+</ul>
+
+#### Synthesis Methods
+
+- Insert items into a Synthesis Pot (合成の壺).
+- Throw items at a Thief Pelican (怪盗ペリカン).
+
+# Seal List
+
+- S = Whether or not the seal effect stacks if you synthesize multiple copies.
+
+### Weapon
+
+<table class="sealTable">
+  <tr>
+    <th>Seal</th>
+    <th>S</th>
+    <th>Item JP</th>
+    <th>Item EN</th>
+    <th>Effect</th>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">仏</td>
+    <td>○</td>
+    <td>成仏のカマ</td>
+    <td>Ghost Sickle</td>
+    <td>Deal x1.5 damage to Ghost types.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">水</td>
+    <td>○</td>
+    <td>マリンスラッシャー</td>
+    <td>Marine Slasher</td>
+    <td>Deal x1.5 damage to Aquatic types.<br/>Lets you hit underwater enemies.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">目</td>
+    <td>○</td>
+    <td>１ツ目殺し</td>
+    <td>Cyclops Killer</td>
+    <td>Deal x1.5 damage to Cyclops types.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">ド</td>
+    <td>○</td>
+    <td>ドレインバスター</td>
+    <td>Drain Buster</td>
+    <td>Deal x1.5 damage to Drain types.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">月</td>
+    <td>○</td>
+    <td>三日月刀</td>
+    <td>Crescent Arm</td>
+    <td>Deal x1.5 damage to Bomb types.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">竜</td>
+    <td>○</td>
+    <td>ドラゴンキラー</td>
+    <td>Dragon Killer</td>
+    <td>Deal x1.5 damage to Dragon types.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">龍</td>
+    <td>○</td>
+    <td>龍神剣</td>
+    <td>Ryujin Sword</td>
+    <td>Deal x2.0 damage to Dragon types.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">衰</td>
+    <td>○</td>
+    <td>衰弱の枝</td>
+    <td>Sapping Branch</td>
+    <td>Lower target's attack by 25%, inflict HP drain.<br/>Stacking only boosts HP drain effect.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">掘</td>
+    <td>×</td>
+    <td>つるはし</td>
+    <td>Pickaxe</td>
+    <td>Dig through walls, but weapon might break.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">三</td>
+    <td>×</td>
+    <td>妖刀かまいたち</td>
+    <td>Razor Wind</td>
+    <td>Attacks in 3 forward directions.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">銭</td>
+    <td>○</td>
+    <td>ガマラのムチ</td>
+    <td>Froggo Whip</td>
+    <td>Defeated enemies drop Gitan more often. (n/16)</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">根</td>
+    <td>○</td>
+    <td>根性の竹刀</td>
+    <td>Bamboo Sword</td>
+    <td>Increase strength by 1 every 100 swings.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">金</td>
+    <td>×</td>
+    <td>金の剣</td>
+    <td>Golden Sword</td>
+    <td>Upgrade value never decreases due to rust.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">に</td>
+    <td>○</td>
+    <td>にぎりへんげの剣</td>
+    <td>Onigiri Sword</td>
+    <td>Defeated enemies drop Onigiri more often. (19%)</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">必</td>
+    <td>×</td>
+    <td>必中の剣</td>
+    <td>Homing Blade</td>
+    <td>Direct attacks always connect.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">か</td>
+    <td>×</td>
+    <td>かつおぶし</td>
+    <td>Dried Bonito</td>
+    <td>Bite to replenish fullness by 30%.<br/>Biting decreases upgrade value by 1.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">車</td>
+    <td>×</td>
+    <td>車輪のやいば</td>
+    <td>Bladed Wheel</td>
+    <td>Weapon is not lost if thrown at other characters.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">背</td>
+    <td>×</td>
+    <td>背水の剣</td>
+    <td>Crisis Sword</td>
+    <td>Grants 100% accuracy and ensures a critical hit<br/>when your current HP is &le; 10% of max HP.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">回</td>
+    <td>×</td>
+    <td>回復の剣</td>
+    <td>Healing Sword</td>
+    <td>Restores HP equal to 1/3 of the damage dealt.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">ケ</td>
+    <td>×</td>
+    <td>ケンゴウのカタナ</td>
+    <td>Kengo's Katana</td>
+    <td>Chance to knock away a weapon when attacking.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">扇</td>
+    <td>○</td>
+    <td>鉄扇</td>
+    <td>Tessen</td>
+    <td>Increases shield base defense by 3.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">サ</td>
+    <td>×</td>
+    <td>サトリのつるはし</td>
+    <td>Wonder Pick</td>
+    <td>Dig through walls, weapon never breaks.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">捨</td>
+    <td>×</td>
+    <td>使い捨ての剣</td>
+    <td>Disposable Sword</td>
+    <td>Upgrade value -1 every time you deal damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">木</td>
+    <td>×</td>
+    <td>木づち</td>
+    <td>Mallet</td>
+    <td>Break traps, but weapon might break.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">会</td>
+    <td>×</td>
+    <td>ミノタウロスの斧</td>
+    <td>Minotaur's Axe</td>
+    <td>25% chance to land a x2.0 damage critical hit.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">薬</td>
+    <td>○</td>
+    <td>薬草</td>
+    <td>Herb</td>
+    <td>Direct attacks restore 1.875 HP (Rounded up).</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">弟</td>
+    <td>○</td>
+    <td>弟切草</td>
+    <td>Otogiriso</td>
+    <td>Direct attacks restore 3.5 HP (Rounded up).</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">命</td>
+    <td>×</td>
+    <td>命の草</td>
+    <td>Life Grass</td>
+    <td>No effect. (Required to make Healing Sword)</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">ち</td>
+    <td>○</td>
+    <td>ちからの種</td>
+    <td>Strength Seed</td>
+    <td>Increases weapon base attack by 2.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">火</td>
+    <td>○</td>
+    <td>火炎草<br/>ドラゴン草</td>
+    <td>Flame Grass<br/>Dragon Grass</td>
+    <td>Shoot flames when HP is full (10 damage).</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">幸</td>
+    <td>○</td>
+    <td>しあわせ草</td>
+    <td>Happy Grass</td>
+    <td>Enemies defeated by direct attacks grant x1.1 exp.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">天</td>
+    <td>○</td>
+    <td>天使の種</td>
+    <td>Angel Seed</td>
+    <td>Enemies defeated by direct attacks grant x1.5 exp.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">不</td>
+    <td>○</td>
+    <td>不幸の種</td>
+    <td>Unlucky Seed</td>
+    <td>Decreases weapon base attack by 10 + curse.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">超</td>
+    <td>○</td>
+    <td>超不幸の種</td>
+    <td>Disaster Seed</td>
+    <td>Swing the weapon to lose 1 level + curse.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">飯</td>
+    <td>○</td>
+    <td>おにぎり</td>
+    <td>Onigiri</td>
+    <td>Defeated enemies drop Onigiri more often. (n/32)</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">金</td>
+    <td>×</td>
+    <td>メッキの巻物</td>
+    <td>Plating Scroll</td>
+    <td>Upgrade value never decreases due to rust.</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">祓</td>
+    <td>×</td>
+    <td>おはらいの巻物</td>
+    <td>Purify Scroll</td>
+    <td>Weapon cannot be cursed.</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">眠</td>
+    <td>×</td>
+    <td>バクスイの巻物</td>
+    <td>Slumber Scroll</td>
+    <td>12.5% chance to inflict sleep status (5 turns).</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">識</td>
+    <td>×</td>
+    <td>識別の巻物</td>
+    <td>Identify Scroll</td>
+    <td>Direct attacks reveal invisible or disguised enemies.</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">帰</td>
+    <td>×</td>
+    <td>引き上げの巻物</td>
+    <td>Retreat Scroll</td>
+    <td>Weapon is not lost if Asuka collapses.<br/>Seal vanishes after use, no effect inside a pot.</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">銀</td>
+    <td>×</td>
+    <td>銀の矢</td>
+    <td>Silver Arrow</td>
+    <td>Direct attacks can hit enemies in walls.<br/>Weapon flies forever if thrown or disarmed by Kengo.</td>
+  </tr>
+</table>
+
+### Shield
+
+<table class="sealTable">
+  <tr>
+    <th>Seal</th>
+    <th>S</th>
+    <th>Item JP</th>
+    <th>Item EN</th>
+    <th>Effect</th>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">サ</td>
+    <td>×</td>
+    <td>サトリの盾</td>
+    <td>Nirvana Shield</td>
+    <td>Max fullness set to 1.<br/>Stops natural fullness depletion.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">皮</td>
+    <td>○</td>
+    <td>皮の盾</td>
+    <td>Leather Shield</td>
+    <td>Fullness depletes at half speed.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">見</td>
+    <td>×</td>
+    <td>見切りの盾</td>
+    <td>Evasive Shield</td>
+    <td>Evade monster direct attacks more often.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">山</td>
+    <td>×</td>
+    <td>やまびこの盾</td>
+    <td>Echo Shield</td>
+    <td>Reflect magic.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">祭</td>
+    <td>×</td>
+    <td>おまつりの盾</td>
+    <td>Festive Shield</td>
+    <td>+10 base defense per ally character present.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">ト</td>
+    <td>×</td>
+    <td>トドの盾</td>
+    <td>Walrus Shield</td>
+    <td>Your items and Gitan will never be stolen.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">金</td>
+    <td>×</td>
+    <td>金の盾</td>
+    <td>Golden Shield</td>
+    <td>Upgrade value never decreases due to rust.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">ゴ</td>
+    <td>×</td>
+    <td>ゴムバンの盾</td>
+    <td>Rubber Shield</td>
+    <td>Makes you immune to electric damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">銭</td>
+    <td>○</td>
+    <td>ガマラの盾</td>
+    <td>Froggo Shield</td>
+    <td>Gain Gitan equal to 10% of damage received.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">爆</td>
+    <td>○</td>
+    <td>地雷ナバリの盾</td>
+    <td>Blast Shield</td>
+    <td>Reduces explosion damage by 50%.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">バ</td>
+    <td>○</td>
+    <td>バトルカウンター</td>
+    <td>Counter Shield</td>
+    <td>Reflects 1/3 of damage received back at enemy.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">丼</td>
+    <td>○</td>
+    <td>どんぶりの盾</td>
+    <td>Bowl Shield</td>
+    <td>Replenish fullness by 1 when you take damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">身</td>
+    <td>×</td>
+    <td>身かわしの盾</td>
+    <td>Dodge Shield</td>
+    <td>Dodge all projectiles.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">返</td>
+    <td>×</td>
+    <td>(No Item)</td>
+    <td>(No Item)</td>
+    <td>Reflect all projectiles.<br/>Obtained by clearing 裏白蛇 on PC version.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">う</td>
+    <td>×</td>
+    <td>うろこの盾</td>
+    <td>Scale Shield</td>
+    <td>Prevents strength loss from poisons and slug licks.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">幸</td>
+    <td>○</td>
+    <td>しあわせの盾</td>
+    <td>Happy Shield</td>
+    <td>Gain exp equal to 20% of damage received.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">不</td>
+    <td>×</td>
+    <td>不動の盾</td>
+    <td>Steady Shield</td>
+    <td>Nullifies movement effects.<br/>Fullness depletes at double speed.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">竜</td>
+    <td>○</td>
+    <td>ドラゴンシールド</td>
+    <td>Dragon Shield</td>
+    <td>Reduces fire damage by 50%.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">重</td>
+    <td>×</td>
+    <td>重装の盾</td>
+    <td>Heavy Shield</td>
+    <td>Fullness depletes at double speed.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">正</td>
+    <td>×</td>
+    <td>正面戦士の盾</td>
+    <td>Frontal Shield</td>
+    <td>Defense x2.0 against attacks from 3 forward directions.<br/>Defense is 0 against attacks coming from all other<br/>directions while also doubling damage received.</td>
+  </tr>
+  <tr>
+    <td class="highlightLightblue">捨</td>
+    <td>×</td>
+    <td>使い捨ての盾</td>
+    <td>Disposable Shield</td>
+    <td>Upgrade value -1 every time you take damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">薬</td>
+    <td>○</td>
+    <td>薬草</td>
+    <td>Herb</td>
+    <td>Restore 1.875 HP (Rounded up) after taking damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">弟</td>
+    <td>○</td>
+    <td>弟切草</td>
+    <td>Otogiriso</td>
+    <td>Restore 3.5 HP (Rounded up) after taking damage.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">命</td>
+    <td>○</td>
+    <td>命の草</td>
+    <td>Life Grass</td>
+    <td>Increases shield base defense by 3.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">消</td>
+    <td>×</td>
+    <td>毒消し草</td>
+    <td>Antidote Grass</td>
+    <td>Prevents strength loss from poisons and slug licks.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">火</td>
+    <td>○</td>
+    <td>火炎草<br/>ドラゴン草</td>
+    <td>Flame Grass<br/>Dragon Grass</td>
+    <td>Reduces fire damage by 10%.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">幸</td>
+    <td>○</td>
+    <td>しあわせ草</td>
+    <td>Happy Grass</td>
+    <td>Gain exp equal to 15% of damage received.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">天</td>
+    <td>○</td>
+    <td>天使の種</td>
+    <td>Angel Seed</td>
+    <td>Gain exp equal to 40% of damage received.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">不</td>
+    <td>○</td>
+    <td>不幸の種</td>
+    <td>Unlucky Seed</td>
+    <td>Decreases shield base defense by 3 + curse.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">超</td>
+    <td>○</td>
+    <td>超不幸の種</td>
+    <td>Disaster Seed</td>
+    <td>Lose 1 level every time you get hit + curse.</td>
+  </tr>
+  <tr>
+    <td class="highlightGreen">飯</td>
+    <td>○</td>
+    <td>おにぎり</td>
+    <td>Onigiri</td>
+    <td>Chance to turn into an Onigiri when hit. (n/16)</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">金</td>
+    <td>×</td>
+    <td>メッキの巻物</td>
+    <td>Plating Scroll</td>
+    <td>Upgrade value never decreases due to rust.</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">祓</td>
+    <td>×</td>
+    <td>おはらい巻物</td>
+    <td>Purify Scroll</td>
+    <td>Shield cannot be cursed.</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">眠</td>
+    <td>○</td>
+    <td>バクスイの巻物</td>
+    <td>Slumber Scroll</td>
+    <td>Chance to put enemy to sleep when you get hit. (n/16)</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">識</td>
+    <td>×</td>
+    <td>識別の巻物</td>
+    <td>Identify Scroll</td>
+    <td>Reveals invisible or disguised monsters when hit.</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">帰</td>
+    <td>×</td>
+    <td>引き上げの巻物</td>
+    <td>Retreat Scroll</td>
+    <td>Shield is not lost if Asuka collapses.<br/>Seal vanishes after use, no effect inside a pot.</td>
+  </tr>
+  <tr>
+    <td class="highlightPink">銀</td>
+    <td>×</td>
+    <td>銀の矢</td>
+    <td>Silver Arrow</td>
+    <td>Shield flies forever if thrown or disarmed by Kengo.</td>
+  </tr>
+</table>
+
+# Stacked Effects
+
+<h3 id="weapon-stacking">Weapon</h3>
+
+
+
+<h3 id="shield-stacking">Shield</h3>
+
+

@@ -962,21 +962,20 @@ export const baseStyles = css`
     background-color: #4f597a;
     color: lightgray;
   }
+  .sealTable td:nth-of-type(1){
+    text-align: center;
+  }
   .sealTable td:nth-of-type(2){
     text-align: center;
   }
   .sealTable th {
-    padding: 3px;
+    text-align: center;
+    padding-left: 3.5px;
+    padding-right: 3.5px;
   }
   .sealTable td {
-    padding: 3px;
-  }
-  .sealTableCentered th {
-    padding: 3px;
-    text-align: center;
-  }
-  .sealTableCentered td {
-    padding: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
   }
   .tableNotes p {
     font-size: 13px;
