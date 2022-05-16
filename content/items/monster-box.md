@@ -10,7 +10,18 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
 
 # Overview
 
-- 
+- Monster boxes are like a combination of monster meat (Shiren 1) and monster pots (Shiren 2).
+    - Push (押す) or throw (投げる) to activate the box and have the monster fight alongside you as an ally.
+    - Wear (装着) the box to have Asuka transform into the monster.
+- Wearing a monster box lets you use that monster's special attack (とくぎ).
+    - Asuka's stats will also change to the monster box's stats.
+- Monster box allies earn exp and level up by defeating enemies.
+    - Once a box reaches its level limit, Kichizo (キチゾー) or Baribari (バリバリ) can upgrade its rank.
+- Register monster boxes with Mr. Gen (ゲンさん) to avoid permanently losing them if you collapse.
+    - He's the green NPC inside the storage facility.
+- They're mostly found in Trial of Bufu (ブフーの試練) and Skeleton's Challenge (骨心魔天の挑戦).
+    - The boxes you find are generally Lv1 versions of the current floor's monster table.
+- Scroll down to [Details](#details) for more information.
 
 # Summary
 
@@ -33,7 +44,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
   </thead>
   <tbody>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Normal</td>
+      <td colspan="12" class="highlightNormal">Normal</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow">ガマラ</td>
@@ -317,7 +328,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td class="highlightGray">22500</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Level Up</td>
+      <td colspan="12" class="highlightLevel">Level Up</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow">火炎入道</td>
@@ -362,7 +373,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td>1600</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Weapon</td>
+      <td colspan="12" class="highlightWeapon">Weapon</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">鬼面武者</td>
@@ -539,7 +550,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td class="highlightGray">30000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Projectile</td>
+      <td colspan="12" class="highlightProjectile">Projectile</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow">馬武者</td>
@@ -675,7 +686,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td>29000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Magic</td>
+      <td colspan="12" class="highlightMagic">Magic</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">うしわか丸</td>
@@ -798,7 +809,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td class="highlightGray">17000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Item Change</td>
+      <td colspan="12" class="highlightItem">Item Change</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow">にぎりみならい</td>
@@ -894,7 +905,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td class="highlightGray">15000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Misc.</td>
+      <td colspan="12" class="highlightMisc">Misc.</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow">怪盗ペリカン</td>
@@ -1018,7 +1029,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td class="highlightGray">25000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Dragon</td>
+      <td colspan="12" class="highlightDragon">Dragon</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow">シャーガ</td>
@@ -1221,7 +1232,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td>32000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Ghost</td>
+      <td colspan="12" class="highlightGhost">Ghost</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">エーテルデビル</td>
@@ -1437,7 +1448,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td class="highlightGray">34000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Cyclops</td>
+      <td colspan="12" class="highlightCyclops">Cyclops</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow">アイアンヘッド</td>
@@ -1560,7 +1571,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td>15000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Bomb</td>
+      <td colspan="12" class="highlightBomb">Bomb</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">ダイキライ</td>
@@ -1656,7 +1667,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td>17000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Drain</td>
+      <td colspan="12" class="highlightDrain">Drain</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">くねくねハニー</td>
@@ -1832,7 +1843,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
       <td>20000</td>
     </tr>
     <tr>
-      <td colspan="12" class="highlightDarkGray">Aquatic</td>
+      <td colspan="12" class="highlightAquatic">Aquatic</td>
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">オトト兵</td>
@@ -2009,3 +2020,189 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
   </tbody>
 </table>
+
+# Details
+
+#### Monster Box
+
+- The monster inside the box has nearly identical abilities as the monster it's based on.
+- Push (押す) or throw (投げる) to activate the box and have the monster fight alongside you as an ally.
+- Wear (装着) the box to have Asuka transform into the monster.
+- The number next to a monster box's name indicates its current HP.
+    - HP is not displayed if the monster box is for sale in a shop.
+- Monster boxes cannot be used if they have &le; 50% HP (yellow name), or become cursed (blue name).
+    - In other words, it can't be worn or activated as an ally.
+- Monster boxes regenerate HP while they're in Asuka's inventory.
+    - HP regen rate is equal to 1% of their max HP per turn.
+    - Broken monster boxes (0 HP) will not regenerate HP.
+- Broken monster boxes are auto-repaired when you exit a dungeon.
+    - They can also be repaired by Baribari (バリバリ) inside a dungeon.
+    - Baribari (バリバリ) appears in Trial of Bufu (ブフーの試練) and Skeleton's Challenge (骨心魔天の挑戦).
+- Monster boxes cannot be inserted into pots.
+- Blessed monster boxes have swift action speed.
+    - The only box with this possibility is Tiny Phoenix (プチフェニックス) from White Snake Isle (白蛇島).
+    - This goes without saying, but the blessing is removed if the monster box becomes cursed.
+
+#### Training
+
+- Monster box allies earn exp when they deal the finishing blow to a monster.
+    - The monster box does not gain exp if Asuka wears the box and defeats enemies.
+- Max HP and attack power increase as monster boxes level up.
+    - Defense does not increase.
+- The stat growth rate is always the same between monster boxes.
+    - Example: Level any Lv99 limit monster box to Lv99 and it will gain 392 max HP and 70 attack power.
+- ...Except for Silver Mamel, Ghost Warrior, Inferno, Kigny, and N'dubba.
+    - Max HP doesn't increase as Silver Mamel or Ghost Warrior levels up, and only gain 5 HP from HP Circuits.
+    - Inferno and Kigny boxes gain attack power at the same rate as enemy Inferno and Kigny.
+    - N'dubba's attack power begins to decrease from old age from Lv70, but max HP keeps increasing.
+    - Due to a glitch, stats don't increase as Inferno, Kigny, and N'dubba boxes level up in the Dreamcast version.
+- Monster boxes only require 1/2 the amount of exp Asuka needs to level up.
+- Monster boxes can be upgraded to their next rank once they reach their level limit.
+    - Example: Mamel Box (max level) → Pit Mamel Box.
+    - This is done by talking to Kichizo (キチゾー) in the upper right shop in Yakagura Forest (八神楽の森).
+    - Baribari (バリバリ) can upgrade in Trial of Bufu (ブフーの試練) or Skeleton's Challenge (骨心魔天の挑戦).
+
+##### Monster Box Exp Chart
+
+|Lv|Total|Lv|Total|Lv|Total|Lv|Total|
+|-|-|-|-|-|-|-|-|
+|5 |   50|25|  8,000|49|350,000|70|  925,000|
+|10|  365|30| 26,000|50|375,000|99|1,795,000|
+|15|1,200|35| 60,000|60|625,000|||
+|20|3,000|40|135,000|66|805,000|||
+
+#### Abilities, Status Conditions
+
+- Monster boxes are immune to electric damage.
+- Enraged (イカリ) status doubles the monster box's strength (ちから) - NOT attack power (攻撃力).
+    - Attack power increases as a monster box levels up, but strength does not.
+    - Therefore, monsters with high strength benefit the most from Enraged status.
+- Monster boxes afflicted with Onigiri (おにぎり) status can't use their special attack, but all else is normal.
+    - Attack power, defense, circuit effects, action speed, innate characteristics are unchanged.
+    - If a monster box becomes afflicted with Onigiri status on a water tile, it'll warp.
+
+#### How to Obtain
+
+##### Trial of Bufu (ブフーの試練), Skeleton's Challenge (骨心魔天の挑戦)
+
+- Found either on the ground or inside dungeon shops.
+- The boxes you find are generally Lv1 versions of the current floor's monster table.
+    - Higher rank boxes of Mutaikon and Bow Boy families can be found on the ground.
+- Clearing Skeleton's Challenge (骨心魔天の挑戦) rewards you with a random Lv3-4 monster box.
+
+##### Other Methods
+
+- Overworld
+    - Monster box shop (でんでん堂) in Yakagura Forest (八神楽の森).
+    - Karakuri shop (からくや) in Matagi Village (マタギ村).
+    - Shop in Gennou Village (ゲンノウ村) in Trial of Reeva (リーバの試練).
+- Baribari (バリバリ)
+    - Either be given monster boxes during events, or purchase them from him in dungeons.
+- Other Dungeons
+    - Tiny Phoenix Box - White Snake Isle (白蛇島) shops.
+    - Dragon Box - Firework Cannon (星華の大筒) shops.
+    - Random box you haven't registered yet - Every 200F in Dark Flame's Challenge (冥炎魔天の挑戦).
+- Online service daily present
+    - Service ended August 31st, 2002.
+
+#### Circuits
+
+- Circuits (回路) act as equipment to augment the stats and abilities of monster box allies.
+    - Increase the amount of damage you deal, nullify magic received, etc.
+    - Some circuits require 2\~3 copies to be installed before taking effect. (必要枚数)
+- Install circuits by selecting Insert (入れる) on a monster box → select circuit to install.
+- Once installed, circuits can only be uninstalled by Kichizo (キチゾー) or Baribari (バリバリ).
+- Circuits take effect both as a monster box ally and while Asuka is wearing the monster box.
+- Monster boxes have limited circuit slots, which cannot be increased.
+- Nigiri Novice (にぎりみならい) type monster boxes will instantly break if hit by an onigiri item.
+    - This applies even if you have the Dodge (身かわし) circuit installed.
+    - Reflect (はね返し) circuit will reflect the onigiri item.
+- When selling circuits, install them in monster boxes that are for sale to double their value.
+
+#### Wearing
+
+- Select Wear (装着) to have Asuka wear the selected monster box.
+- Asuka's appearance and stats change to the monster box's appearance and stats.
+    - The monster box's special attack can be used by selecting Ability (とくぎ) in the menu,<br/>or by pressing the special attack button.
+- Fullness rapidly depletes while wearing a monster box.
+    - Fullness -1% every 2 actions.
+- Asuka's equipment is nullified while wearing a monster box.
+    - However, Substitute Bracelet (身代わりの腕輪) still takes effect if you collapse.
+- Items can't be picked up, traps won't activate, and you can't use stairs while wearing a monster box.
+- Damage received is applied toward the monster box's HP instead of Asuka's HP.
+    - If the monster box's HP falls to 0, the box breaks and Asuka also collapses.
+    - Revival Grass (復活の草) and Substitute Bracelet (身代わりの腕輪) will still revive her.
+    - Asuka is safe if hit by an Extinction Scroll (ねだやしの巻物), but the monster box breaks.
+- Open the menu and select Return (もどる) to unequip the monster box.
+    - The monster box falls to the ground underfoot.
+    - If there's no room on the ground, the monster box will vanish.
+- Asuka returns to her status before the monster box was worn after selecting Return (もどる).
+    - Current HP, status conditions, etc.
+    - If you became confused as a monster box, unequip it to instantly cure the confusion.
+    - There may be some status conditions like Bind status that persist.
+    - Lingering secret skill effects will be reset.
+- Cursed monster boxes cannot be worn.
+
+#### Monster Box Ally
+
+- Activate a monster box and have it fight as an ally by selecting Push (押す) or Throw (投げる).
+    - The ally limit is 5 characters, including NPCs like Minamo.
+    - Unlike Shiren 2, the monster ally won't always use its special attack on the turn it appears.
+- Monster box allies activate when you Throw (投げる) them at a creature or wall.
+    - The monster box is not lost if thrown at a creature - it deals 1\~2 damage, then the box activates.
+    - The box is lost if thrown at an Inferno, or if thrown while a Pierce Bracelet is equipped.
+- Enemy monsters level up when they defeat a monster box ally.
+- The monster box is lost if you change floors while a monster box ally is outside its box.
+    - This includes using the stairs, falling in a pitfall, etc.
+- Monster box ally stat gains reset when they return to their box.
+    - Don't use Strength Seed, Life Grass, etc. on them - it's just a waste of items.
+
+#### Registering
+
+- Talk to Mr. Gen (ゲンさん) inside the storage to register and organize monster boxes.
+- Only 1 monster box can be registered per monster family.
+    - Mamel and Silver Mamel are considered different monster families.
+- Registered boxes return to the Display Case (陳列ケース) if you collapse or otherwise lose them.
+    - There's no penalty for losing a monster box.
+    - Never suspend on a floor where a registered box was stolen by a Zalokleft or Thief Pelican.<br/>The box won't return to the display case, and you won't be able to unregister that monster family.<br/>In other words, you'll need to create a new save file if you want to register that family again.
+- You can read descriptions for monster boxes you've registered by selecting View (観覧).
+    - This list is how you can keep track of your collection if aiming for 100%.
+    - Boxes that ranked up must be unregistered once and then registered again to count.
+        - Ex: Register Mamel → Upgrade it into a Pit Mamel → Unregister Pit Mamel → Register Pit Mamel.
+- Registered boxes cannot be sold in shops.
+
+# Completion
+
+<span class="redText">※ Sheriff and Guard Dog are PC version exclusives.</span>
+
+Monster boxes are mostly found in Trial of Bufu (ブフーの試練) and Skeleton's Challenge (骨心魔天の挑戦).<br/>The boxes found on the ground are generally Lv1 versions of the current floor's monster table,<br/>but some boxes are shop-exclusive or have special methods to obtain them.
+
+#### Easy to Miss
+
+- Infero, Twisty Hani
+    - Narrow floor range - 17\~19F of Trial of Bufu (ブフーの試練).
+- Mutaikon
+    - Only found on floors where Mutaikon appears - 11\~12F of Trial of Bufu (ブフーの試練).
+        - To be clear, Mutaikon Box can't be found on floors where Dazikon or Dozikon appear.
+
+#### Special Methods
+
+- Silver Mamel
+    - Synthesize a Cave Mamel Box (Lv99) + Fuuma Stone (風魔石) using a Thief Pelican (怪盗ペリカン).
+- Sheriff
+    - Trial of Bufu (ブフーの試練) - 99F clear reward.
+    - Skeleton's Challenge (骨心魔天の挑戦) - 50F+ shops.
+- Ether Devil
+    - Purchase from Baribari (バリバリ) inside the Rescue Branch in Yakagura Forest (八神楽の森)<br/>after going through all Baribari events. (No unlock event, costs 24,000 Gitan)
+    - Can also be found in dungeon shops.
+
+#### Shop Exclusive
+
+|Monster Box|Bufu|Skeleton|Other|
+|-|-|-|-|
+|Ghost Warrior|20-99F|20-99F|-|
+|Rocket Boar  |30-99F|20-99F|-|
+|Thief Pelican|60-69F| 1-50F|Can obtain as rescue reward|
+|Dragon       |80-99F|50-99F|Firework Cannon - 29-36F|
+|Guard Dog    |90-99F|50-99F|-|
+|Tiny Phoenix |     -| 1-99F|White Snake Isle - 41-99F<br/>10,000 Steps - 41-99F<br/>10,000 Exp - 41-99F<br/>Avidya Hell - 41-99F|

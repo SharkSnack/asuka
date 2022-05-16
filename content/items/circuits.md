@@ -10,11 +10,11 @@ metaDescription: "Complete monster box circuit details for Shiren Gaiden: Onna K
 
 # Overview
 
-- Circuits act as equipment to augment the stats and abilities of monster box allies.
+- Circuits (回路) act as equipment to augment the stats and abilities of monster box allies.
     - They're represented as a single Japanese character, similar to synthesis seals.
-- Some circuits require multiple copies to be installed before the effect activates.
+- Some circuits require 2\~3 copies to be installed before taking effect. (必要枚数)
 - Installing multiple copies of a circuit can boost the effect, but some effects don't stack.
-- Once installed, circuits can only be uninstalled by キチゾー or バリバリ.
+- Once installed, circuits can only be uninstalled by Kichizo (キチゾー) or Baribari (バリバリ).
 
 # Summary
 

@@ -1191,6 +1191,45 @@ export const baseStyles = css`
   .highlightDerivative2 {
     background-color: lightskyblue;
   }
+  .highlightNormal {
+    background-color: #dfdfdf !important;
+  }
+  .highlightLevel {
+    background-color: #eafffb !important;
+  }
+  .highlightWeapon {
+    background-color: #baceec !important;
+  }
+  .highlightProjectile {
+    background-color: #e9ffa6 !important;
+  }
+  .highlightMagic {
+    background-color: #e8d9ff !important;
+  }
+  .highlightItem {
+    background-color: #d1c4ff !important;
+  }
+  .highlightMisc {
+    background-color: #f8feff !important;
+  }
+  .highlightDragon {
+    background-color: #b0d7ac !important;
+  }
+  .highlightGhost {
+    background-color: #fcffaf !important;
+  }
+  .highlightCyclops {
+    background-color: #c8ffc8 !important;
+  }
+  .highlightBomb {
+    background-color: #ffdb9a !important;
+  }
+  .highlightDrain {
+    background-color: #ffdae0 !important;
+  }
+  .highlightAquatic {
+    background-color: #d9ebff !important;
+  }
   .monsterDay {
     background-color: #fffff6;
   }
