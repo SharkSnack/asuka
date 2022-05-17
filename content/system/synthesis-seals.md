@@ -19,7 +19,7 @@ The 金 seal can be found in 2 colors, but unlike Shiren 2, the effect doesn't d
 Generally seals make your adventure easier, but some are a double-edged sword<br/>or have an outright negative effect, so some care is needed.
 
 <ul class="quickLinksUL">
-  <li><a href="#rune-list">Rune List</a>
+  <li><a href="#seal-list">Seal List</a>
     <ul>
       <li><a href="#weapon">Weapon</a></li>
       <li><a href="#shield">Shield</a></li>
@@ -31,7 +31,6 @@ Generally seals make your adventure easier, but some are a double-edged sword<br
       <li><a href="#shield-stacking">Shield</a></li>
     </ul>
   </li>
-  <li><a href="#priority">Priority</a></li>
 </ul>
 
 #### Synthesis Methods
@@ -615,10 +614,819 @@ Generally seals make your adventure easier, but some are a double-edged sword<br
 
 # Stacked Effects
 
+Synthesizing multiple copies of the same seal can boost the effects of certain seals.
+
+Common questions:
+
+- Does having multiple 回 seals restore more HP? → No, only use 1 回 seal.
+- Does having multiple 弟 seals restore more HP? → Yes, multiple 弟 restores more HP.
+- Do the same seals have to be next to each other to stack? → No, order doesn't matter.
+
 <h3 id="weapon-stacking">Weapon</h3>
 
-
+<table class="itemListCentered">
+  <tr>
+    <th>Seal</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+    <th>17</th>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">仏水<br/>目ド<br/>月竜</td>
+    <td>1.50</td>
+    <td>1.86</td>
+    <td>2.23</td>
+    <td>2.60</td>
+    <td>2.96</td>
+    <td>3.33</td>
+    <td>3.70</td>
+    <td>4.06</td>
+    <td>4.43</td>
+    <td>4.80</td>
+    <td>5.16</td>
+    <td>5.53</td>
+    <td>5.90</td>
+    <td>6.26</td>
+    <td>6.63</td>
+    <td>7.00</td>
+    <td>14.00</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Damage (multiplier). 竜 only goes up to 16.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">龍</td>
+    <td>2.00</td>
+    <td>2.53</td>
+    <td>3.06</td>
+    <td>3.60</td>
+    <td>4.13</td>
+    <td>4.66</td>
+    <td>5.20</td>
+    <td>5.73</td>
+    <td>6.26</td>
+    <td>6.80</td>
+    <td>7.33</td>
+    <td>7.86</td>
+    <td>8.40</td>
+    <td>8.93</td>
+    <td>9.46</td>
+    <td>10.00</td>
+    <td>20.00</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Damage (multiplier).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">衰</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">HP loss per turn.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">銭</td>
+    <td>1/16</td>
+    <td>2/16</td>
+    <td>3/16</td>
+    <td>4/16</td>
+    <td>5/16</td>
+    <td>6/16</td>
+    <td>7/16</td>
+    <td>8/16</td>
+    <td>9/16</td>
+    <td>10/16</td>
+    <td>11/16</td>
+    <td>12/16</td>
+    <td>13/16</td>
+    <td>14/16</td>
+    <td>15/16</td>
+    <td>16/16</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Chance enemy drops Gitan (%).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">根</td>
+    <td>100</td>
+    <td>50</td>
+    <td>34</td>
+    <td>25</td>
+    <td>20</td>
+    <td>17</td>
+    <td>15</td>
+    <td>13</td>
+    <td>12</td>
+    <td>10</td>
+    <td>10</td>
+    <td>9</td>
+    <td>8</td>
+    <td>8</td>
+    <td>7</td>
+    <td>7</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Number of swings to increase strength.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">に</td>
+    <td>19</td>
+    <td>30</td>
+    <td>59</td>
+    <td>82</td>
+    <td>96</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>100</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Chance enemy drops an Onigiri (%).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">扇</td>
+    <td>3</td>
+    <td>6</td>
+    <td>9</td>
+    <td>12</td>
+    <td>15</td>
+    <td>18</td>
+    <td>21</td>
+    <td>24</td>
+    <td>27</td>
+    <td>30</td>
+    <td>33</td>
+    <td>36</td>
+    <td>39</td>
+    <td>42</td>
+    <td>45</td>
+    <td>48</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Shield base defense increase.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">薬</td>
+    <td>2</td>
+    <td>4</td>
+    <td>6</td>
+    <td>8</td>
+    <td>10</td>
+    <td>12</td>
+    <td>14</td>
+    <td>15</td>
+    <td>17</td>
+    <td>19</td>
+    <td>21</td>
+    <td>23</td>
+    <td>25</td>
+    <td>27</td>
+    <td>29</td>
+    <td>30</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Amount of HP restored.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">弟</td>
+    <td>4</td>
+    <td>7</td>
+    <td>11</td>
+    <td>14</td>
+    <td>18</td>
+    <td>21</td>
+    <td>25</td>
+    <td>28</td>
+    <td>31</td>
+    <td>34</td>
+    <td>38</td>
+    <td>41</td>
+    <td>45</td>
+    <td>48</td>
+    <td>52</td>
+    <td>55</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Amount of HP restored.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">ち</td>
+    <td>2</td>
+    <td>4</td>
+    <td>6</td>
+    <td>8</td>
+    <td>10</td>
+    <td>12</td>
+    <td>14</td>
+    <td>16</td>
+    <td>18</td>
+    <td>20</td>
+    <td>22</td>
+    <td>24</td>
+    <td>26</td>
+    <td>28</td>
+    <td>30</td>
+    <td>32</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Weapon base attack increase.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">火</td>
+    <td>10</td>
+    <td>14</td>
+    <td>18</td>
+    <td>22</td>
+    <td>26</td>
+    <td>30</td>
+    <td>34</td>
+    <td>38</td>
+    <td>42</td>
+    <td>46</td>
+    <td>50</td>
+    <td>54</td>
+    <td>58</td>
+    <td>62</td>
+    <td>66</td>
+    <td>70</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Fire damage.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">幸</td>
+    <td>1.10</td>
+    <td>1.37</td>
+    <td>1.65</td>
+    <td>1.92</td>
+    <td>2.19</td>
+    <td>2.45</td>
+    <td>2.74</td>
+    <td>3.01</td>
+    <td>3.29</td>
+    <td>3.56</td>
+    <td>3.83</td>
+    <td>4.11</td>
+    <td>4.38</td>
+    <td>4.65</td>
+    <td>4.92</td>
+    <td>5.20</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Experience points (multiplier).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">天</td>
+    <td>1.50</td>
+    <td>1.79</td>
+    <td>2.07</td>
+    <td>2.36</td>
+    <td>2.65</td>
+    <td>2.93</td>
+    <td>3.22</td>
+    <td>3.51</td>
+    <td>3.79</td>
+    <td>4.08</td>
+    <td>4.37</td>
+    <td>4.65</td>
+    <td>4.94</td>
+    <td>5.23</td>
+    <td>5.51</td>
+    <td>5.80</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Experience points (multiplier).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">不</td>
+    <td>10</td>
+    <td>15</td>
+    <td>20</td>
+    <td>25</td>
+    <td>30</td>
+    <td>35</td>
+    <td>40</td>
+    <td>45</td>
+    <td>50</td>
+    <td>55</td>
+    <td>60</td>
+    <td>65</td>
+    <td>70</td>
+    <td>75</td>
+    <td>80</td>
+    <td>85</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Weapon strength decrease.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">超</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Number of levels lost per swing.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">飯</td>
+    <td>3.1</td>
+    <td>6.2</td>
+    <td>9.3</td>
+    <td>12.5</td>
+    <td>15.6</td>
+    <td>18.7</td>
+    <td>21.8</td>
+    <td>25</td>
+    <td>28.1</td>
+    <td>31.2</td>
+    <td>34.3</td>
+    <td>37.5</td>
+    <td>40.6</td>
+    <td>43.7</td>
+    <td>46.8</td>
+    <td>50</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Chance enemy drops an Onigiri (%).</td>
+  </tr>
+</table>
 
 <h3 id="shield-stacking">Shield</h3>
 
-
+<table class="itemListCentered">
+  <tr>
+    <th>Seal</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+    <th>4</th>
+    <th>5</th>
+    <th>6</th>
+    <th>7</th>
+    <th>8</th>
+    <th>9</th>
+    <th>10</th>
+    <th>11</th>
+    <th>12</th>
+    <th>13</th>
+    <th>14</th>
+    <th>15</th>
+    <th>16</th>
+    <th>17</th>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">皮</td>
+    <td>20</td>
+    <td>23</td>
+    <td>25</td>
+    <td>28</td>
+    <td>33</td>
+    <td>40</td>
+    <td>50</td>
+    <td>55</td>
+    <td>62</td>
+    <td>71</td>
+    <td>83</td>
+    <td>100</td>
+    <td>125</td>
+    <td>166</td>
+    <td>250</td>
+    <td>500</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Number of turns to deplete 1% fullness.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">銭</td>
+    <td>10</td>
+    <td>13</td>
+    <td>16</td>
+    <td>19</td>
+    <td>22</td>
+    <td>26</td>
+    <td>29</td>
+    <td>32</td>
+    <td>35</td>
+    <td>38</td>
+    <td>42</td>
+    <td>45</td>
+    <td>48</td>
+    <td>51</td>
+    <td>54</td>
+    <td>58</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Amount of Gitan gained as a portion of damage (%).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">爆</td>
+    <td>50</td>
+    <td>53</td>
+    <td>56</td>
+    <td>58</td>
+    <td>61</td>
+    <td>64</td>
+    <td>66</td>
+    <td>69</td>
+    <td>72</td>
+    <td>74</td>
+    <td>77</td>
+    <td>80</td>
+    <td>82</td>
+    <td>85</td>
+    <td>88</td>
+    <td>90</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Explosion damage reduction (%).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">バ</td>
+    <td>33</td>
+    <td>37</td>
+    <td>41</td>
+    <td>46</td>
+    <td>50</td>
+    <td>55</td>
+    <td>59</td>
+    <td>64</td>
+    <td>68</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Amount of damage reflected back at enemy (%).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">丼</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Amount of fullness replenished per hit.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">幸</td>
+    <td>0.20</td>
+    <td>0.32</td>
+    <td>0.44</td>
+    <td>0.56</td>
+    <td>0.68</td>
+    <td>0.80</td>
+    <td>0.92</td>
+    <td>1.04</td>
+    <td>1.16</td>
+    <td>1.28</td>
+    <td>1.40</td>
+    <td>1.52</td>
+    <td>1.64</td>
+    <td>1.76</td>
+    <td>1.88</td>
+    <td>2.00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Experience points gained as a portion of damage (multiplier).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightLightblue">竜</td>
+    <td>50</td>
+    <td>53</td>
+    <td>56</td>
+    <td>58</td>
+    <td>61</td>
+    <td>64</td>
+    <td>66</td>
+    <td>69</td>
+    <td>72</td>
+    <td>74</td>
+    <td>77</td>
+    <td>80</td>
+    <td>82</td>
+    <td>85</td>
+    <td>88</td>
+    <td>90</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Fire damage reduction (%).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">薬</td>
+    <td>2</td>
+    <td>4</td>
+    <td>6</td>
+    <td>8</td>
+    <td>10</td>
+    <td>12</td>
+    <td>14</td>
+    <td>15</td>
+    <td>17</td>
+    <td>19</td>
+    <td>21</td>
+    <td>23</td>
+    <td>25</td>
+    <td>27</td>
+    <td>29</td>
+    <td>30</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Amount of HP restored.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">弟</td>
+    <td>4</td>
+    <td>7</td>
+    <td>11</td>
+    <td>14</td>
+    <td>18</td>
+    <td>21</td>
+    <td>25</td>
+    <td>28</td>
+    <td>31</td>
+    <td>34</td>
+    <td>38</td>
+    <td>41</td>
+    <td>45</td>
+    <td>48</td>
+    <td>52</td>
+    <td>55</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Amount of HP restored.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">命</td>
+    <td>3</td>
+    <td>6</td>
+    <td>9</td>
+    <td>12</td>
+    <td>15</td>
+    <td>18</td>
+    <td>21</td>
+    <td>24</td>
+    <td>27</td>
+    <td>30</td>
+    <td>33</td>
+    <td>36</td>
+    <td>39</td>
+    <td>42</td>
+    <td>45</td>
+    <td>48</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Shield base defense increase.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">火</td>
+    <td>10</td>
+    <td>13</td>
+    <td>16</td>
+    <td>18</td>
+    <td>21</td>
+    <td>24</td>
+    <td>26</td>
+    <td>29</td>
+    <td>32</td>
+    <td>34</td>
+    <td>37</td>
+    <td>40</td>
+    <td>42</td>
+    <td>45</td>
+    <td>48</td>
+    <td>50</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Fire damage reduction (%).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">幸</td>
+    <td>0.15</td>
+    <td>0.24</td>
+    <td>0.33</td>
+    <td>0.42</td>
+    <td>0.51</td>
+    <td>0.60</td>
+    <td>0.69</td>
+    <td>0.78</td>
+    <td>0.87</td>
+    <td>0.96</td>
+    <td>1.05</td>
+    <td>1.14</td>
+    <td>1.23</td>
+    <td>1.32</td>
+    <td>1.41</td>
+    <td>1.50</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Experience points gained as a portion of damage (multiplier).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">天</td>
+    <td>0.40</td>
+    <td>0.64</td>
+    <td>0.88</td>
+    <td>1.12</td>
+    <td>1.36</td>
+    <td>1.60</td>
+    <td>1.84</td>
+    <td>2.08</td>
+    <td>2.32</td>
+    <td>2.56</td>
+    <td>2.80</td>
+    <td>3.04</td>
+    <td>3.28</td>
+    <td>3.52</td>
+    <td>3.76</td>
+    <td>4.00</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Experience points gained as a portion of damage (multiplier).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">不</td>
+    <td>3</td>
+    <td>6</td>
+    <td>9</td>
+    <td>12</td>
+    <td>15</td>
+    <td>18</td>
+    <td>21</td>
+    <td>24</td>
+    <td>27</td>
+    <td>30</td>
+    <td>33</td>
+    <td>36</td>
+    <td>39</td>
+    <td>42</td>
+    <td>45</td>
+    <td>48</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Shield base defense decrease.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">超</td>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td>
+    <td>15</td>
+    <td>16</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Number of levels lost per hit.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightGreen">飯</td>
+    <td>6.2</td>
+    <td>12.5</td>
+    <td>18.7</td>
+    <td>25</td>
+    <td>31.2</td>
+    <td>37.5</td>
+    <td>43.7</td>
+    <td>50</td>
+    <td>56.2</td>
+    <td>62.5</td>
+    <td>68.7</td>
+    <td>75</td>
+    <td>81.2</td>
+    <td>87.5</td>
+    <td>93.7</td>
+    <td>100</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Chance for Asuka to turn into an onigiri (%).</td>
+  </tr>
+  <tr>
+    <td rowspan="2" class="highlightPink">眠</td>
+    <td>1/16</td>
+    <td>2/16</td>
+    <td>3/16</td>
+    <td>4/16</td>
+    <td>5/16</td>
+    <td>6/16</td>
+    <td>7/16</td>
+    <td>8/16</td>
+    <td>9/16</td>
+    <td>10/16</td>
+    <td>11/16</td>
+    <td>12/16</td>
+    <td>13/16</td>
+    <td>14/16</td>
+    <td>15/16</td>
+    <td>16/16</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td colspan="17" class="leftText">Chance to put enemy to sleep (%).</td>
+  </tr>
+</table>
