@@ -12,11 +12,15 @@ metaDescription: "Synthesis seal details for Shiren Gaiden: Onna Kenshi Asuka Ke
 
 Seals are special abilities that can be synthesized onto weapons or shields.
 
-Each seal is represented as single Japanese character, and the color depends on the source item.<br/>
-The 3 colors are: Equipment (blue), food/grass (green), and scroll/other (red).<br/>
-The 金 seal can be found in 2 colors, but unlike Shiren 2, the effect doesn't differ between colors.
+Each seal is represented as a single Japanese character (Kanji, Hira, or Kata),<br/>
+and the color of the seal is based on the source item.<br/>
+The 3 colors are: equipment (blue), food/grass (green), and scroll/misc (red).<br/>
+The 金 seal can be found in 2 colors, but unlike Shiren 2, the effects are identical.
 
 Generally seals make your adventure easier, but some are a double-edged sword<br/>or have an outright negative effect, so some care is needed.
+
+Village blacksmiths can erase unwanted seals for a fee.<br/>
+Sludge (ドドロ)'s special attack can also remove seals at random.
 
 <ul class="quickLinksUL">
   <li><a href="#seal-list">Seal List</a>

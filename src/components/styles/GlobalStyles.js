@@ -921,20 +921,6 @@ export const baseStyles = css`
     text-align: center;
     padding: 2px;
   }
-  .trapTable th {
-    font-weight: normal;
-    text-align: center;
-    padding: 3px;
-  }
-  .trapTable td {
-    padding: 3px;
-  }
-  .trapTable td:first-of-type {
-    text-align: center;
-  }
-  .trapTable img {
-    position: relative !important;
-  }
   .statusTable th {
     text-align: center;
     padding: 3px;
@@ -976,6 +962,29 @@ export const baseStyles = css`
   .sealTable td {
     padding-left: 5px;
     padding-right: 5px;
+  }
+  .trapTable td:nth-of-type(2){
+    text-align: left;
+    font-size: 13.5px;
+  }
+  .trapTable td:nth-of-type(3){
+    text-align: left;
+  }
+  .trapTable td:nth-of-type(7){
+    text-align: left;
+  }
+  .trapTable th {
+    text-align: center;
+    padding-left: 3.5px;
+    padding-right: 3.5px;
+  }
+  .trapTable td {
+    text-align: center;
+    padding-left: 3.5px;
+    padding-right: 3.5px;
+  }
+  .trapTable img {
+    position: relative !important;
   }
   .tableNotes p {
     font-size: 13px;
