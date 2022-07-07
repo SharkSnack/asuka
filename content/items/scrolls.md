@@ -154,7 +154,7 @@ metaDescription: "Complete scroll details for Shiren Gaiden: Onna Kenshi Asuka K
     </tr>
     <tr>
       <td class="highlightYellow">落石の巻物</td>
-      <td class="highlightYellow">Rockslide Scroll</td>
+      <td class="highlightYellow">Rockfall Scroll</td>
       <td>-</td>
       <td class="leftText">Deals 30~40 damage to all enemies in the room.<br/>Deals damage to enemies in a 1 tile radius if read in a hallway.</td>
     </tr>

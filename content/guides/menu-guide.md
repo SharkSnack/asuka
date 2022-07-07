@@ -116,7 +116,7 @@ metaDescription: "Menu options guide for Shiren Gaiden: Onna Kenshi Asuka Kenzan
 |やめる|Quit|-|
 |登録する|Register|Register a monster box.|
 |登録抹消|Unregister|Unregisters a monster box.|
-|陳列ケース|Display Case|Proceed to registered monster box list.|
+|陳列ケース|Display Case|Deposit registered monster boxes.|
 |持ち出す|Take|Take out registered monster boxes.|
 |観覧|View|View registered monster box details.|
 |説明|Details|Hear an explanation on monster boxes.|

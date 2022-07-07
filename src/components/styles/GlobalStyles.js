@@ -989,6 +989,18 @@ export const baseStyles = css`
   .tableNotes p {
     font-size: 13px;
   }
+  .resonanceTable th {
+    padding: 4px;
+  }
+  .resonanceTable td {
+    padding: 4px;
+  }
+  .resonanceTable td:nth-of-type(1){
+    font-size: 13.5px;
+  }
+  .resonanceTable td:nth-of-type(2){
+    font-size: 13.5px;
+  }
   .monsterTableRates th {
     text-align: center;
     padding: 2px;

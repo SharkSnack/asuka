@@ -57,42 +57,42 @@ metaDescription: "Other item details for Shiren Gaiden: Onna Kenshi Asuka Kenzan
   <tbody>
     <tr>
       <td class="highlightYellow">英知の杖</td>
-      <td class="highlightYellow"></td>
+      <td class="highlightYellow">Staff of Wisdom</td>
       <td class="leftText">Trial of Doras (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">不腐のおにぎり</td>
-      <td class="highlightYellow"></td>
+      <td class="highlightYellow">Never-Rot Onigiri</td>
       <td class="leftText">Trial of Bufu (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">安住の大黒柱</td>
-      <td class="highlightYellow"></td>
+      <td class="highlightYellow">Pillar of Safety</td>
       <td class="leftText">Trial of Murado (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">長者のソロバン</td>
-      <td class="highlightYellow"></td>
+      <td class="highlightYellow">Elder's Abacus</td>
       <td class="leftText">Revisit Kouga Village (2nd half of the story)</td>
     </tr>
     <tr>
       <td class="highlightYellow">金色の転び石</td>
-      <td class="highlightYellow"></td>
+      <td class="highlightYellow">Golden Trip Stone</td>
       <td class="leftText">Trial of Kaka Roo (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">万能ハリガネ</td>
-      <td class="highlightYellow"></td>
+      <td class="highlightYellow">All-Purpose Wire</td>
       <td class="leftText">Trial of Gitau (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">追い風の剣</td>
-      <td class="highlightYellow"></td>
+      <td class="highlightYellow">Tailwind Sword</td>
       <td class="leftText">Trial of Kron (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">運命の角笛</td>
-      <td class="highlightYellow"></td>
+      <td class="highlightYellow">Horn of Fate</td>
       <td class="leftText">Trial of Reeva (Clear reward)</td>
     </tr>
   </tbody>

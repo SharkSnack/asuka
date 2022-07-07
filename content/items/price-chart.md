@@ -206,7 +206,7 @@ metaDescription: "Item price chart for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
   </tr>
   <tr>
     <td class="priceTableName">落石の巻物</td>
-    <td class="priceTableName">Rockslide Scroll</td>
+    <td class="priceTableName">Rockfall Scroll</td>
     <td>-</td>
     <td class="priceTableName">ちからの種</td>
     <td class="priceTableName">Strength Seed</td>
@@ -1245,7 +1245,7 @@ metaDescription: "Item price chart for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
     </tr>
     <tr>
       <td class="priceTableName">金の剣</td>
-      <td class="priceTableName">Golden Sword</td>
+      <td class="priceTableName">Gold Sword</td>
       <td>金</td>
       <td>3</td>
       <td>5</td>
@@ -1335,7 +1335,7 @@ metaDescription: "Item price chart for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
     </tr>
     <tr>
       <td class="priceTableName">使い捨ての剣</td>
-      <td class="priceTableName">Disposable Sword</td>
+      <td class="priceTableName">Shoddy Sword</td>
       <td>捨</td>
       <td>35</td>
       <td>3</td>
@@ -1537,7 +1537,7 @@ metaDescription: "Item price chart for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
     </tr>
     <tr>
       <td class="priceTableName">見切りの盾</td>
-      <td class="priceTableName">Evasive Shield</td>
+      <td class="priceTableName">Spry Shield</td>
       <td>見</td>
       <td>2</td>
       <td>5</td>
@@ -1573,7 +1573,7 @@ metaDescription: "Item price chart for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
     </tr>
     <tr>
       <td class="priceTableName">金の盾</td>
-      <td class="priceTableName">Golden Shield</td>
+      <td class="priceTableName">Gold Shield</td>
       <td>金</td>
       <td>4</td>
       <td>4</td>
@@ -1690,7 +1690,7 @@ metaDescription: "Item price chart for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
     </tr>
     <tr>
       <td class="priceTableName">使い捨ての盾</td>
-      <td class="priceTableName">Disposable Shield</td>
+      <td class="priceTableName">Shoddy Shield</td>
       <td>捨</td>
       <td>40</td>
       <td>3</td>

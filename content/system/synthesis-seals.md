@@ -144,7 +144,7 @@ Sludge (ドドロ)'s special attack can also remove seals at random.
     <td class="highlightLightblue">金</td>
     <td>×</td>
     <td>金の剣</td>
-    <td>Golden Sword</td>
+    <td>Gold Sword</td>
     <td>Upgrade value never decreases due to rust.</td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@ Sludge (ドドロ)'s special attack can also remove seals at random.
     <td class="highlightLightblue">捨</td>
     <td>×</td>
     <td>使い捨ての剣</td>
-    <td>Disposable Sword</td>
+    <td>Shoddy Sword</td>
     <td>Upgrade value -1 every time you deal damage.</td>
   </tr>
   <tr>
@@ -401,7 +401,7 @@ Sludge (ドドロ)'s special attack can also remove seals at random.
     <td class="highlightLightblue">金</td>
     <td>×</td>
     <td>金の盾</td>
-    <td>Golden Shield</td>
+    <td>Gold Shield</td>
     <td>Upgrade value never decreases due to rust.</td>
   </tr>
   <tr>
@@ -499,7 +499,7 @@ Sludge (ドドロ)'s special attack can also remove seals at random.
     <td class="highlightLightblue">捨</td>
     <td>×</td>
     <td>使い捨ての盾</td>
-    <td>Disposable Shield</td>
+    <td>Shoddy Shield</td>
     <td>Upgrade value -1 every time you take damage.</td>
   </tr>
   <tr>

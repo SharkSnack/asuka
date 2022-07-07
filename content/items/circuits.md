@@ -144,7 +144,7 @@ metaDescription: "Complete monster box circuit details for Shiren Gaiden: Onna K
     </tr>
     <tr>
       <td class="highlightYellow">炎よけ回路</td>
-      <td class="highlightYellow">Chilly Circuit</td>
+      <td class="highlightYellow">Cold Circuit</td>
       <td>火</td>
       <td>○</td>
       <td>1</td>

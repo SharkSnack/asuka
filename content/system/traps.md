@@ -94,7 +94,7 @@ metaDescription: "Trap details for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
     <tr>
       <td><img src="../images/traps/burr.jpg"/></td>
       <td>イガイガボトボト</td>
-      <td>Burr Barrage</td>
+      <td>Burr</td>
       <td>9</td>
       <td>0</td>
       <td>12%</td>

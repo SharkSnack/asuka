@@ -41,7 +41,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">神速剣</td>
-      <td class="highlightYellow">Swift Sword</td>
+      <td class="highlightYellow">Quick Sword</td>
       <td>4</td>
       <td>3000</td>
       <td>1500</td>
@@ -49,7 +49,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">必中剣</td>
-      <td class="highlightYellow">Accurate Sword</td>
+      <td class="highlightYellow">Precise Sword</td>
       <td>1</td>
       <td>1200</td>
       <td>600</td>
@@ -57,7 +57,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">必殺剣</td>
-      <td class="highlightYellow">Death Blow</td>
+      <td class="highlightYellow">Fatal Blow</td>
       <td>8</td>
       <td>5000</td>
       <td>2500</td>
@@ -81,7 +81,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">雷神剣</td>
-      <td class="highlightYellow">Lightning Sword</td>
+      <td class="highlightYellow">Electric Sword</td>
       <td>3</td>
       <td>500</td>
       <td>250</td>
@@ -193,7 +193,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">通背剣</td>
-      <td class="highlightYellow">Piercing Sword</td>
+      <td class="highlightYellow">Line Strike</td>
       <td>4</td>
       <td>-</td>
       <td>-</td>
@@ -237,7 +237,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
       <td>4</td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Evasion.<br/>Reflect all enemy direct attacks during the turn this is used.</td>
+      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Agile.<br/>Reflect all enemy direct attacks during the turn this is used.</td>
     </tr>
     <tr>
       <td class="highlightYellow">強弓</td>
@@ -329,7 +329,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">合歓掌</td>
-      <td class="highlightYellow">Silk Tree Palm</td>
+      <td class="highlightYellow">Silk Palm</td>
       <td>5</td>
       <td>700</td>
       <td>350</td>
@@ -341,11 +341,11 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
       <td>10</td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Silk Tree Palm.<br/>Puts all enemies in the room to sleep for 15 turns.<br/>Enemies have increased action speed when they wake up.</td>
+      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Silk Palm.<br/>Puts all enemies in the room to sleep for 15 turns.<br/>Enemies have increased action speed when they wake up.</td>
     </tr>
     <tr>
       <td class="highlightYellow">呪詛</td>
-      <td class="highlightYellow">Imprecation</td>
+      <td class="highlightYellow">Curse</td>
       <td>2</td>
       <td>500</td>
       <td>250</td>
@@ -357,7 +357,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
       <td>5</td>
       <td>-</td>
       <td>-</td>
-      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Imprecation.<br/>Places a deadly curse on all enemies within a 1 tile radius<br/>that makes them collapse after 10 turns.</td>
+      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Curse.<br/>Places a deadly curse on all enemies within a 1 tile radius<br/>that makes them collapse after 10 turns.</td>
     </tr>
     <tr>
       <td class="highlightYellow">轟天雷</td>
@@ -365,7 +365,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
       <td>5</td>
       <td>1500</td>
       <td>750</td>
-      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Lightning Sword.<br/>Lightning strikes and deals damage to all enemies in the room.</td>
+      <td class="leftText"><span class="highlightDerivative1">[Derivative 1]</span> Learned from Electric Sword.<br/>Lightning strikes and deals damage to all enemies in the room.</td>
     </tr>
     <tr>
       <td class="highlightYellow">大崩落</td>
@@ -433,7 +433,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">水蜘蛛</td>
-      <td class="highlightYellow">Waterwalk</td>
+      <td class="highlightYellow">Strider</td>
       <td>5</td>
       <td>1800</td>
       <td>900</td>
@@ -441,7 +441,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">罠外し</td>
-      <td class="highlightYellow">Disarm Trap</td>
+      <td class="highlightYellow">Break Trap</td>
       <td>3</td>
       <td>800</td>
       <td>400</td>
@@ -465,7 +465,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">値切</td>
-      <td class="highlightYellow">Price Cut</td>
+      <td class="highlightYellow">Barter</td>
       <td>※10</td>
       <td>5000</td>
       <td>2500</td>
@@ -481,7 +481,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">超代謝</td>
-      <td class="highlightYellow">Metabolism</td>
+      <td class="highlightYellow">Super Metabolism</td>
       <td>9</td>
       <td>-</td>
       <td>-</td>
@@ -497,7 +497,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">復帰</td>
-      <td class="highlightYellow">Reversion</td>
+      <td class="highlightYellow">Recover</td>
       <td>4</td>
       <td>1000</td>
       <td>500</td>
@@ -505,7 +505,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">解呪</td>
-      <td class="highlightYellow">Break Curse</td>
+      <td class="highlightYellow">Purify</td>
       <td>10</td>
       <td>800</td>
       <td>400</td>
@@ -529,7 +529,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">活目</td>
-      <td class="highlightYellow">Keen Eye</td>
+      <td class="highlightYellow">Keen Sight</td>
       <td>10</td>
       <td>900</td>
       <td>450</td>
@@ -537,7 +537,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">識別</td>
-      <td class="highlightYellow">Identify</td>
+      <td class="highlightYellow">Assess</td>
       <td>※10</td>
       <td>1000</td>
       <td>500</td>
@@ -553,7 +553,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">瞬足</td>
-      <td class="highlightYellow">Quick Feet</td>
+      <td class="highlightYellow">Swift Feet</td>
       <td>9</td>
       <td>900</td>
       <td>450</td>
@@ -569,7 +569,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">不眠</td>
-      <td class="highlightYellow">Insomnia</td>
+      <td class="highlightYellow">Alert</td>
       <td>6</td>
       <td>1400</td>
       <td>700</td>
@@ -609,7 +609,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">見切り</td>
-      <td class="highlightYellow">Evasion</td>
+      <td class="highlightYellow">Agile</td>
       <td>3</td>
       <td>1200</td>
       <td>600</td>
@@ -633,7 +633,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     </tr>
     <tr>
       <td class="highlightYellow">無敵</td>
-      <td class="highlightYellow">Invincibility</td>
+      <td class="highlightYellow">Steel Body</td>
       <td>10</td>
       <td>-</td>
       <td>-</td>
@@ -712,19 +712,19 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
 |Spirit Throw (気合投げ)|Circle Throw (八方投げ)|-|
 |Spirit Bullet (気攻弾)|Spirit Wave (気攻裂波)|Piercing Wave (貫通裂波)|
 |Strong Toss (強肩)|Piercing Toss (遠投)|-|
-|Barrier (結界)|Invincibility (無敵)|-|
-|Swap (交錯)|Swap Strike (裏当て身)|Piercing Sword (通背剣)|
+|Barrier (結界)|Steel Body (無敵)|-|
+|Swap (交錯)|Swap Strike (裏当て身)|Line Strike (通背剣)|
 |Cross Sword (四方剣)|Circle Sword (八方剣)|-|
-|Imprecation (呪詛)|Binding Curse (呪縛)|-|
-|Deep Breathing (深呼吸)|Metabolism (超代謝)|-|
+|Curse (呪詛)|Binding Curse (呪縛)|-|
+|Deep Breathing (深呼吸)|Super Metabolism (超代謝)|-|
 |Gitan Toss (銭投げ)|Coin Toss (小判投げ)|Big Coin Toss (大判投げ)|
 |Walrus Guard (トド守り)|Steal (懐盗)|-|
 |Cat Clap (猫だまし)|Tiger Clap (虎だまし)|-|
-|Silk Tree Palm (合歓掌)|Slumber Scent (春眠香)|-|
+|Silk Palm (合歓掌)|Slumber Scent (春眠香)|-|
 |Ignite (発火)|Will-o-Wisp (鬼火)|Flame God (火神)|
 |Dodge (身かわし)|Rebound (跳返)|-|
-|Evasion (見切り)|Counter (受け返し)|-|
-|Lightning Sword (雷神剣)|Thunder (轟天雷)|-|
+|Agile (見切り)|Counter (受け返し)|-|
+|Electric Sword (雷神剣)|Thunder (轟天雷)|-|
 
 <div class="tableNotes">
   <p>※ Derivative 1 skills are learned by using base skills.<br/>※ Derivative 2 skills are learned by using derivative 1 skills.</p>

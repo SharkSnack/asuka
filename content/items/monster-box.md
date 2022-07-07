@@ -661,7 +661,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">デブーチョ</td>
-      <td class="itemListName highlightYellow">Porkchop</td>
+      <td class="itemListName highlightYellow">Porko</td>
       <td class="redText">99</td>
       <td>75</td>
       <td class="orangeText">467</td>
@@ -674,7 +674,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">デブートン</td>
-      <td class="itemListName highlightYellow">Porkton</td>
+      <td class="itemListName highlightYellow">Porkon</td>
       <td>30</td>
       <td>130</td>
       <td>246</td>
@@ -690,7 +690,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">うしわか丸</td>
-      <td class="itemListName highlightYellow2">Dolly</td>
+      <td class="itemListName highlightYellow2">Lady Locks</td>
       <td rowspan="3" class="orangeText highlightGray">10</td>
       <td class="highlightGray">15</td>
       <td class="highlightGray">10</td>
@@ -704,7 +704,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">クロウ丸</td>
-      <td class="itemListName highlightYellow2">Bratz</td>
+      <td class="itemListName highlightYellow2">Lovely Locks</td>
       <td class="highlightGray">20</td>
       <td class="highlightGray">41</td>
       <td class="highlightGray">117</td>
@@ -717,7 +717,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">ヨシツネ丸</td>
-      <td class="itemListName highlightYellow2">Barbie</td>
+      <td class="itemListName highlightYellow2">Goldie Locks</td>
       <td class="redText highlightGray">99</td>
       <td class="highlightGray">60</td>
       <td class="highlightGray">452</td>
@@ -1685,7 +1685,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">しおいやん</td>
-      <td class="itemListName highlightYellow">Slug</td>
+      <td class="itemListName highlightYellow">Sluggy</td>
       <td rowspan="4">7</td>
       <td>15</td>
       <td>14</td>
@@ -1699,7 +1699,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">まじしおいやん</td>
-      <td class="itemListName highlightYellow">Serious Slug</td>
+      <td class="itemListName highlightYellow">Bitter Sluggy</td>
       <td>20</td>
       <td>40</td>
       <td>116</td>
@@ -1712,7 +1712,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">しおやだん</td>
-      <td class="itemListName highlightYellow">Rancor Slug</td>
+      <td class="itemListName highlightYellow">Rancor Sluggy</td>
       <td>40</td>
       <td>88</td>
       <td>244</td>
@@ -1725,7 +1725,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">しおかんべん</td>
-      <td class="itemListName highlightYellow">Intolerable Slug</td>
+      <td class="itemListName highlightYellow">Venom Sluggy</td>
       <td>30</td>
       <td>120</td>
       <td>236</td>

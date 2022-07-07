@@ -42,9 +42,10 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[12] = { items:[], label: 'skill-scrolls', title: 'Skill Scrolls', url: '/items/secret-skills'};
         items[13] = { items:[], label: 'other-items', title: 'Other', url: '/items/other-items'};
         break;
-      case 'synthesis-seals': // items
-        items[0] = { items:[], label: 'synthesis-seals', title: 'Seals', url: '/system/synthesis-seals'};
-        items[1] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
+      case 'resonance': // items
+        items[0] = { items:[], label: 'resonance', title: 'Resonance', url: '/system/resonance'};
+        items[1] = { items:[], label: 'synthesis-seals', title: 'Seals', url: '/system/synthesis-seals'};
+        items[2] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
       default:
         // do nothing
     }

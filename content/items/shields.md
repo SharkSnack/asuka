@@ -139,7 +139,7 @@ metaDescription: "Complete shield details for Shiren Gaiden: Onna Kenshi Asuka K
     </tr>
     <tr>
       <td class="highlightYellow">見切りの盾</td>
-      <td class="highlightYellow">Evasive Shield</td>
+      <td class="highlightYellow">Spry Shield</td>
       <td>見</td>
       <td>2</td>
       <td>5</td>
@@ -179,7 +179,7 @@ metaDescription: "Complete shield details for Shiren Gaiden: Onna Kenshi Asuka K
     </tr>
     <tr>
       <td class="highlightYellow">金の盾</td>
-      <td class="highlightYellow">Golden Shield</td>
+      <td class="highlightYellow">Gold Shield</td>
       <td>金</td>
       <td>4</td>
       <td>4</td>
@@ -309,7 +309,7 @@ metaDescription: "Complete shield details for Shiren Gaiden: Onna Kenshi Asuka K
     </tr>
     <tr>
       <td class="highlightYellow">使い捨ての盾</td>
-      <td class="highlightYellow">Disposable Shield</td>
+      <td class="highlightYellow">Shoddy Shield</td>
       <td>捨</td>
       <td>40</td>
       <td>3</td>

@@ -252,7 +252,7 @@ metaDescription: "Complete weapon details for Shiren Gaiden: Onna Kenshi Asuka K
     </tr>
     <tr>
       <td class="highlightYellow">金の剣</td>
-      <td class="highlightYellow">Golden Sword</td>
+      <td class="highlightYellow">Gold Sword</td>
       <td>金</td>
       <td>3</td>
       <td>5</td>
@@ -352,7 +352,7 @@ metaDescription: "Complete weapon details for Shiren Gaiden: Onna Kenshi Asuka K
     </tr>
     <tr>
       <td class="highlightYellow">使い捨ての剣</td>
-      <td class="highlightYellow">Disposable Sword</td>
+      <td class="highlightYellow">Shoddy Sword</td>
       <td>捨</td>
       <td>35</td>
       <td>3</td>
