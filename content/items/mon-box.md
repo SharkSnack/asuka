@@ -1,7 +1,7 @@
 ---
-title: "Monster Box"
-metaTitle: "Monster Box - Shiren Gaiden: Asuka Kenzan Wiki"
-metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
+title: "Mon Box"
+metaTitle: "Mon Box - Shiren Gaiden: Asuka Kenzan Wiki"
+metaDescription: "Complete mon box details for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
 <br/>
@@ -923,7 +923,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">怪盗ペリカン２世</td>
-      <td class="itemListName highlightYellow">Thief Pelican II</td>
+      <td class="itemListName highlightYellow">Robber Pelican</td>
       <td>30</td>
       <td>50</td>
       <td>166</td>
@@ -936,7 +936,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">怪盗ペリカン３世</td>
-      <td class="itemListName highlightYellow">Thief Pelican III</td>
+      <td class="itemListName highlightYellow">Bandit Pelican</td>
       <td>50</td>
       <td>75</td>
       <td>258</td>
@@ -949,7 +949,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">怪盗ペリカン４世</td>
-      <td class="itemListName highlightYellow">Thief Pelican IV</td>
+      <td class="itemListName highlightYellow">Raider Pelican</td>
       <td class="redText">99</td>
       <td>80</td>
       <td class="orangeText">472</td>
@@ -1914,7 +1914,7 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
     </tr>
     <tr>
       <td class="itemListName highlightYellow">みどりトド</td>
-      <td class="itemListName highlightYellow">Green Zalokleft</td>
+      <td class="itemListName highlightYellow">Lime Zalokleft</td>
       <td>30</td>
       <td>60</td>
       <td>176</td>
@@ -2127,11 +2127,11 @@ metaDescription: "Complete monster box details for Shiren Gaiden: Onna Kenshi As
 - Fullness rapidly depletes while wearing a monster box.
     - Fullness -1% every 2 actions.
 - Asuka's equipment is nullified while wearing a monster box.
-    - However, Substitute Bracelet (身代わりの腕輪) still takes effect if you collapse.
+    - However, Decoy Bracelet (身代わりの腕輪) still takes effect if you collapse.
 - Items can't be picked up, traps won't activate, and you can't use stairs while wearing a monster box.
 - Damage received is applied toward the monster box's HP instead of Asuka's HP.
     - If the monster box's HP falls to 0, the box breaks and Asuka also collapses.
-    - Revival Grass (復活の草) and Substitute Bracelet (身代わりの腕輪) will still revive her.
+    - Revival Grass (復活の草) and Decoy Bracelet (身代わりの腕輪) will still revive her.
     - Asuka is safe if hit by an Extinction Scroll (ねだやしの巻物), but the monster box breaks.
 - Open the menu and select Return (もどる) to unequip the monster box.
     - The monster box falls to the ground underfoot.

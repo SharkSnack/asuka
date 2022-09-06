@@ -37,7 +37,7 @@ metaDescription: "Complete bracelet details for Shiren Gaiden: Onna Kenshi Asuka
     </tr>
     <tr>
       <td class="highlightYellow">サビよけの腕輪</td>
-      <td class="highlightYellow">Rustproof Bracelet</td>
+      <td class="highlightYellow">No-Rust Bracelet</td>
       <td class="leftText">Prevents equipment from rusting.<br/>Also blocks Lv4 Slime's seal erasing special attack.</td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ metaDescription: "Complete bracelet details for Shiren Gaiden: Onna Kenshi Asuka
     </tr>
     <tr>
       <td class="highlightYellow">ドレインよけの腕輪</td>
-      <td class="highlightYellow">Anti-Drain Bracelet</td>
+      <td class="highlightYellow">No-Drain Bracelet</td>
       <td class="leftText">Protects you from Drain type monster special attacks.</td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ metaDescription: "Complete bracelet details for Shiren Gaiden: Onna Kenshi Asuka
     </tr>
     <tr>
       <td class="highlightYellow">身代わりの腕輪</td>
-      <td class="highlightYellow">Substitute Bracelet</td>
+      <td class="highlightYellow">Decoy Bracelet</td>
       <td class="leftText">Revives you if you collapse while it's equipped.<br/>(The bracelet is lost after being revived)</td>
     </tr>
     <tr>

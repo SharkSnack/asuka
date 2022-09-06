@@ -14,7 +14,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
     - Derivative skills can be learned by using specific skills.
 - Skills are performed by spending spirit, which charges as turns elapse or you take damage.
 - Spirit Bracelet (気力の腕輪) lets you perform skills outside of the 3 spirit dungeons.
-    - Trial of Kron (クロンの試練), Soaring Bird's Challenge (鳥飛魔天の挑戦), Fight One Shot (ファイト一発)
+    - Kron Trial (クロンの試練), Soaring Bird's Challenge (鳥飛魔天の挑戦), Fight One Shot (ファイト一発)
 - Scroll down to [Details](#details) for more information.
 
 # Summary
@@ -662,9 +662,9 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
 - Skills are special abilities Asuka can learn by reading skill scrolls.
 - Skills are performed by spending spirit, which charges as turns elapse or you take damage.
 - Only 3 dungeons have this spirit mechanic.
-    - Trial of Kron (クロンの試練), Soaring Bird's Challenge (鳥飛魔天の挑戦), Fight One Shot (ファイト一発)
+    - Kron Trial (クロンの試練), Soaring Bird's Challenge (鳥飛魔天の挑戦), Fight One Shot (ファイト一発)
 - Equipping a Spirit Bracelet (気力の腕輪) lets you use skills in other dungeons.
-    - The Spirit Bracelet can be found on 17F of Trial of Kron (クロンの試練) after clearing the dungeon once.
+    - The Spirit Bracelet can be found on 17F of Kron Trial (クロンの試練) after clearing the dungeon once.
 - One skill can be assigned to the special attack button by pressing the button in the skill menu.
     - Projectiles and skills cannot be assigned to the special attack button at the same time.
 
@@ -673,7 +673,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
 - Spirit charges as turns elapse or you take damage.
 - The spirit meter has 10 stages, and the meter will glow when it's completely filled.
     - Some 10 cost skills require a fully charged (glowing) spirit meter to be used.
-- Spirit charges faster the lower your HP is in Trial of Kron (クロンの試練) and Fight One Shot (ファイト一発).
+- Spirit charges faster the lower your HP is in Kron Trial (クロンの試練) and Fight One Shot (ファイト一発).
     - The number of turns needed to charge 1 spirit meter stage is based on remaining HP.
     - HP &le; 5% takes 1 turn, HP between 5~10% takes 3 turns, HP between 75~100% takes 50 turns.
     - It always takes 100 turns to reach full charge (glowing) after reaching stage 10.
@@ -684,7 +684,7 @@ metaDescription: "Complete secret skill details for Shiren Gaiden: Onna Kenshi A
 #### Learning Skills
 
 - Skills are learned by reading skill scrolls. ([skill name]の秘技書).
-    - Skill scrolls are common in Trial of Kron (クロンの試練) and Soaring Bird's Challenge (鳥飛魔天の挑戦).
+    - Skill scrolls are common in Kron Trial (クロンの試練) and Soaring Bird's Challenge (鳥飛魔天の挑戦).
     - Spirit is not consumed when performing a skill as a result of reading a skill scroll.
     - Skill scrolls can be bought and sold, and the selling price is always 1/2 of the buying price.
 - Once learned, a skill can be used an unlimited number of times during the current adventure.

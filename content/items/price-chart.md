@@ -349,7 +349,7 @@ metaDescription: "Item price chart for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
   </tr>
   <tr>
     <td class="priceTableName">サビよけの腕輪</td>
-    <td class="priceTableName">Rustproof Bracelet</td>
+    <td class="priceTableName">No-Rust Bracelet</td>
   </tr>
   <tr>
     <td class="priceTableName">ねむらずの腕輪</td>
@@ -403,7 +403,7 @@ metaDescription: "Item price chart for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
   </tr>
   <tr>
     <td class="priceTableName">ドレインよけの腕輪</td>
-    <td class="priceTableName">Anti-Drain Bracelet</td>
+    <td class="priceTableName">No-Drain Bracelet</td>
   </tr>
   <tr>
     <td class="priceTableName">よくみえの腕輪</td>
@@ -426,7 +426,7 @@ metaDescription: "Item price chart for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
   </tr>
   <tr>
     <td class="priceTableName">身がわりの腕輪</td>
-    <td class="priceTableName">Substitute Bracelet</td>
+    <td class="priceTableName">Decoy Bracelet</td>
   </tr>
   <tr>
     <td class="priceTableName">通過の腕輪</td>

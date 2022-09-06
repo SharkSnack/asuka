@@ -735,6 +735,9 @@ export const baseStyles = css`
     background-color: #fffff6;
     text-align: left;
   }
+  .monsterListDay td:nth-of-type(8) {
+    text-align: left;
+  }
   .monsterListDay td {
     text-align: center;
     padding: 4px;
@@ -861,10 +864,12 @@ export const baseStyles = css`
     margin-bottom: 8px;
   }
   .dungeonOverview th {
-    background-color: #dfb9ff;
+    background-color: #cfe6ff;
     font-weight: normal;
+    padding: 4px 8px;
   }
   .dungeonOverview td {
+    padding: 4px 8px;
   }
   .dungeonTable img {
     width: 32px !important;
@@ -1256,6 +1261,25 @@ export const baseStyles = css`
   .monsterNight {
     background-color: #edf4ff;
   }
+  .monsterTableVillage {
+    background-color: #e5f7ff;
+  }
+  .monsterTableNdubba {
+    color: white;
+    background-color: #bb976a;
+  }
+  .monsterTableNtwyn {
+    color: white;
+    background-color: #99bfab;
+  }
+  .monsterTableNmach {
+    color: white;
+    background-color: #aaaaa0;
+  }
+  .monsterTableNdup {
+    color: white;
+    background-color: #cece7e;
+  }
   .monsterTableManeater {
     color: white;
     background-color: #b94c45;
@@ -1337,41 +1361,23 @@ export const baseStyles = css`
   .purpleText2 {
     color: #a256bd;
   }
-  .farmingDay {
+  .farming {
     color: #0076df;
   }
-  .farmingNight {
-    color: #006cdf;
-  }
-  .usefulDay {
-    color: #299b5b;
-  }
-  .usefulNight {
+  .useful {
     color: #059300;
   }
-  .itemDay {
+  .item {
     color: #8b3ed9;
   }
-  .itemNight {
-    color: #70008e;
-  }
-  .strongDay {
+  .strong {
     color: #bf911c;
   }
-  .strongNight {
-    color: goldenrod;
+  .danger {
+    color: #f063a9;
   }
-  .dangerDay {
-    color: #ea8c29;
-  }
-  .dangerNight {
-    color: #bd8700;
-  }
-  .extremeDay {
+  .extreme {
     color: #e32a2a;
-  }
-  .extremeNight {
-    color: #d51818;
   }
   .limitBreak {
     color: #ff46a3;

@@ -134,7 +134,7 @@ metaDescription: "Complete monster box circuit details for Shiren Gaiden: Onna K
     </tr>
     <tr>
       <td class="highlightYellow">魔法よけ回路</td>
-      <td class="highlightYellow">Anti-Magic Circuit</td>
+      <td class="highlightYellow">No-Magic Circuit</td>
       <td>鎮</td>
       <td>×</td>
       <td>1</td>

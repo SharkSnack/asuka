@@ -38,7 +38,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[8] = { items:[], label: 'food', title: 'Food', url: '/items/food'};
         items[9] = { items:[], label: 'projectiles', title: 'Projectiles', url: '/items/projectiles'};
         items[10] = { items:[], label: 'circuits', title: 'Circuits', url: '/items/circuits'};
-        items[11] = { items:[], label: 'monster-box', title: 'Monster Box', url: '/items/monster-box'};
+        items[11] = { items:[], label: 'mon-box', title: 'Mon Box', url: '/items/mon-box'};
         items[12] = { items:[], label: 'skill-scrolls', title: 'Skill Scrolls', url: '/items/secret-skills'};
         items[13] = { items:[], label: 'other-items', title: 'Other', url: '/items/other-items'};
         break;
@@ -46,6 +46,16 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[0] = { items:[], label: 'resonance', title: 'Resonance', url: '/system/resonance'};
         items[1] = { items:[], label: 'synthesis-seals', title: 'Seals', url: '/system/synthesis-seals'};
         items[2] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
+        break;
+      case 'bufu-trial': // dungeons
+        items[0] = { items:[], label: 'tenrin-easy', title: 'Tenrin Easy', url: '/dungeons/tenrin-easy'};
+        items[1] = { items:[], label: 'tenrin-hard', title: 'Tenrin Hard', url: '/dungeons/tenrin-hard'};
+        items[2] = { items:[], label: 'doras-trial', title: 'Doras', url: '/dungeons/doras-trial'};
+        items[3] = { items:[], label: 'bufu-trial', title: 'Bufu', url: '/dungeons/bufu-trial'};
+        items[4] = { items:[], label: 'murado-trial', title: 'Murado', url: '/dungeons/murado-trial'};
+        items[5] = { items:[], label: 'kaka-roo-trial', title: 'Kaka Roo', url: '/dungeons/kaka-roo-trial'};
+        items[6] = { items:[], label: 'kougas-hidden-hole', title: 'Kouga\'s Hole', url: '/dungeons/kougas-hidden-hole'};
+        break;
       default:
         // do nothing
     }

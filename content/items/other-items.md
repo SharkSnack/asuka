@@ -58,17 +58,17 @@ metaDescription: "Other item details for Shiren Gaiden: Onna Kenshi Asuka Kenzan
     <tr>
       <td class="highlightYellow">英知の杖</td>
       <td class="highlightYellow">Staff of Wisdom</td>
-      <td class="leftText">Trial of Doras (Clear reward)</td>
+      <td class="leftText">Doras Trial (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">不腐のおにぎり</td>
       <td class="highlightYellow">Never-Rot Onigiri</td>
-      <td class="leftText">Trial of Bufu (Clear reward)</td>
+      <td class="leftText">Bufu Trial (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">安住の大黒柱</td>
       <td class="highlightYellow">Pillar of Safety</td>
-      <td class="leftText">Trial of Murado (Clear reward)</td>
+      <td class="leftText">Murado Trial (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">長者のソロバン</td>
@@ -78,22 +78,22 @@ metaDescription: "Other item details for Shiren Gaiden: Onna Kenshi Asuka Kenzan
     <tr>
       <td class="highlightYellow">金色の転び石</td>
       <td class="highlightYellow">Golden Trip Stone</td>
-      <td class="leftText">Trial of Kaka Roo (Clear reward)</td>
+      <td class="leftText">Kaka Roo Trial (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">万能ハリガネ</td>
       <td class="highlightYellow">All-Purpose Wire</td>
-      <td class="leftText">Trial of Gitau (Clear reward)</td>
+      <td class="leftText">Gitau Trial (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">追い風の剣</td>
       <td class="highlightYellow">Tailwind Sword</td>
-      <td class="leftText">Trial of Kron (Clear reward)</td>
+      <td class="leftText">Kron Trial (Clear reward)</td>
     </tr>
     <tr>
       <td class="highlightYellow">運命の角笛</td>
       <td class="highlightYellow">Horn of Fate</td>
-      <td class="leftText">Trial of Reeva (Clear reward)</td>
+      <td class="leftText">Reeva Trial (Clear reward)</td>
     </tr>
   </tbody>
 </table>
@@ -101,7 +101,7 @@ metaDescription: "Other item details for Shiren Gaiden: Onna Kenshi Asuka Kenzan
 #### Odd Scrolls
 
 - Scrolls that each list 2 synthesis seals needed to create Kaburasutegi within the text.
-- Found in the depths of Trial of Kron, Trial of Kaka Roo, Trial of Doras, and Trial of Bufu.
+- Found in the depths of Kron Trial, Kaka Roo Trial, Doras Trial, and Bufu Trial.
 
 <br/>
 
