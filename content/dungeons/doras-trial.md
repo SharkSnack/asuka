@@ -4,8 +4,8 @@ metaTitle: "Doras Trial - Shiren Gaiden: Asuka Kenzan Wiki"
 metaDescription: "Doras Trial dungeon guide for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
-<div class="pageTopImage smallScreenshot">
-  <img src="../images/areas/yakagura_1.png"/>
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/yakagura_1.png"/> <img src="../images/areas/doras.png"/>
 </div>
 
 Dungeon where you mainly use staves and scrolls to progress - weapons and shields are only sold in shops.<br/>Allies can be brought along, so the key is to support them using staves like Fury Staff and Swift Staff.

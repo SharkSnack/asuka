@@ -4,8 +4,8 @@ metaTitle: "Murado Trial - Shiren Gaiden: Asuka Kenzan Wiki"
 metaDescription: "Murado Trial dungeon guide for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
-<div class="pageTopImage smallScreenshot">
-  <img src="../images/areas/yakagura_1.png"/>
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/yakagura_1.png"/> <img src="../images/areas/murado.png"/>
 </div>
 
 Dungeon where floors consist of puzzles, similar to Fay's Puzzles in Shiren 1 and Shiren GB.<br/>Items, monsters, and terrain are always the same without any random elements.

@@ -4,8 +4,8 @@ metaTitle: "Tenrin Hard - Shiren Gaiden: Asuka Kenzan Wiki"
 metaDescription: "Tenrin Hard dungeon guide for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
-<div class="pageTopImage smallScreenshot">
-  <img src="../images/areas/tenrin_hard.png"/>
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/tenrin_hard.png"/> <img src="../images/areas/tenrin_hard_2.png"/>
 </div>
 
 The 2nd dungeon of the game, and a decent bit harder than Tenrin Easy.<br/>Despite being a story dungeon, staves, pots, grass, and scrolls are found unidentified.<br/>That said, there's no limit to the number of items you can bring, so it's not all that difficult.

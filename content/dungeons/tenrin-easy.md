@@ -4,8 +4,8 @@ metaTitle: "Tenrin Easy - Shiren Gaiden: Asuka Kenzan Wiki"
 metaDescription: "Tenrin Easy dungeon guide for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
-<div class="pageTopImage smallScreenshot">
-  <img src="../images/areas/tenrin_easy.png"/>
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/tenrin_easy.png"/> <img src="../images/areas/tenrin_easy_2.png"/>
 </div>
 
 First dungeon of the game if you're playing the Dreamcast version.<br/>
@@ -231,7 +231,7 @@ If you have some extra money, visit the Mon Box Shop and buy Bow Boy for 4000 Gi
 
 |Service|Price|
 |-|-|
-|Upgrade Sword|1500|
+|Upgrade Weapon|1500|
 |Erase Seal|1000|
 |Repair Bracelet|500|
 

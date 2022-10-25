@@ -4,8 +4,8 @@ metaTitle: "Bufu Trial - Shiren Gaiden: Asuka Kenzan Wiki"
 metaDescription: "Bufu Trial dungeon guide for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
-<div class="pageTopImage smallScreenshot">
-  <img src="../images/areas/yakagura_1.png"/>
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/yakagura_1.png"/> <img src="../images/areas/bufu.png"/>
 </div>
 
 Dungeon where Mon Boxes and circuits can be found on the ground, and you progress using Mon Boxes.<br/>Weapons and shields can be obtained by bringing Kengo types, and you always start with an Escape Scroll.
@@ -243,7 +243,7 @@ Most Mon Boxes can be used effectively even if they haven't reached their level 
       <td>Can be purchased in Yakagura Forest from the start.<br/>Silver arrows are great for Monster Houses, but watch where you stand.</td>
     </tr>
     <tr>
-      <td class="highlightGray"><span class="farming">Zalokleft</span></td>
+      <td class="highlightGray">Zalokleft</td>
       <td>Can be found between 5-7F.<br/>Steal 1 item per enemy, or escape from a bad situation.<br/>Insert a Steady Circuit if you don't want to warp.</td>
     </tr>
     <tr>
@@ -276,7 +276,7 @@ Most Mon Boxes can be used effectively even if they haven't reached their level 
       <td>Synthesize a Lv99 Cave Mamel with a Fuuma Stone to obtain Silver Mamel.<br/>Another 99 defense Mon Box, but only 10 HP, so don't leave it out.</td>
     </tr>
     <tr>
-      <td class="highlightGray"><span class="item">Nigiri Master</span></td>
+      <td class="highlightGray">Nigiri Master</td>
       <td>Ensures you won't starve. Nigiri Boss works as well.</td>
     </tr>
     <tr>
@@ -288,15 +288,15 @@ Most Mon Boxes can be used effectively even if they haven't reached their level 
       <td>Shoot silver arrows from behind Cave Mamel at double speed.</td>
     </tr>
     <tr>
-      <td class="highlightGray"><span class="danger">Porkon</span></td>
+      <td class="highlightGray">Porkon</td>
       <td>Use it with Devil Kangaroo to wipe out any monster before they get close.</td>
     </tr>
     <tr>
-      <td class="highlightGray">Iron <span class="farming">Zalokleft</span></td>
+      <td class="highlightGray">Iron Zalokleft</td>
       <td>Insert Swift Circuits and warp in search of the stairs at triple speed.<br/>Be warned that if you warp into a Gitan room, the Mon Box is lost.</td>
     </tr>
     <tr>
-      <td class="highlightGray"><span class="item">Shihan</span></td>
+      <td class="highlightGray">Shihan</td>
       <td>Easily obtain Scout Bracelet and Decoy Bracelet.</td>
     </tr>
     <tr>

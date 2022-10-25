@@ -4,8 +4,8 @@ metaTitle: "Kaka Roo Trial - Shiren Gaiden: Asuka Kenzan Wiki"
 metaDescription: "Kaka Roo Trial dungeon guide for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
 ---
 
-<div class="pageTopImage smallScreenshot">
-  <img src="../images/areas/yakagura_2.png"/>
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/yakagura_2.png"/> <img src="../images/areas/kaka_roo.png"/>
 </div>
 
 Dungeon where you make use of traps to progress, similar to Halfway Well in Shiren 2.<br/>Traps can be picked up, placed, and tossed at monsters so that they land underfoot and activate.
@@ -434,61 +434,641 @@ Recommended to bring Strange Onigiri and Koyori's Onigiri into the dungeon.<br/>
 
 Early game becomes much easier if you level up a Pit Mamel (1-2F) into a Cave Mamel and defeat it.<br/>Have Pit Mamel and Mamel follow you into a hallway, and toss a Spin Trap at the Pit Mamel in a hallway bend.<br/>This ensures Mamel won't run away, and Pit Mamel is free to attack it.
 
-Shops can be generated on 1-2F, so keep an eye out for Blast Hammer if you find a shop.<br/>You likely won't be able to afford it this early in the dungeon, so you'll usually have to steal it instead.<br/>Use Tunnel or Pull staves, wait until the wind blows so you can see the locations of enemies, etc.<br/>※ Spoil Traps are never generated on 1-2F, so be careful not to starve.
+Shops can be generated on 1-2F, so keep an eye out for Blast Hammer if you find a shop.<br/>You likely won't be able to afford it this early in the dungeon, so you'll usually have to steal it instead.<br/>Use Tunnel or Pull staves, wait until the wind blows so you can see the locations of enemies, etc.<br/>※ Spoil Traps can only be generated starting on 3F, so be careful not to starve if you linger.
 
 ### 3-5F
 
-Gazer (4-5F),
+Gazer (4-5F), Mid Chintala (4-6F), Spearfish (4-5F), Bitter Sluggy (5-7F), and Bored Kappa (5-6F) appear.<br/>You can quickly end up collapsed fighting any of these 1 vs 1 if you didn't level up, so use arrows or traps.
+
+Crow Tengu (3-4F) can be disguised as a weaker monster like Nigiri Novice, so don't let your guard down.
 
 ### 6-7F
 
+Lovely Locks (6-7F) is very strong at this point, so don't trade hits with it - Use Sleep or Slow traps.<br/><span class="strong">Lovely Locks</span> reflects items and staff magic, but can't reflect thrown traps when you have Trapper status.
 
+Collect Iron Arrows using Boy Cart (6-7F) and favorable terrain.<br/>Use a Poison Arrow Trap on the Boy Cart for added safety - Bowl Shield can then be used to replenish fullness.<br/>99 arrows is usually enough for the story clear, but you'll want 3\~5 sets of 99 arrows if aiming for 50F.<br/>※ If you aren't able to collect arrows here, utilize Wood Arrow and Iron Arrow traps.
+
+Beware of Curse Girl (6-9F) - There's no way to purify items in this dungeon, so keep arrows inside pots.
+
+Nigiri Morph (6-9F) can be used to obtain Large Onigiri and raise max fullness to 200 if desired.<br/>Lower its strength to 0 using a Poison Arrow Trap, then step in place until it uses its special attack.<br/>※ You can buy Huge Onigiri at the village right after this floor range, so it's best to focus on arrows.
 
 ### Nikotama Village
 
+Storage Pots are not available in the item shop.<br/>Heal Pot restores HP even when you insert a trap, so it's good to have at least 1 pot on hand.<br/>If you have lots of Gitan, stock up on Otogiriso and eat them on 8F to increase max HP.<br/>※ Max HP won't increase if you eat them inside the storage building.
 
+#### Inn
+
+Pay 500 Gitan to fully restore HP and fullness.
+
+#### Item Shop
+
+|Item|Price|
+|-|-|
+|Huge Onigiri|300|
+|Otogiriso|500|
+|Heal Pot[4]|1200|
+|Mallet|3000|
+|Pickaxe|3500|
+|Decoy Bracelet|7500|
 
 ### 8-9F
 
+Shuffle Dungeon that usually has a lots of 1x1 tile pillars in rooms, making it easier to run from enemies.<br/>Again, beware of Curse Girl (6-9F) and Nigiri Morph (6-9F) special attacks.
 
+Defeat Demon Warriors (8-11F) and use their ghosts to create a Tiger Chucker or Shihan for lots of experience.<br/>Curse Trap can also be used to level up a monster by having it defeat another monster.
 
-### 10-13F
+### 10-15F
 
+Earth Needle (12-23F) is a major threat around these floors.<br/>It has 150 HP and 15 defense, so you'll burn through lots of arrows if you try to defeat it.<br/>It's usually better to run away or use a trap that one-shots it such as Spoil Trap or Landmine.<br/>You can also loop retreat 3 steps → attack → retreat 5 steps → attack to safely defeat it.
 
+#### 10-13F
+
+Random Dungeon that seems to have a higher chance of generating a single room Monster House.<br/>If you're unlucky, Nemuri can interfere by turning the next floor into a Monster House as well.<br/>Equip a Decoy Bracelet before descending the stairs if you happen to have one on hand.
+
+If you end up in a Monster House, ignore items and rush to the stairs.<br/>Monster Traps and Kappa Pests (10-13F) make item collection difficult, and lingering introduces risk.<br/>Use items like Pitfall, Pin Scroll, or Swap Staff for safety.
+
+Multiply Traps and Pitfalls can be generated starting on 10F, so it's a good time to use Trap Scrolls.<br/>Use Trip Stones to obtain items - Scout Bracelet, Warp Bracelet, Storage Pot, Navigation Scroll are all great.
 
 ### 14-15F
 
+Shuffle Dungeon, meaning you can't use Pitfalls to skip to the next floor.
 
+The monster table hasn't changed much from the previous floor range, but Curse Sister (14-16F) appears,<br/>so keep important items inside pots.
 
 ### Boss
 
+Fight against Tina and 2 Taurs.
 
+|Name|HP|Atk|Def|Exp|Notes|
+|-|-|-|-|-|-|
+|Tina|200|50|10|3000|・Throws Asuka or a monster within a 20 tile radius.|
+
+Tina is immune to things like Spoil Trap, Sleep Trap, and Pin Scroll, <span class="blueText">but Bear Trap is effective on her</span>.<br/>Throw a Landmine or Spoil Trap at Taurs to one-shot them, then pin Tina in place using a Bear Trap<br/>and shoot arrows at her to have a one-sided fight.
+
+#### Trapper Bracelet
+
+If you return to this room after clearing the dungeon, you can obtain a Trapper Bracelet.<br/>There will be 2 exits - One is used to return to Yakagura Forest, and the other continues to the 2nd clear.
 
 ### 16-21F
 
+Cranky Tank (16-21F) and Horse Shogun (20-28F) act at double speed.<br/>Rancor Sluggy (16-23F) can multiply when hit, so use Landmine or Spoil Trap to one-shot it, or a Strip Trap to seal it.<br/>Dragon (16-23F)'s fire breath can be used to grill onigiri.
 
+It's best to place a Strip Trap in a hallway to counter Rancor Sluggy, Nigiri Boss (20-25F), and swift enemies<br/>created by Evil Kangaroo (18-19F) - Strip Trap has a 10% chance to break, so it usually lasts a while.<br/>This technique gets more important the deeper you go to counter Venom Sluggy, Porkon, Archdragon, etc.
 
 ### 22-25F
 
+Iai (22-25F) and Sonic Boar (22-25F) can cause item loss.<br/>Sonic Boar also has 150 HP and 20 defense, making it quite a threat just to fight normally.
 
+Phantom Devil (23-28F) appears, which is an invisible monster that acts at double speed.<br/>If you get hit while standing on a water tile, unequip your Float or Phantasm bracelet to warp to a room,<br/>then activate a Landmine after it approaches and hits you again to one-shot it.<br/>※ You can throw a Landmine at an adjacent wall to activate it on the same turn.
+
+Tiger Chucker (24-35F) provides lots of experience points, so hunt some to level up if desired.
 
 ### 26-29F
 
-
+Evil Kangaroo (26-29F) returns, so there's a constant possibility of swift monsters.<br/>Cave Mamel (26-29F) can be defeated in 1 hit by shooting a Poison Arrow.
 
 ### 30-36F
 
+Mirage Devil (31-36F) is invisible and acts at triple speed.<br/>Same as before - Use a Landmine to one-shot it after you get hit by its attack.
 
+Porkon (30-36F) appears, dealing high damage to both you and your equipped bracelets.<br/>It's ideal to have 2\~3 Heal Pots on hand on these floors, and remember to set a Strip Trap in a hallway.
+
+Fire Bomb (28-39F)'s area blaze → Sonic Boar (30-38F) knocking you into the flames can be a nasty combo.
 
 ### 37-39F
 
-
+Throw Spoiled Onigiri at Nigiri Master (35-38F) to instantly defeat them.<br/>Lashagga (38-50F)'s triple attack is deadly due to the lack of a strong shield, so use a trap against it.
 
 ### 40-50F
 
+Astral Devil (40-50F) is invisible, acts at triple speed, and can pass through walls.<br/>Use Pitfalls and Navigation Scrolls for safety, and keep a Decoy Bracelet equipped at all times.<br/>Walk along walls if possible, and throw a Landmine at the wall if you get hit by an Astral Devil.<br/>※ Ether Devil types are guaranteed to be adjacent to Asuka after getting hit by them.
 
+Porkon (40-44F) makes another appearance, and Archdragon (44-50F) also appears.<br/>If you get hit by fire, check Archdragon's position using Scout Bracelet, then warp closer using Warp Bracelet.
+
+Bellthoven (40-50F) can summon three level 3 monsters at once, so never let it act when adjacent.<br/>Evil Kangaroo (43-44F) and Devil Kangaroo (48-50F) also appear, so just rush stairs.
+
+Traps are worth 10,000 points each, so read a Trap Scroll on 50F if you're aiming for a high score.
 
 # Monsters
+
+Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</span> <span class="item">Destroys Items</span> <span class="strong">Strong</span> <span class="danger">Dangerous</span> <span class="extreme">Very Dangerous</span>
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="7">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td>Mamel</td>
+      <td>Pit Mamel</td>
+      <td>Chintala</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Mamel</td>
+      <td>Pit Mamel</td>
+      <td>Chintala</td>
+      <td>Nigiri Novice</td>
+      <td>Lady Locks</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Sluggy</td>
+      <td>Crow Tengu</td>
+      <td>Tug Frog</td>
+      <td>Nigiri Novice</td>
+      <td>Lady Locks</td>
+      <td class="highlightGray"></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Sluggy<br/><span class="item">Gazer</span></td>
+      <td>Crow Tengu</td>
+      <td>Tug Frog</td>
+      <td>Laugh Polygon</td>
+      <td>Spearfish</td>
+      <td>Bow Boy</td>
+      <td>Mid Chintala</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Bitter Sluggy<br/><span class="item">Gazer</span></td>
+      <td>Bored Kappa</td>
+      <td class="highlightGray"></td>
+      <td>Laugh Polygon</td>
+      <td>Spearfish</td>
+      <td>Bow Boy</td>
+      <td>Mid Chintala</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Bitter Sluggy<br/><span class="item">Nigiri Morph</span></td>
+      <td>Bored Kappa<br/><span class="item">Curse Girl</span></td>
+      <td>Twisty Hani<br/>N'dubba</td>
+      <td>Laugh Polygon<br/><span class="strong">Lovely Locks</span></td>
+      <td>Lt. Spearfish<br/>Shadow Hat</td>
+      <td><span class="useful">Boy Cart</span></td>
+      <td>Mid Chintala</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Bitter Sluggy<br/><span class="item">Nigiri Morph</span></td>
+      <td><span class="item">Curse Girl</span></td>
+      <td>Twisty Hani<br/>N'dubba</td>
+      <td>Laugh Polygon<br/><span class="strong">Lovely Locks</span></td>
+      <td>Lt. Spearfish<br/>Shadow Hat</td>
+      <td><span class="useful">Boy Cart</span></td>
+      <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <td colspan="8" class="monsterTableVillage">Nikotama Village</td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Pumphantasm<br/><span class="item">Nigiri Morph</span></td>
+      <td>Bone Dragon<br/><span class="item">Curse Girl</span></td>
+      <td>Twisty Hani<br/><span class="item">Kengo</span></td>
+      <td>Laugh Polygon<br/>Spike Dragon</td>
+      <td>Jagan Mask</td>
+      <td>Demon Warrior</td>
+      <td>Tiger Tosser</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Pumphantasm<br/><span class="item">Nigiri Morph</span></td>
+      <td>Bone Dragon<br/><span class="item">Curse Girl</span></td>
+      <td>Twisty Hani<br/><span class="item">Kengo</span></td>
+      <td>Laugh Polygon<br/>Spike Dragon</td>
+      <td>Jagan Mask</td>
+      <td>Demon Warrior</td>
+      <td>Tiger Tosser</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Pumphantasm<br/>Floor Dragon<br/>Private Ant</td>
+      <td>Bone Dragon<br/>Rocket Boar<br/>Schubell</td>
+      <td>Twisty Hani<br/>Kappa Pest<br/>Pop Tank</td>
+      <td>Mutaikon<br/>Pull Frog<br/>Horse Ronin</td>
+      <td>Jagan Mask<br/>Shadow Hat</td>
+      <td>Demon Warrior<br/>Falcon Tengu</td>
+      <td>Bat Kangaroo<br/>Bomb</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Pumphantasm<br/>Floor Dragon<br/>Private Ant</td>
+      <td>Bone Dragon<br/>Rocket Boar<br/>Schubell</td>
+      <td>Twisty Hani<br/>Kappa Pest<br/>Pop Tank</td>
+      <td>Mutaikon<br/>Pull Frog<br/>Horse Ronin</td>
+      <td>Shadow Hat</td>
+      <td>Demon Warrior<br/>Falcon Tengu</td>
+      <td>Bat Kangaroo<br/>Bomb</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Pumphantasm<br/>Floor Dragon<br/>Ether Devil</td>
+      <td><span class="strong">Earth Needle</span><br/>Rocket Boar<br/>Inferno</td>
+      <td>Twisty Hani<br/>Kappa Pest<br/>Tiger Hurler</td>
+      <td>Mutaikon<br/>Pull Frog<br/>Muron</td>
+      <td>Spin Polygon<br/><span class="item">Super Gazer</span><br/>Goldie Locks</td>
+      <td>Shagga<br/>Taur<br/><span class="danger">King Tusker</span></td>
+      <td>Bat Kangaroo<br/>Porky</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Pumphantasm<br/>Floor Dragon<br/>Ether Devil</td>
+      <td><span class="strong">Earth Needle</span><br/>Rocket Boar<br/>Inferno</td>
+      <td>Twisty Hani<br/>Kappa Pest<br/>Tiger Hurler</td>
+      <td>Mutaikon<br/>Muron</td>
+      <td>Spin Polygon<br/><span class="item">Super Gazer</span><br/>Goldie Locks</td>
+      <td>Shagga<br/>Taur<br/><span class="danger">King Tusker</span></td>
+      <td>Bat Kangaroo<br/>Porky</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Pumphantasm<br/><span class="item">Curse Sister</span><br/>Ether Devil</td>
+      <td><span class="strong">Earth Needle</span><br/>Tiny Phoenix<br/>Inferno</td>
+      <td>Black Hat<br/>Tiger Hurler</td>
+      <td>Mutaikon<br/>Muron</td>
+      <td>Spin Polygon<br/><span class="item">Super Gazer</span><br/>Goldie Locks</td>
+      <td>Shagga<br/>Taur</td>
+      <td>Bat Kangaroo<br/>Porky</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td><span class="item">Curse Sister</span><br/>Ether Devil</td>
+      <td><span class="strong">Earth Needle</span><br/>Tiny Phoenix<br/>Inferno</td>
+      <td>Black Hat<br/>Tiger Hurler</td>
+      <td>Mutaikon<br/>Muron</td>
+      <td>Spin Polygon<br/><span class="item">Super Gazer</span><br/>Goldie Locks</td>
+      <td>Shagga<br/>Taur</td>
+      <td>Bat Kangaroo<br/>Porky</td>
+    </tr>
+    <tr>
+      <td colspan="8" class="highlightYellow">Boss</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Horse Samurai<br/><span class="item">Curse Sister</span><br/>Cranky Tank</td>
+      <td><span class="strong">Earth Needle</span><br/>Rancor Sluggy<br/>Pumphantom</td>
+      <td>Black Hat<br/>Dragon Head<br/>Yenron</td>
+      <td>Dragon<br/>Skull Dragon<br/>Hannya Warrior</td>
+      <td>Dance Polygon<br/>Chainhead<br/>Big Chintala</td>
+      <td>Shagga<br/>Monarch Tusker<br/>Jet Boar</td>
+      <td>Elec Bomb<br/>Menbell</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td>Horse Samurai<br/>Yank Frog<br/>Cranky Tank</td>
+      <td><span class="strong">Earth Needle</span><br/>Rancor Sluggy<br/>Pumphantom</td>
+      <td>Black Hat<br/>Dragon Head<br/>Yenron</td>
+      <td>Dragon<br/>Skull Dragon<br/>Hannya Warrior</td>
+      <td>Dance Polygon<br/>Chainhead<br/>Big Chintala</td>
+      <td>Shagga<br/>Monarch Tusker<br/>Jet Boar</td>
+      <td>Elec Bomb<br/>Menbell<br/>Captain Ant</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td>Horse Samurai<br/>Yank Frog<br/>Cranky Tank</td>
+      <td><span class="strong">Earth Needle</span><br/>Rancor Sluggy<br/>Pumphantom</td>
+      <td>Black Hat<br/>Dragon Head<br/>Yenron</td>
+      <td>Dragon<br/>Skull Dragon<br/>Hannya Warrior</td>
+      <td>Dance Polygon<br/>Chainhead<br/>Big Chintala</td>
+      <td><span class="danger">Evil Kangaroo</span><br/>Monarch Tusker</td>
+      <td>Elec Bomb<br/>Menbell<br/>Captain Ant</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td>Horse Samurai<br/>Yank Frog<br/>Cranky Tank</td>
+      <td><span class="strong">Earth Needle</span><br/>Rancor Sluggy<br/>Pumphantom</td>
+      <td>Minotaur<br/>Dragon Head<br/>Yenron</td>
+      <td>Dragon<br/>Skull Dragon<br/>Capt. Spearfish</td>
+      <td>Dance Polygon<br/>Chainhead</td>
+      <td><span class="danger">Evil Kangaroo</span><br/>Monarch Tusker</td>
+      <td>Elec Bomb<br/>Menbell<br/>Captain Ant</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td>Horse Shogun<br/>Yank Frog<br/>Cranky Tank</td>
+      <td><span class="strong">Earth Needle</span><br/>Rancor Sluggy<br/>Jagar Prince</td>
+      <td>Minotaur<br/>Dragon Head</td>
+      <td>Dragon<br/>Skull Dragon<br/>Capt. Spearfish</td>
+      <td>Dance Polygon<br/>Chainhead</td>
+      <td><span class="danger">Nigiri Boss</span><br/>Monarch Tusker</td>
+      <td>Elec Bomb<br/>Menbell<br/>Captain Ant</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td>Horse Shogun<br/>Yank Frog<br/>Cranky Tank</td>
+      <td><span class="strong">Earth Needle</span><br/>Rancor Sluggy<br/>Jagar Prince</td>
+      <td>Minotaur<br/>Dragon Head<br/>Nashagga</td>
+      <td>Dragon<br/>Skull Dragon<br/>Capt. Spearfish</td>
+      <td>Dance Polygon<br/>Chainhead</td>
+      <td><span class="danger">Nigiri Boss</span><br/>Monarch Tusker</td>
+      <td>Elec Bomb<br/>Menbell<br/>Captain Ant</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td>Horse Shogun<br/>Yank Frog<br/><span class="item">Iai</span></td>
+      <td><span class="strong">Earth Needle</span><br/>Rancor Sluggy<br/>Jagar Prince</td>
+      <td>Minotaur<br/>Dragon Head<br/>Nashagga</td>
+      <td>Dragon<br/>Skull Dragon<br/>Capt. Spearfish</td>
+      <td>Dance Polygon<br/>Chainhead</td>
+      <td><span class="danger">Nigiri Boss</span><br/>Porko</td>
+      <td>Elec Bomb<br/><span class="strong">Sonic Boar</span></td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td>Horse Shogun<br/>Yank Frog<br/><span class="item">Iai</span></td>
+      <td><span class="strong">Earth Needle</span><br/>Rancor Sluggy<br/>Jagar Prince</td>
+      <td>Minotaur<br/><span class="danger">Phantom Devil</span><br/>Nashagga</td>
+      <td>Dragon<br/>Tunnel Dragon<br/>Capt. Spearfish</td>
+      <td>Dance Polygon</td>
+      <td><span class="danger">Nigiri Boss</span><br/>Porko</td>
+      <td>Elec Bomb<br/><span class="strong">Sonic Boar</span></td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td>Horse Shogun<br/>Yank Frog<br/><span class="item">Iai</span></td>
+      <td>Tiger Chucker<br/>Jagar Prince</td>
+      <td><span class="danger">Phantom Devil</span><br/>Nashagga</td>
+      <td>Tunnel Dragon<br/>Capt. Spearfish</td>
+      <td class="highlightGray"></td>
+      <td><span class="danger">Nigiri Boss</span><br/>Porko</td>
+      <td><span class="strong">Sonic Boar</span></td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Horse Shogun<br/>Yank Frog<br/><span class="item">Iai</span></td>
+      <td>Tiger Chucker<br/>Jagar Prince</td>
+      <td>Black Hat<br/><span class="danger">Phantom Devil</span><br/>Nashagga</td>
+      <td>Tunnel Dragon<br/>Capt. Spearfish</td>
+      <td class="highlightGray"></td>
+      <td><span class="danger">Nigiri Boss</span><br/>Porko</td>
+      <td><span class="strong">Sonic Boar</span></td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Horse Shogun</td>
+      <td>Tiger Chucker</td>
+      <td>Black Hat<br/><span class="danger">Phantom Devil</span><br/>Nashagga</td>
+      <td>Eagle Tengu<br/>Tunnel Dragon<br/>Capt. Spearfish</td>
+      <td>Sky Dragon</td>
+      <td><span class="danger">Evil Kangaroo</span></td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Horse Shogun<br/>Venom Sluggy</td>
+      <td>Tiger Chucker</td>
+      <td>Black Hat<br/><span class="danger">Phantom Devil</span><br/>Nashagga</td>
+      <td>Eagle Tengu<br/>Tunnel Dragon<br/>Capt. Spearfish</td>
+      <td>Sky Dragon</td>
+      <td><span class="danger">Evil Kangaroo</span></td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Horse Shogun<br/>Venom Sluggy</td>
+      <td>Tiger Chucker<br/>Emperor Tusker</td>
+      <td>Black Hat<br/><span class="danger">Phantom Devil</span><br/>Nashagga</td>
+      <td>Eagle Tengu<br/>Tunnel Dragon<br/>Adm. Spearfish</td>
+      <td>Sky Dragon<br/>Fire Bomb</td>
+      <td><span class="danger">Evil Kangaroo</span><br/>General Ant</td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Venom Sluggy</td>
+      <td>Tiger Chucker<br/>Emperor Tusker</td>
+      <td>Black Hat<br/>Nashagga</td>
+      <td>Eagle Tengu<br/>Adm. Spearfish</td>
+      <td>Sky Dragon<br/>Fire Bomb</td>
+      <td><span class="danger">Evil Kangaroo</span><br/>General Ant</td>
+      <td>Cave Mamel</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td><span class="extreme">Porkon</span><br/>Venom Sluggy</td>
+      <td>Tiger Chucker<br/>Emperor Tusker</td>
+      <td>Black Hat<br/>Jagar King<br/>Nashagga</td>
+      <td>Eagle Tengu<br/>Adm. Spearfish</td>
+      <td><span class="strong">Sonic Boar</span><br/>Fire Bomb</td>
+      <td>General Ant</td>
+      <td><span class="item">Shihan</span></td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td><span class="extreme">Porkon</span><br/>Venom Sluggy</td>
+      <td>Tiger Chucker<br/>Emperor Tusker</td>
+      <td>Black Hat<br/>Jagar King<br/>Nashagga</td>
+      <td>Eagle Tengu<br/><span class="extreme">Mirage Devil</span><br/>Adm. Spearfish</td>
+      <td><span class="strong">Sonic Boar</span><br/>Fire Bomb</td>
+      <td>General Ant</td>
+      <td><span class="item">Shihan</span></td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td><span class="extreme">Porkon</span><br/>Venom Sluggy</td>
+      <td>Tiger Chucker</td>
+      <td>Black Hat<br/>Jagar King</td>
+      <td>Eagle Tengu<br/><span class="extreme">Mirage Devil</span><br/>Adm. Spearfish</td>
+      <td><span class="strong">Sonic Boar</span><br/>Fire Bomb</td>
+      <td class="highlightGray"></td>
+      <td><span class="item">Shihan</span><br/>Shogun</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td><span class="extreme">Porkon</span><br/>Venom Sluggy</td>
+      <td>Tiger Chucker</td>
+      <td>Black Hat<br/>Jagar King</td>
+      <td>Eagle Tengu<br/><span class="extreme">Mirage Devil</span><br/>Adm. Spearfish</td>
+      <td><span class="strong">Sonic Boar</span><br/>Fire Bomb</td>
+      <td class="highlightGray"></td>
+      <td><span class="item">Shihan</span><br/>Shogun</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td><span class="extreme">Porkon</span><br/>Venom Sluggy</td>
+      <td>Tiger Chucker</td>
+      <td>Black Hat<br/>Jagar King</td>
+      <td>Eagle Tengu<br/><span class="extreme">Mirage Devil</span><br/>Adm. Spearfish</td>
+      <td><span class="strong">Sonic Boar</span><br/>Fire Bomb</td>
+      <td class="highlightGray"></td>
+      <td><span class="item">Shihan</span><br/>Shogun</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td><span class="extreme">Porkon</span><br/>Venom Sluggy<br/><span class="item">Nigiri Master</span></td>
+      <td>Tiger Chucker</td>
+      <td>Black Hat<br/>Jagar King</td>
+      <td>Eagle Tengu<br/><span class="extreme">Mirage Devil</span><br/>Adm. Spearfish</td>
+      <td><span class="strong">Sonic Boar</span><br/>Fire Bomb</td>
+      <td>General Ant</td>
+      <td><span class="item">Shihan</span><br/>Shogun</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td><span class="extreme">Porkon</span><br/>Venom Sluggy<br/><span class="item">Nigiri Master</span></td>
+      <td class="highlightGray"></td>
+      <td>Black Hat<br/>Jagar King</td>
+      <td>Eagle Tengu<br/><span class="extreme">Mirage Devil</span><br/>Adm. Spearfish</td>
+      <td><span class="strong">Sonic Boar</span><br/>Fire Bomb</td>
+      <td>Bat Kangaroo<br/>General Ant</td>
+      <td><span class="item">Shihan</span><br/>Shogun</td>
+    </tr>
+    <tr>
+      <th>37</th>
+      <td>Venom Sluggy<br/><span class="item">Nigiri Master</span></td>
+      <td class="highlightGray"></td>
+      <td>Black Hat<br/>Jagar King</td>
+      <td>Eagle Tengu<br/><span class="item">Hyper Gazer</span><br/>Adm. Spearfish</td>
+      <td><span class="strong">Sonic Boar</span><br/>Fire Bomb</td>
+      <td>Bat Kangaroo<br/>General Ant</td>
+      <td><span class="item">Shihan</span><br/>Shogun</td>
+    </tr>
+    <tr>
+      <th>38</th>
+      <td>Venom Sluggy<br/><span class="item">Nigiri Master</span></td>
+      <td>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Eagle Tengu<br/><span class="item">Hyper Gazer</span><br/>Adm. Spearfish</td>
+      <td><span class="strong">Sonic Boar</span><br/>Fire Bomb</td>
+      <td>Bat Kangaroo<br/>General Ant</td>
+      <td><span class="item">Shihan</span><br/>Shogun</td>
+    </tr>
+    <tr>
+      <th>39</th>
+      <td class="highlightGray"></td>
+      <td>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/><span class="item">Hyper Gazer</span><br/>Adm. Spearfish</td>
+      <td>Fire Bomb<br/>Thunder Lance</td>
+      <td>General Ant</td>
+      <td>Shogun</td>
+    </tr>
+    <tr>
+      <th>40</th>
+      <td><span class="extreme">Porkon</span><br/>Bellthoven</td>
+      <td>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/><span class="item">Hyper Gazer</span></td>
+      <td><span class="extreme">Astral Devil</span><br/>Thunder Lance</td>
+      <td class="highlightGray"></td>
+      <td>Sing Polygon</td>
+    </tr>
+    <tr>
+      <th>41</th>
+      <td><span class="extreme">Porkon</span><br/>Bellthoven</td>
+      <td>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/><span class="item">Hyper Gazer</span></td>
+      <td><span class="extreme">Astral Devil</span><br/>Thunder Lance</td>
+      <td class="highlightGray"></td>
+      <td>Sing Polygon</td>
+    </tr>
+    <tr>
+      <th>42</th>
+      <td><span class="extreme">Porkon</span><br/>Bellthoven</td>
+      <td>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/><span class="item">Hyper Gazer</span></td>
+      <td><span class="extreme">Astral Devil</span><br/>Thunder Lance</td>
+      <td class="highlightGray"></td>
+      <td>Sing Polygon</td>
+    </tr>
+    <tr>
+      <th>43</th>
+      <td><span class="extreme">Porkon</span><br/>Bellthoven</td>
+      <td>Tiger Chucker<br/>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/><span class="item">Hyper Gazer</span></td>
+      <td><span class="extreme">Astral Devil</span><br/><span class="strong">Megataur</span><br/>Thunder Lance</td>
+      <td><span class="danger">Evil Kangaroo</span></td>
+      <td>Sing Polygon</td>
+    </tr>
+    <tr>
+      <th>44</th>
+      <td><span class="extreme">Porkon</span><br/>Bellthoven</td>
+      <td>Tiger Chucker<br/>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/><span class="item">Hyper Gazer</span><br/>Eagle Tengu</td>
+      <td><span class="extreme">Astral Devil</span><br/><span class="strong">Megataur</span><br/>Thunder Lance</td>
+      <td><span class="danger">Evil Kangaroo</span><br/><span class="extreme">Archdragon</span><br/>Horse Emperor</td>
+      <td>Sing Polygon<br/>Cranky Tank<br/>Shenron</td>
+    </tr>
+    <tr>
+      <th>45</th>
+      <td>Bellthoven<br/>Jagar King</td>
+      <td>Tiger Chucker<br/>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/><span class="item">Hyper Gazer</span><br/>Eagle Tengu</td>
+      <td><span class="extreme">Astral Devil</span><br/><span class="strong">Megataur</span><br/>Thunder Lance</td>
+      <td><span class="extreme">Archdragon</span><br/>Horse Emperor</td>
+      <td>Sing Polygon<br/>Cranky Tank<br/>Shenron</td>
+    </tr>
+    <tr>
+      <th>46</th>
+      <td>Bellthoven<br/>Jagar King</td>
+      <td>Tiger Chucker<br/>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/>Eagle Tengu</td>
+      <td><span class="extreme">Astral Devil</span><br/><span class="strong">Megataur</span><br/>Thunder Lance</td>
+      <td><span class="extreme">Archdragon</span><br/>Horse Emperor</td>
+      <td>Sing Polygon<br/>Cranky Tank<br/>Shenron</td>
+    </tr>
+    <tr>
+      <th>47</th>
+      <td>Bellthoven<br/>Jagar King</td>
+      <td>Tiger Chucker<br/>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/>Eagle Tengu</td>
+      <td><span class="extreme">Astral Devil</span><br/><span class="strong">Megataur</span><br/>Thunder Lance</td>
+      <td><span class="extreme">Archdragon</span><br/>Horse Emperor</td>
+      <td>Sing Polygon<br/>Cranky Tank<br/>Shenron</td>
+    </tr>
+    <tr>
+      <th>48</th>
+      <td>Bellthoven<br/><span class="item">Nigiri Master</span></td>
+      <td>Tiger Chucker<br/>Emperor Tusker<br/>Gigahead</td>
+      <td>Pumpanshee<br/>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/>Eagle Tengu</td>
+      <td><span class="extreme">Astral Devil</span><br/><span class="strong">Megataur</span><br/>Thunder Lance</td>
+      <td><span class="extreme">Devil Kangaroo</span><br/><span class="extreme">Archdragon</span><br/>Horse Emperor</td>
+      <td>Sing Polygon<br/>Cranky Tank<br/>Shenron</td>
+    </tr>
+    <tr>
+      <th>49</th>
+      <td>Bellthoven<br/><span class="item">Nigiri Master</span></td>
+      <td>Tiger Chucker<br/>Emperor Tusker<br/>Gigahead</td>
+      <td>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/>Eagle Tengu</td>
+      <td><span class="extreme">Astral Devil</span><br/><span class="strong">Megataur</span><br/>Thunder Lance</td>
+      <td><span class="extreme">Devil Kangaroo</span><br/><span class="extreme">Archdragon</span><br/>Horse Emperor</td>
+      <td>Sing Polygon<br/>Cranky Tank<br/>Shenron</td>
+    </tr>
+    <tr>
+      <th>50</th>
+      <td>Bellthoven<br/><span class="item">Nigiri Master</span></td>
+      <td>Tiger Chucker<br/>Emperor Tusker<br/>Gigahead</td>
+      <td>Garm Dragon<br/><span class="strong">Lashagga</span></td>
+      <td>Dark Hat<br/>Eagle Tengu</td>
+      <td><span class="extreme">Astral Devil</span><br/><span class="strong">Megataur</span><br/>Thunder Lance</td>
+      <td><span class="extreme">Devil Kangaroo</span><br/><span class="extreme">Archdragon</span><br/>Horse Emperor</td>
+      <td>Sing Polygon<br/>Cranky Tank<br/>Shenron</td>
+    </tr>
+  </tbody>
+</table>
 
 # Items
 

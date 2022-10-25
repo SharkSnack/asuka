@@ -1272,11 +1272,11 @@ export const baseStyles = css`
     color: white;
     background-color: #99bfab;
   }
-  .monsterTableNmach {
+  .monsterTableSilver {
     color: white;
     background-color: #aaaaa0;
   }
-  .monsterTableNdup {
+  .monsterTableGold {
     color: white;
     background-color: #cece7e;
   }
@@ -1501,6 +1501,14 @@ export const baseStyles = css`
     position: relative !important;
   }
   .pageTopImage img {
+    padding-top: 5px;
+    position: relative !important;
+  }
+  .dungeonPageTopImage2 {
+    display: flex;
+    max-width: 560px;
+  }
+  .dungeonPageTopImage2 img {
     padding-top: 5px;
     position: relative !important;
   }

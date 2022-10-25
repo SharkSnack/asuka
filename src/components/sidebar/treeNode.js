@@ -39,22 +39,28 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[9] = { items:[], label: 'projectiles', title: 'Projectiles', url: '/items/projectiles'};
         items[10] = { items:[], label: 'circuits', title: 'Circuits', url: '/items/circuits'};
         items[11] = { items:[], label: 'mon-box', title: 'Mon Box', url: '/items/mon-box'};
-        items[12] = { items:[], label: 'skill-scrolls', title: 'Skill Scrolls', url: '/items/secret-skills'};
+        items[12] = { items:[], label: 'skill-scrolls', title: 'Skill Scrolls', url: '/items/skill-scrolls'};
         items[13] = { items:[], label: 'other-items', title: 'Other', url: '/items/other-items'};
         break;
       case 'resonance': // items
         items[0] = { items:[], label: 'resonance', title: 'Resonance', url: '/system/resonance'};
         items[1] = { items:[], label: 'synthesis-seals', title: 'Seals', url: '/system/synthesis-seals'};
-        items[2] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
+        items[2] = { items:[], label: 'skill-scrolls', title: 'Secret Skills', url: '/system/secret-skills'};
+        items[3] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
         break;
       case 'bufu-trial': // dungeons
         items[0] = { items:[], label: 'tenrin-easy', title: 'Tenrin Easy', url: '/dungeons/tenrin-easy'};
         items[1] = { items:[], label: 'tenrin-hard', title: 'Tenrin Hard', url: '/dungeons/tenrin-hard'};
-        items[2] = { items:[], label: 'doras-trial', title: 'Doras', url: '/dungeons/doras-trial'};
-        items[3] = { items:[], label: 'bufu-trial', title: 'Bufu', url: '/dungeons/bufu-trial'};
-        items[4] = { items:[], label: 'murado-trial', title: 'Murado', url: '/dungeons/murado-trial'};
-        items[5] = { items:[], label: 'kaka-roo-trial', title: 'Kaka Roo', url: '/dungeons/kaka-roo-trial'};
-        items[6] = { items:[], label: 'kougas-hidden-hole', title: 'Kouga\'s Hole', url: '/dungeons/kougas-hidden-hole'};
+        items[2] = { items:[], label: 'kougas-hidden-hole', title: 'Kouga\'s Hole', url: '/dungeons/kougas-hidden-hole'};
+        items[3] = { items:[], label: 'doras-trial', title: 'Doras', url: '/dungeons/doras-trial'};
+        items[4] = { items:[], label: 'bufu-trial', title: 'Bufu', url: '/dungeons/bufu-trial'};
+        items[5] = { items:[], label: 'murado-trial', title: 'Murado', url: '/dungeons/murado-trial'};
+        items[6] = { items:[], label: 'kaka-roo-trial', title: 'Kaka Roo', url: '/dungeons/kaka-roo-trial'};
+        items[7] = { items:[], label: 'gitau-trial', title: 'Gitau', url: '/dungeons/gitau-trial'};
+        items[8] = { items:[], label: 'kron-trial', title: 'Kron', url: '/dungeons/kron-trial'};
+        items[9] = { items:[], label: 'reeva-trial', title: 'Reeva', url: '/dungeons/reeva-trial'};
+        items[10] = { items:[], label: 'star-shaft', title: 'Star Shaft', url: '/dungeons/star-shaft'};
+        items[11] = { items:[], label: 'white-snake-isle', title: 'White Snake', url: '/dungeons/white-snake-isle'};
         break;
       default:
         // do nothing
