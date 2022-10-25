@@ -73,6 +73,11 @@ The 99F version can be cleared without allies if you obtain an Ironhead's Head +
 
 # Strategy
 
+<ul class="quickLinksUL">
+  <li><a href="#general">General</a></li>
+  <li><a href="#equipment-/-items">Equipment / Items</a></li>
+</ul>
+
 ### General
 
 #### Story Clear (17F)

@@ -65,6 +65,11 @@ Dungeon where floors consist of puzzles, similar to Fay's Puzzles in Shiren 1 an
 
 # Strategy
 
+<ul class="quickLinksUL">
+  <li><a href="#dungeon-mechanics">Dungeon Mechanics</a></li>
+  <li><a href="#solutions">Solutions</a></li>
+</ul>
+
 ### Dungeon Mechanics
 
 #### RNG

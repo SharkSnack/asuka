@@ -8,7 +8,9 @@ metaDescription: "Kron Trial dungeon guide for Shiren Gaiden: Onna Kenshi Asuka 
   <img src="../images/areas/yakagura_2.png"/> <img src="../images/areas/kron.png"/>
 </div>
 
-Dungeon where you make use of a new [Secret Skill](/system/secret-skills) system to progress.
+Dungeon where you make use of a new [Secret Skill](/system/secret-skills) gameplay system to progress.<br/>Secret skills are learned by reading skill scrolls, and spirit charges as turns elapse or you take damage.<br/>Skill scrolls can be found in this dungeon, and you can bring any number of skill scrolls when entering.<br/>Allies are also allowed, so keep that in mind if you're struggling to clear it on your own.
+
+It might seem counterintuitive, but intentionally taking damage can be an effective way to charge spirit.<br/>Islands with items are pretty common, and can be reached using the <span class="strong">Strider</span> skill.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -69,7 +71,63 @@ Dungeon where you make use of a new [Secret Skill](/system/secret-skills) system
 
 # Strategy
 
+<ul class="quickLinksUL">
+  <li><a href="#general">General</a></li>
+  <li><a href="#secret-skills">Secret Skills</a></li>
+  <li><a href="#equipment">Equipment</a></li>
+  <li><a href="#other-items">Other Items</a></li>
+</ul>
+
+### General
+
+### Secret Skills
+
+### Equipment
+
+### Other Items
+
 # Floor Guide
+
+### 1-2F
+
+### 3-8F
+
+### Shichiten City
+
+#### Item Shop
+
+|Item|Price|
+|-|-|
+|Meal Scroll|1500|
+|Precise Scroll|1200|
+|Bullet Scroll|600|
+|Swap Scroll|300|
+|P.Bow Scroll|400|
+|Assess Scroll|1000|
+|Huge Onigiri|300|
+|Heal Pot[4]|1200|
+|Decoy Bracelet|7500|
+|Retreat Scroll|500|
+
+### 9-10F
+
+### 11-16F
+
+### Boss
+
+### 17-25F
+
+### 26-30F
+
+### 31-40F
+
+### 41-50F
+
+### 51-60F
+
+### 61-70F
+
+### 71-99F
 
 # Monsters
 

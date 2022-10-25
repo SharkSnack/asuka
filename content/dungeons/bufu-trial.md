@@ -73,6 +73,12 @@ Events between Baribari and Kichizo progress as you return to Yakagura Forest be
 
 # Strategy
 
+<ul class="quickLinksUL">
+  <li><a href="#general">General</a></li>
+  <li><a href="#equipment">Equipment</a></li>
+  <li><a href="#mon-box">Mon Box</a></li>
+</ul>
+
 ### General
 
 #### Story Clear (19F)
@@ -95,7 +101,7 @@ Baribari can appear inside this dungeon, but is quite uncommon compared to Skele
 
 Throw weak Mon Boxes at Nigiri Novice (3-4F) to create a Nigiri Master, then throw an onigiri to level up.<br/>Level 19 or so gives a decent chance at surviving a surprise attack by Astral Devil when unequipping a Mon Box.<br/>You can restock Large Onigiri using Nigiri Master as you go, so there's no need to increase max fullness.<br/>A triple speed Iron Zalokleft can be used to warp in search of the stairs, but the Mon Box is lost if you warp<br/>into a Gitan room, so some luck is involved. If all goes well, you can clear the dungeon in less than an hour.
 
-### Equipment / Items
+### Equipment
 
 #### Weapon
 
@@ -224,7 +230,7 @@ Festive Shield raises shield base defense by 10 per ally character, and can be o
   </tbody>
 </table>
 
-#### Mon Box
+### Mon Box
 
 Most Mon Boxes can be used effectively even if they haven't reached their level cap.<br/>Baribari appears inside this dungeon, but unlike Skeleton's Challenge, he can't be used to rank up a Mon Box.
 
