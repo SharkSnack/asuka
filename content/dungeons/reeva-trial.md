@@ -237,8 +237,7 @@ Fight against Lagoon and his hands.
 |Name|HP|Atk|Def|Exp|Notes|
 |-|-|-|-|-|-|
 |Lagoon|300|50|0|9999|・Doesn't move, and immune to fire damage.<br/>・Changes the behavior of his hands based on a dice roll.<br/>　・Oni → Summons hands until there are 2 on the floor, hands summon monsters.<br/>　・Woman → Hands do a 20 damage lightning attack, monsters near hands level up.<br/>　・Clown → Hands power up and deal knockback when they attack.<br/>　・Flame → Fire pillars surround Lagoon and his hands.|
-|Right Hand|50|40|5|500|・Immune to fire damage.<br/>・Behavior changes based on a dice roll.|
-|Left Hand|50|40|5|500|・Immune to fire damage.<br/>・Behavior changes based on a dice roll.|
+|Lagoon's Hand|50|40|5|500|・Immune to fire damage.<br/>・Behavior changes based on a dice roll.|
 
 Shagga or Horse Ronin can make quick work of Lagoon if they're still alive.<br/>Shagga → Wear the Mon Box and use its triple attack on Lagoon's body.<br/>Horse Ronin → Wear the Mon Box and shoot Silver Arrows from the starting position.
 
@@ -292,297 +291,297 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td>N'dubba<br/>Crow Tengu</td>
       <td>Laugh Polygon<br/>Shadow Hat</td>
       <td>Mid Chintala<br/>Spike Dragon</td>
-      <td>Rocket Boar<br/>Nigiri Morph</td>
-      <td>Bow Boy<br/>Zalokleft</td>
+      <td>Rocket Boar<br/><span class="item">Nigiri Morph</span></td>
+      <td>Bow Boy<br/><span class="farming">Zalokleft</span></td>
       <td>Nigiri Novice<br/>Froggo</td>
       <td>Sluggy</td>
       <td>Tug Frog</td>
     </tr>
     <tr>
       <th>5</th>
-      <td>N'dubba<br/>Crow Tengu<br/>Thief Pelican</td>
+      <td>N'dubba<br/>Crow Tengu<br/><span class="useful">Thief Pelican</span></td>
       <td>Laugh Polygon<br/>Shadow Hat<br/>Pull Frog</td>
       <td>Mid Chintala<br/>Spike Dragon<br/>Bitter Sluggy</td>
-      <td>Rocket Boar<br/>Nigiri Morph<br/>Tiger Tosser</td>
-      <td>Bow Boy<br/>Zalokleft<br/>Gazer</td>
+      <td>Rocket Boar<br/><span class="item">Nigiri Morph</span><br/>Tiger Tosser</td>
+      <td>Bow Boy<br/><span class="farming">Zalokleft</span><br/><span class="item">Gazer</span></td>
       <td>Nigiri Novice<br/>Froggo</td>
       <td>Sluggy<br/>Boy Cart</td>
       <td>Tug Frog<br/>Bored Kappa</td>
     </tr>
     <tr>
       <th>6</th>
-      <td>N'dubba<br/>Thief Pelican</td>
+      <td>N'dubba<br/><span class="useful">Thief Pelican</span></td>
       <td>Laugh Polygon<br/>Shadow Hat<br/>Pull Frog</td>
       <td>Mid Chintala<br/>Spike Dragon<br/>Bitter Sluggy</td>
-      <td>Rocket Boar<br/>Nigiri Morph<br/>Tiger Tosser</td>
-      <td>Bow Boy<br/>Zalokleft<br/>Gazer</td>
+      <td>Rocket Boar<br/><span class="item">Nigiri Morph</span><br/>Tiger Tosser</td>
+      <td>Bow Boy<br/><span class="farming">Zalokleft</span><br/><span class="item">Gazer</span></td>
       <td>Nigiri Novice<br/>Pumphantasm</td>
       <td>Sluggy<br/>Boy Cart</td>
       <td>Tug Frog<br/>Bored Kappa</td>
     </tr>
     <tr>
       <th>7</th>
-      <td>N'dubba<br/>Spearfish<br/>Thief Pelican</td>
+      <td>N'dubba<br/>Spearfish<br/><span class="useful">Thief Pelican</span></td>
       <td>Shadow Hat<br/>Pull Frog</td>
       <td>Mid Chintala<br/>Spike Dragon<br/>Bitter Sluggy</td>
-      <td>Rocket Boar<br/>Nigiri Morph<br/>Tiger Tosser</td>
-      <td>Demon Warrior<br/>Zalokleft<br/>Gazer</td>
+      <td>Rocket Boar<br/><span class="item">Nigiri Morph</span><br/>Tiger Tosser</td>
+      <td>Demon Warrior<br/><span class="farming">Zalokleft</span><br/><span class="item">Gazer</span></td>
       <td>Horse Ronin</td>
       <td>Jagan Mask<br/>Boy Cart</td>
       <td>Lovely Locks<br/>Bored Kappa</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>N'dubba<br/>Spearfish<br/>Thief Pelican</td>
+      <td>N'dubba<br/>Spearfish<br/><span class="useful">Thief Pelican</span></td>
       <td>Shadow Hat<br/>Pull Frog</td>
       <td>Mid Chintala<br/>Spike Dragon<br/>Bitter Sluggy</td>
-      <td>Rocket Boar<br/>Nigiri Morph<br/>Tiger Tosser</td>
-      <td>Demon Warrior<br/>Zalokleft</td>
+      <td>Rocket Boar<br/><span class="item">Nigiri Morph</span><br/>Tiger Tosser</td>
+      <td>Demon Warrior<br/><span class="farming">Zalokleft</span></td>
       <td>Horse Ronin<br/>Mutaikon</td>
       <td>Jagan Mask<br/>Boy Cart</td>
       <td>Lovely Locks<br/>Bored Kappa</td>
     </tr>
     <tr>
       <th>9</th>
-      <td>N'dubba<br/>Bone Dragon<br/>Thief Pelican</td>
+      <td>N'dubba<br/>Bone Dragon<br/><span class="useful">Thief Pelican</span></td>
       <td>Spin Polygon<br/>Shadow Hat</td>
       <td>Mid Chintala<br/>Spike Dragon<br/>Bitter Sluggy</td>
-      <td>Rocket Boar<br/>Nigiri Morph<br/>Tiger Tosser</td>
-      <td>Demon Warrior<br/>Zalokleft<br/>Ether Devil</td>
+      <td>Rocket Boar<br/><span class="item">Nigiri Morph</span><br/>Tiger Tosser</td>
+      <td>Demon Warrior<br/><span class="farming">Zalokleft</span><br/>Ether Devil</td>
       <td>Horse Ronin<br/>Mutaikon<br/>Pumphantasm</td>
       <td>Jagan Mask<br/>Boy Cart<br/>Inferno</td>
-      <td>Lovely Locks<br/>Bored Kappa<br/>Curse Girl</td>
+      <td>Lovely Locks<br/>Bored Kappa<br/><span class="item">Curse Girl</span></td>
     </tr>
     <tr>
       <th>10</th>
-      <td>N'dubba<br/>Bone Dragon<br/>Thief Pelican<br/>Falcon Tengu</td>
+      <td>N'dubba<br/>Bone Dragon<br/><span class="useful">Thief Pelican</span><br/>Falcon Tengu</td>
       <td>Spin Polygon<br/>Shadow Hat</td>
       <td>Mid Chintala<br/>Spike Dragon<br/>Bitter Sluggy</td>
-      <td>Rocket Boar<br/>Nigiri Morph<br/>Tiger Tosser</td>
-      <td>Demon Warrior<br/>Zalokleft<br/>Ether Devil</td>
+      <td>Rocket Boar<br/><span class="item">Nigiri Morph</span><br/>Tiger Tosser</td>
+      <td>Demon Warrior<br/><span class="farming">Zalokleft</span><br/>Ether Devil</td>
       <td>Horse Ronin<br/>Mutaikon<br/>Pumphantasm</td>
       <td>Jagan Mask<br/>Boy Cart<br/>Inferno</td>
-      <td>Lovely Locks<br/>Bored Kappa<br/>Curse Girl</td>
+      <td>Lovely Locks<br/>Bored Kappa<br/><span class="item">Curse Girl</span></td>
     </tr>
     <tr>
       <th>11</th>
       <td>N'dubba<br/>Bone Dragon<br/>Falcon Tengu</td>
       <td>Spin Polygon<br/>Shadow Hat<br/>Pull Frog<br/>Schubell</td>
-      <td>Kengo<br/>Spike Dragon<br/>Bitter Sluggy</td>
-      <td>Porky<br/>Nigiri Morph<br/>Tiger Tosser</td>
-      <td>Demon Warrior<br/>Zalokleft</td>
+      <td><span class="item">Kengo</span><br/>Spike Dragon<br/>Bitter Sluggy</td>
+      <td>Porky<br/><span class="item">Nigiri Morph</span><br/>Tiger Tosser</td>
+      <td>Demon Warrior<br/><span class="farming">Zalokleft</span></td>
       <td>Horse Ronin<br/>Mutaikon<br/>Pumphantasm</td>
       <td>Jagan Mask<br/>Boy Cart<br/>Inferno</td>
-      <td>Lovely Locks<br/>Kappa Pest<br/>Curse Girl</td>
+      <td>Lovely Locks<br/>Kappa Pest<br/><span class="item">Curse Girl</span></td>
     </tr>
     <tr>
       <th>12</th>
-      <td>N'dubba<br/>Bone Dragon<br/>Robber Pelican<br/>Falcon Tengu</td>
+      <td>N'dubba<br/>Bone Dragon<br/><span class="useful">Robber Pelican</span><br/>Falcon Tengu</td>
       <td>Spin Polygon<br/>Shadow Hat<br/>Pull Frog<br/>Schubell</td>
-      <td>Kengo<br/>Spike Dragon<br/>Bitter Sluggy</td>
-      <td>Porky<br/>Nigiri Morph<br/>Tiger Tosser</td>
-      <td>Demon Warrior<br/>Zalokleft</td>
+      <td><span class="item">Kengo</span><br/>Spike Dragon<br/>Bitter Sluggy</td>
+      <td>Porky<br/><span class="item">Nigiri Morph</span><br/>Tiger Tosser</td>
+      <td>Demon Warrior<br/><span class="farming">Zalokleft</span></td>
       <td>Horse Ronin<br/>Mutaikon<br/>Pumphantasm</td>
       <td>Jagan Mask<br/>Boy Cart<br/>Inferno</td>
-      <td>Lovely Locks<br/>Kappa Pest<br/>Curse Girl</td>
+      <td>Lovely Locks<br/>Kappa Pest<br/><span class="item">Curse Girl</span></td>
     </tr>
     <tr>
       <th>13</th>
-      <td>N'dubba<br/>Bone Dragon<br/>Robber Pelican<br/>Falcon Tengu</td>
+      <td>N'dubba<br/>Bone Dragon<br/><span class="useful">Robber Pelican</span><br/>Falcon Tengu</td>
       <td>Spin Polygon<br/>Black Hat<br/>Pull Frog<br/>Schubell</td>
-      <td>Kengo<br/>King Tusker<br/>Bitter Sluggy<br/>Dragon</td>
-      <td>Porky<br/>Shagga<br/>Tiger Tosser<br/>Slime</td>
+      <td><span class="item">Kengo</span><br/><span class="danger">King Tusker</span><br/>Bitter Sluggy<br/>Dragon</td>
+      <td>Porky<br/>Shagga<br/>Tiger Tosser<br/><span class="item">Slime</span></td>
       <td>Demon Warrior<br/>Floor Dragon<br/>Lt. Spearfish</td>
       <td>Horse Samurai<br/>Mutaikon<br/>Pumphantasm<br/>Capt. Spearfish</td>
       <td>Jagan Mask<br/>Boy Cart<br/>Inferno<br/>Private Ant</td>
-      <td>Lovely Locks<br/>Kappa Pest<br/>Curse Girl</td>
+      <td>Lovely Locks<br/>Kappa Pest<br/><span class="item">Curse Girl</span></td>
     </tr>
     <tr>
       <th>14</th>
-      <td>N'dubba<br/>Bone Dragon<br/>Robber Pelican<br/>Kigny</td>
+      <td>N'dubba<br/>Bone Dragon<br/><span class="useful">Robber Pelican</span><br/>Kigny</td>
       <td>Spin Polygon<br/>Black Hat<br/>Pull Frog<br/>Schubell</td>
-      <td>Kengo<br/>King Tusker<br/>Bitter Sluggy<br/>Dragon</td>
-      <td>Porky<br/>Shagga<br/>Tiger Tosser<br/>Slime</td>
+      <td><span class="item">Kengo</span><br/><span class="danger">King Tusker</span><br/>Bitter Sluggy<br/>Dragon</td>
+      <td>Porky<br/>Shagga<br/>Tiger Tosser<br/><span class="item">Slime</span></td>
       <td>Demon Warrior<br/>Floor Dragon<br/>Lt. Spearfish</td>
-      <td>Horse Samurai<br/>Dazikon<br/>Pumphantasm<br/>Capt. Spearfish</td>
+      <td>Horse Samurai<br/><span class="danger">Dazikon</span><br/>Pumphantasm<br/>Capt. Spearfish</td>
       <td>Jagan Mask<br/>Boy Cart<br/>Inferno<br/>Private Ant</td>
-      <td>Lovely Locks<br/>Kappa Pest<br/>Curse Girl</td>
+      <td>Lovely Locks<br/>Kappa Pest<br/><span class="item">Curse Girl</span></td>
     </tr>
     <tr>
       <th>15</th>
-      <td>N'dubba<br/>Bone Dragon<br/>Robber Pelican<br/>Kigny</td>
+      <td>N'dubba<br/>Bone Dragon<br/><span class="useful">Robber Pelican</span><br/>Kigny</td>
       <td>Spin Polygon<br/>Black Hat<br/>Pull Frog<br/>Schubell</td>
-      <td>Kengo<br/>King Tusker<br/>Ironhead<br/>Dragon</td>
-      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/>Slime</td>
+      <td><span class="item">Kengo</span><br/><span class="danger">King Tusker</span><br/>Ironhead<br/>Dragon</td>
+      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/><span class="item">Slime</span></td>
       <td>Hannya Warrior<br/>Floor Dragon<br/>Lt. Spearfish</td>
-      <td>Horse Samurai<br/>Dazikon<br/>Pumphantasm<br/>Capt. Spearfish</td>
-      <td>Jagan Mask<br/>Inferno<br/>Bat Kangaroo</td>
-      <td>Lovely Locks<br/>Kappa Pest<br/>Curse Girl</td>
+      <td>Horse Samurai<br/><span class="danger">Dazikon</span><br/>Pumphantasm<br/>Capt. Spearfish</td>
+      <td>Jagan Mask<br/>Inferno<br/><span class="danger">Bat Kangaroo</span></td>
+      <td>Lovely Locks<br/>Kappa Pest<br/><span class="item">Curse Girl</span></td>
     </tr>
     <tr>
       <th>16</th>
-      <td>N'dubba<br/>Bone Dragon<br/>Robber Pelican<br/>Kigny<br/>Froggucci</td>
+      <td>N'dubba<br/>Bone Dragon<br/><span class="useful">Robber Pelican</span><br/>Kigny<br/>Froggucci</td>
       <td>Spin Polygon<br/>Black Hat<br/>Pull Frog<br/>Schubell</td>
-      <td>Kengo<br/>King Tusker<br/>Ironhead<br/>Dragon</td>
-      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/>Slime</td>
+      <td><span class="item">Kengo</span><br/><span class="danger">King Tusker</span><br/>Ironhead<br/>Dragon</td>
+      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/><span class="item">Slime</span></td>
       <td>Hannya Warrior<br/>Floor Dragon<br/>Lt. Spearfish</td>
-      <td>Horse Samurai<br/>Dazikon<br/>Pumphantasm<br/>Capt. Spearfish</td>
-      <td>Jagan Mask<br/>Inferno<br/>Bat Kangaroo</td>
-      <td>Lovely Locks<br/>Kappa Pest<br/>Curse Girl<br/>Taur</td>
+      <td>Horse Samurai<br/><span class="danger">Dazikon</span><br/>Pumphantasm<br/>Capt. Spearfish</td>
+      <td>Jagan Mask<br/>Inferno<br/><span class="danger">Bat Kangaroo</span></td>
+      <td>Lovely Locks<br/>Kappa Pest<br/><span class="item">Curse Girl</span><br/>Taur</td>
     </tr>
     <tr>
       <th>17</th>
-      <td>N'dubba<br/>Bone Dragon<br/>Robber Pelican<br/>Kigny<br/>Froggucci</td>
+      <td>N'dubba<br/>Bone Dragon<br/><span class="useful">Robber Pelican</span><br/>Kigny<br/>Froggucci</td>
       <td>Spin Polygon<br/>Black Hat<br/>Menbell</td>
-      <td>Kengo<br/>King Tusker<br/>Ironhead</td>
-      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/>Slime</td>
+      <td><span class="item">Kengo</span><br/><span class="danger">King Tusker</span><br/>Ironhead</td>
+      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/><span class="item">Slime</span></td>
       <td>Hannya Warrior<br/>Floor Dragon<br/>Ether Devil<br/>Bomb</td>
-      <td>Horse Samurai<br/>Dazikon<br/>Pumphantasm</td>
-      <td>Jagar Prince<br/>Boy Cart<br/>Inferno<br/>Evil Kangaroo</td>
-      <td>Jet Boar<br/>Kappa Pest<br/>Curse Girl<br/>Taur</td>
+      <td>Horse Samurai<br/><span class="danger">Dazikon</span><br/>Pumphantasm</td>
+      <td>Jagar Prince<br/>Boy Cart<br/>Inferno<br/><span class="danger">Evil Kangaroo</span></td>
+      <td>Jet Boar<br/>Kappa Pest<br/><span class="item">Curse Girl</span><br/>Taur</td>
     </tr>
     <tr>
       <th>18</th>
       <td>N'dubba<br/>Bone Dragon<br/>Kigny<br/>Froggucci</td>
       <td>Spin Polygon<br/>Black Hat<br/>Menbell</td>
-      <td>Kengo<br/>King Tusker<br/>Ironhead</td>
-      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/>Slime</td>
+      <td><span class="item">Kengo</span><br/><span class="danger">King Tusker</span><br/>Ironhead</td>
+      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/><span class="item">Slime</span></td>
       <td>Hannya Warrior<br/>Floor Dragon<br/>Ether Devil<br/>Bomb</td>
-      <td>Horse Samurai<br/>Dazikon</td>
-      <td>Jagar Prince<br/>Boy Cart<br/>Inferno<br/>Evil Kangaroo</td>
-      <td>Jet Boar<br/>Kappa Pest<br/>Curse Girl<br/>Taur</td>
+      <td>Horse Samurai<br/><span class="danger">Dazikon</span></td>
+      <td>Jagar Prince<br/>Boy Cart<br/>Inferno<br/><span class="danger">Evil Kangaroo</span></td>
+      <td>Jet Boar<br/>Kappa Pest<br/><span class="item">Curse Girl</span><br/>Taur</td>
     </tr>
     <tr>
       <th>19</th>
-      <td>N'dubba<br/>Skull Dragon<br/>Bandit Pelican<br/>Kigny<br/>Froggucci</td>
+      <td>N'dubba<br/>Skull Dragon<br/><span class="useful">Bandit Pelican</span><br/>Kigny<br/>Froggucci</td>
       <td>Black Hat<br/>Menbell</td>
-      <td>Kengo<br/>King Tusker<br/>Ironhead</td>
-      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/>Slime</td>
+      <td><span class="item">Kengo</span><br/><span class="danger">King Tusker</span><br/>Ironhead</td>
+      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/><span class="item">Slime</span></td>
       <td>Hannya Warrior<br/>Floor Dragon<br/>Ether Devil<br/>Bomb</td>
-      <td>Horse Samurai<br/>Dazikon</td>
-      <td>Jagar Prince<br/>Boy Cart<br/>Evil Kangaroo</td>
+      <td>Horse Samurai<br/><span class="danger">Dazikon</span></td>
+      <td>Jagar Prince<br/>Boy Cart<br/><span class="danger">Evil Kangaroo</span></td>
       <td>Jet Boar<br/>Kappa Pest<br/>Taur</td>
     </tr>
     <tr>
       <th>20</th>
-      <td>N'dubba<br/>Skull Dragon<br/>Bandit Pelican<br/>Kigny</td>
+      <td>N'dubba<br/>Skull Dragon<br/><span class="useful">Bandit Pelican</span><br/>Kigny</td>
       <td>Dance Polygon<br/>Black Hat<br/>Menbell</td>
-      <td>Kengo<br/>King Tusker<br/>Ironhead</td>
-      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/>Slime</td>
+      <td><span class="item">Kengo</span><br/><span class="danger">King Tusker</span><br/>Ironhead</td>
+      <td>Porky<br/>Shagga<br/>Tiny Phoenix<br/><span class="item">Slime</span></td>
       <td>Hannya Warrior<br/>Dragon Head<br/>Ether Devil<br/>Bomb</td>
-      <td>Horse Samurai<br/>Dazikon</td>
-      <td>Jagar Prince<br/>Boy Cart<br/>Evil Kangaroo</td>
+      <td>Horse Samurai<br/><span class="danger">Dazikon</span></td>
+      <td>Jagar Prince<br/>Boy Cart<br/><span class="danger">Evil Kangaroo</span></td>
       <td>Jet Boar<br/>Kappa Pest<br/>Taur</td>
     </tr>
     <tr>
       <th>21</th>
-      <td>N'dubba<br/>Skull Dragon<br/>Bandit Pelican<br/>Kigny</td>
-      <td>Dance Polygon<br/>Black Hat<br/>Nigiri Boss<br/>Menbell</td>
-      <td>Iai<br/>King Tusker<br/>Ironhead<br/>Dragon</td>
-      <td>Shagga<br/>Tiny Phoenix<br/>Slime</td>
+      <td>N'dubba<br/>Skull Dragon<br/><span class="useful">Bandit Pelican</span><br/>Kigny</td>
+      <td>Dance Polygon<br/>Black Hat<br/><span class="danger">Nigiri Boss</span><br/>Menbell</td>
+      <td><span class="item">Iai</span><br/><span class="danger">King Tusker</span><br/>Ironhead<br/>Dragon</td>
+      <td>Shagga<br/>Tiny Phoenix<br/><span class="item">Slime</span></td>
       <td>Hannya Warrior<br/>Dragon Head<br/>Ether Devil<br/>Bomb</td>
-      <td>Horse Samurai<br/>Dazikon<br/>Pumphantom</td>
-      <td>Jagar Prince<br/>Pop Tank<br/>Rancor Sluggy<br/>Bat Kangaroo</td>
-      <td>Jet Boar<br/>Vexing Kappa<br/>Super Gazer<br/>Taur</td>
+      <td>Horse Samurai<br/><span class="danger">Dazikon</span><br/>Pumphantom</td>
+      <td>Jagar Prince<br/><span class="extreme">Pop Tank</span><br/>Rancor Sluggy<br/><span class="danger">Bat Kangaroo</span></td>
+      <td>Jet Boar<br/><span class="danger">Vexing Kappa</span><br/><span class="item">Super Gazer</span><br/>Taur</td>
     </tr>
     <tr>
       <th>22</th>
-      <td>N'dubba<br/>Skull Dragon<br/>Bandit Pelican<br/>Kigny</td>
-      <td>Dance Polygon<br/>Black Hat<br/>Nigiri Boss<br/>Menbell</td>
-      <td>Iai<br/>King Tusker<br/>Ironhead<br/>Dragon</td>
-      <td>Shagga<br/>Tiny Phoenix<br/>Slime</td>
+      <td>N'dubba<br/>Skull Dragon<br/><span class="useful">Bandit Pelican</span><br/>Kigny</td>
+      <td>Dance Polygon<br/>Black Hat<br/><span class="danger">Nigiri Boss</span><br/>Menbell</td>
+      <td><span class="item">Iai</span><br/><span class="danger">King Tusker</span><br/>Ironhead<br/>Dragon</td>
+      <td>Shagga<br/>Tiny Phoenix<br/><span class="item">Slime</span></td>
       <td>Shogun<br/>Dragon Head<br/>Ether Devil<br/>Bomb</td>
-      <td>Horse Samurai<br/>Dazikon<br/>Pumphantom</td>
-      <td>Jagar Prince<br/>Pop Tank<br/>Rancor Sluggy<br/>Bat Kangaroo</td>
-      <td>Jet Boar<br/>Vexing Kappa<br/>Super Gazer<br/>Taur</td>
+      <td>Horse Samurai<br/><span class="danger">Dazikon</span><br/>Pumphantom</td>
+      <td>Jagar Prince<br/><span class="extreme">Pop Tank</span><br/>Rancor Sluggy<br/><span class="danger">Bat Kangaroo</span></td>
+      <td>Jet Boar<br/><span class="danger">Vexing Kappa</span><br/><span class="item">Super Gazer</span><br/>Taur</td>
     </tr>
     <tr>
       <th>23</th>
-      <td>N'dubba<br/>Skull Dragon<br/>Bandit Pelican<br/>Lime Zalokleft</td>
-      <td>Dance Polygon<br/>Big Chintala<br/>Nigiri Boss<br/>Menbell</td>
-      <td>Iai<br/>Monarch Tusker<br/>Ironhead<br/>Dragon</td>
+      <td>N'dubba<br/>Skull Dragon<br/><span class="useful">Bandit Pelican</span><br/><span class="farming">Lime Zalokleft</span></td>
+      <td>Dance Polygon<br/>Big Chintala<br/><span class="danger">Nigiri Boss</span><br/>Menbell</td>
+      <td><span class="item">Iai</span><br/>Monarch Tusker<br/>Ironhead<br/>Dragon</td>
       <td>Tiny Phoenix</td>
       <td>Shogun<br/>Dragon Head<br/>Ether Devil<br/>Bomb</td>
       <td>Horse Shogun<br/>Pumphantom</td>
-      <td>Jagar Prince<br/>Pop Tank<br/>Rancor Sluggy<br/>Bat Kangaroo</td>
-      <td>Jet Boar<br/>Vexing Kappa<br/>Super Gazer<br/>Taur</td>
+      <td>Jagar Prince<br/><span class="extreme">Pop Tank</span><br/>Rancor Sluggy<br/><span class="danger">Bat Kangaroo</span></td>
+      <td>Jet Boar<br/><span class="danger">Vexing Kappa</span><br/><span class="item">Super Gazer</span><br/>Taur</td>
     </tr>
     <tr>
       <th>24</th>
-      <td>N'dubba<br/>Skull Dragon<br/>Bandit Pelican<br/>Lime Zalokleft</td>
-      <td>Dance Polygon<br/>Big Chintala<br/>Nigiri Boss<br/>Menbell</td>
-      <td>Iai<br/>Monarch Tusker<br/>Ironhead<br/>Dragon</td>
-      <td>Porko<br/>Nashagga<br/>Tiny Phoenix</td>
+      <td>N'dubba<br/>Skull Dragon<br/><span class="useful">Bandit Pelican</span><br/><span class="farming">Lime Zalokleft</span></td>
+      <td>Dance Polygon<br/>Big Chintala<br/><span class="danger">Nigiri Boss</span><br/>Menbell</td>
+      <td><span class="item">Iai</span><br/>Monarch Tusker<br/>Ironhead<br/>Dragon</td>
+      <td><span class="danger">Porko</span><br/>Nashagga<br/>Tiny Phoenix</td>
       <td>Shogun<br/>Dragon Head<br/>Minotaur<br/>Bomb</td>
       <td>Horse Shogun<br/>Pumphantom</td>
-      <td>Jagar Prince<br/>Pop Tank<br/>Rancor Sluggy<br/>Bat Kangaroo</td>
-      <td>Jet Boar<br/>Vexing Kappa<br/>Super Gazer<br/>Taur</td>
+      <td>Jagar Prince<br/><span class="extreme">Pop Tank</span><br/>Rancor Sluggy<br/><span class="danger">Bat Kangaroo</span></td>
+      <td>Jet Boar<br/><span class="danger">Vexing Kappa</span><br/><span class="item">Super Gazer</span><br/>Taur</td>
     </tr>
     <tr>
       <th>25</th>
-      <td>N'dubba<br/>Skull Dragon<br/>Muron<br/>Lime Zalokleft</td>
-      <td>Dance Polygon<br/>Big Chintala<br/>Nigiri Boss<br/>Menbell</td>
-      <td>Iai<br/>Monarch Tusker<br/>Chainhead<br/>Dragon</td>
-      <td>Porko<br/>Nashagga</td>
+      <td>N'dubba<br/>Skull Dragon<br/>Muron<br/><span class="farming">Lime Zalokleft</span></td>
+      <td>Dance Polygon<br/>Big Chintala<br/><span class="danger">Nigiri Boss</span><br/>Menbell</td>
+      <td><span class="item">Iai</span><br/>Monarch Tusker<br/>Chainhead<br/>Dragon</td>
+      <td><span class="danger">Porko</span><br/>Nashagga</td>
       <td>Shogun<br/>Dragon Head<br/>Minotaur<br/>Bomb</td>
-      <td>Horse Shogun<br/>Dozikon<br/>Pumphantom</td>
-      <td>Jagar Prince<br/>Pop Tank<br/>Rancor Sluggy</td>
-      <td>Jet Boar<br/>Curse Sister<br/>Super Gazer<br/>Taur</td>
+      <td>Horse Shogun<br/><span class="extreme">Dozikon</span><br/>Pumphantom</td>
+      <td>Jagar Prince<br/><span class="extreme">Pop Tank</span><br/>Rancor Sluggy</td>
+      <td>Jet Boar<br/><span class="item">Curse Sister</span><br/><span class="item">Super Gazer</span><br/>Taur</td>
     </tr>
     <tr>
       <th>26</th>
       <td>N'dubba<br/>Skull Dragon<br/>Muron</td>
-      <td>Dance Polygon<br/>Big Chintala<br/>Nigiri Boss<br/>Menbell</td>
-      <td>Iai<br/>Monarch Tusker<br/>Chainhead<br/>Dragon</td>
-      <td>Porko<br/>Nashagga</td>
+      <td>Dance Polygon<br/>Big Chintala<br/><span class="danger">Nigiri Boss</span><br/>Menbell</td>
+      <td><span class="item">Iai</span><br/>Monarch Tusker<br/>Chainhead<br/>Dragon</td>
+      <td><span class="danger">Porko</span><br/>Nashagga</td>
       <td>Shogun<br/>Dragon Head<br/>Minotaur<br/>Bomb</td>
-      <td>Horse Shogun<br/>Dozikon<br/>Pumphantom</td>
-      <td>Jagar Prince<br/>Pop Tank<br/>Rancor Sluggy</td>
-      <td>Jet Boar<br/>Curse Sister<br/>Super Gazer</td>
+      <td>Horse Shogun<br/><span class="extreme">Dozikon</span><br/>Pumphantom</td>
+      <td>Jagar Prince<br/><span class="extreme">Pop Tank</span><br/>Rancor Sluggy</td>
+      <td>Jet Boar<br/><span class="item">Curse Sister</span><br/><span class="item">Super Gazer</span></td>
     </tr>
     <tr>
       <th>27</th>
       <td>N'dubba<br/>Skull Dragon<br/>Muron</td>
-      <td>Dance Polygon<br/>Big Chintala<br/>Nigiri Boss</td>
-      <td>Iai<br/>Monarch Tusker<br/>Chainhead</td>
-      <td>Porko<br/>Nashagga</td>
+      <td>Dance Polygon<br/>Big Chintala<br/><span class="danger">Nigiri Boss</span></td>
+      <td><span class="item">Iai</span><br/>Monarch Tusker<br/>Chainhead</td>
+      <td><span class="danger">Porko</span><br/>Nashagga</td>
       <td>Shogun<br/>Dragon Head<br/>Minotaur</td>
-      <td>Horse Shogun<br/>Dozikon<br/>Pumphantom</td>
-      <td>Pop Tank<br/>Rancor Sluggy</td>
-      <td>Curse Sister<br/>Super Gazer</td>
+      <td>Horse Shogun<br/><span class="extreme">Dozikon</span><br/>Pumphantom</td>
+      <td><span class="extreme">Pop Tank</span><br/>Rancor Sluggy</td>
+      <td><span class="item">Curse Sister</span><br/><span class="item">Super Gazer</span></td>
     </tr>
     <tr>
       <th>28</th>
       <td>N'dubba<br/>Skull Dragon<br/>Muron</td>
-      <td>Dance Polygon<br/>Big Chintala<br/>Nigiri Boss</td>
-      <td>Iai<br/>Monarch Tusker<br/>Chainhead</td>
-      <td>Porko<br/>Nashagga</td>
+      <td>Dance Polygon<br/>Big Chintala<br/><span class="danger">Nigiri Boss</span></td>
+      <td><span class="item">Iai</span><br/>Monarch Tusker<br/>Chainhead</td>
+      <td><span class="danger">Porko</span><br/>Nashagga</td>
       <td>Shogun<br/>Dragon Head<br/>Minotaur</td>
-      <td>Horse Shogun<br/>Dozikon<br/>Pumphantom</td>
-      <td>Pop Tank<br/>Rancor Sluggy</td>
-      <td>Curse Sister<br/>Super Gazer</td>
+      <td>Horse Shogun<br/><span class="extreme">Dozikon</span><br/>Pumphantom</td>
+      <td><span class="extreme">Pop Tank</span><br/>Rancor Sluggy</td>
+      <td><span class="item">Curse Sister</span><br/><span class="item">Super Gazer</span></td>
     </tr>
     <tr>
       <th>29</th>
       <td>N'dubba<br/>Muron</td>
-      <td>Dance Polygon<br/>Big Chintala<br/>Nigiri Boss</td>
-      <td>Iai<br/>Monarch Tusker<br/>Chainhead</td>
-      <td>Porko<br/>Nashagga</td>
+      <td>Dance Polygon<br/>Big Chintala<br/><span class="danger">Nigiri Boss</span></td>
+      <td><span class="item">Iai</span><br/>Monarch Tusker<br/>Chainhead</td>
+      <td><span class="danger">Porko</span><br/>Nashagga</td>
       <td>Shogun<br/>Dragon Head<br/>Minotaur</td>
-      <td>Horse Shogun<br/>Dozikon<br/>Pumphantom</td>
-      <td>Pop Tank<br/>Rancor Sluggy</td>
-      <td>Curse Sister<br/>Super Gazer</td>
+      <td>Horse Shogun<br/><span class="extreme">Dozikon</span><br/>Pumphantom</td>
+      <td><span class="extreme">Pop Tank</span><br/>Rancor Sluggy</td>
+      <td><span class="item">Curse Sister</span><br/><span class="item">Super Gazer</span></td>
     </tr>
     <tr>
       <th>30</th>
       <td>N'dubba<br/>Muron</td>
-      <td>Big Chintala<br/>Nigiri Boss</td>
-      <td>Iai<br/>Monarch Tusker<br/>Chainhead</td>
-      <td>Porko<br/>Nashagga</td>
+      <td>Big Chintala<br/><span class="danger">Nigiri Boss</span></td>
+      <td><span class="item">Iai</span><br/>Monarch Tusker<br/>Chainhead</td>
+      <td><span class="danger">Porko</span><br/>Nashagga</td>
       <td>Shogun<br/>Minotaur</td>
-      <td>Horse Shogun<br/>Dozikon<br/>Pumphantom</td>
-      <td>Pop Tank<br/>Rancor Sluggy</td>
-      <td>Curse Sister<br/>Super Gazer</td>
+      <td>Horse Shogun<br/><span class="extreme">Dozikon</span><br/>Pumphantom</td>
+      <td><span class="extreme">Pop Tank</span><br/>Rancor Sluggy</td>
+      <td><span class="item">Curse Sister</span><br/><span class="item">Super Gazer</span></td>
     </tr>
   </tbody>
 </table>

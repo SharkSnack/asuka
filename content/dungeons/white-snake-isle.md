@@ -5,7 +5,7 @@ metaDescription: "White Snake Isle dungeon guide for Shiren Gaiden: Onna Kenshi 
 ---
 
 <div class="pageTopImage dungeonPageTopImage2">
-  <img src="../images/areas/white_snake_1.png"/> <img src="../images/areas/white_snake_2.png"/>
+  <img src="../images/areas/white_snake.png"/> <img src="../images/areas/white_snake_2.png"/>
 </div>
 
 [Introduction]
@@ -28,7 +28,7 @@ metaDescription: "White Snake Isle dungeon guide for Shiren Gaiden: Onna Kenshi 
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Sanba Fort (Boat docks)</td>
+    <td class="highlightYellow">1st time: Yakagura Forest (NPC near cart) → Sanba Fort (Boat docks)<br/>2nd+ time: Yakagura Forest (NPC near cart)</td>
   </tr>
 </table>
 
