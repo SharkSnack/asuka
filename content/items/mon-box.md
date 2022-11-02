@@ -511,7 +511,7 @@ metaDescription: "Complete mon box details for Shiren Gaiden: Onna Kenshi Asuka 
     </tr>
     <tr>
       <td class="itemListName highlightYellow2">兵隊アリ</td>
-      <td class="itemListName highlightYellow2">Private Ant</td>
+      <td class="itemListName highlightYellow2">Soldier Ant</td>
       <td rowspan="3" class="highlightGray">6</td>
       <td class="highlightGray">15</td>
       <td class="highlightGray">58</td>

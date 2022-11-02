@@ -656,7 +656,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
     </tr>
     <tr>
       <th>10</th>
-      <td>Pumphantasm<br/>Floor Dragon<br/>Private Ant</td>
+      <td>Pumphantasm<br/>Floor Dragon<br/>Soldier Ant</td>
       <td>Bone Dragon<br/>Rocket Boar<br/>Schubell</td>
       <td>Twisty Hani<br/>Kappa Pest<br/>Pop Tank</td>
       <td>Mutaikon<br/>Pull Frog<br/>Horse Ronin</td>
@@ -666,7 +666,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
     </tr>
     <tr>
       <th>11</th>
-      <td>Pumphantasm<br/>Floor Dragon<br/>Private Ant</td>
+      <td>Pumphantasm<br/>Floor Dragon<br/>Soldier Ant</td>
       <td>Bone Dragon<br/>Rocket Boar<br/>Schubell</td>
       <td>Twisty Hani<br/>Kappa Pest<br/>Pop Tank</td>
       <td>Mutaikon<br/>Pull Frog<br/>Horse Ronin</td>

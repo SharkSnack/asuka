@@ -748,14 +748,10 @@ export const baseStyles = css`
     padding: 2px;
   }
   .monsterPageTable td {
-    padding: 2px;
+    padding: 3px;
   }
   .monsterImage {
     margin-bottom: 5px !important;
-  }
-  .monsterImage img {
-    max-width: 60px;
-    max-height: 60px;
   }
   .bossImage {
     margin-bottom: 5px !important;

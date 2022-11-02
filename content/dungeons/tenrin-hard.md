@@ -963,7 +963,7 @@ Most story dungeons after this one don't allow carry-in items, so don't hesitate
     </tr>
     <tr>
       <td>15-16</td>
-      <td>Private Ant</td>
+      <td>Soldier Ant</td>
       <td>58</td>
       <td>28</td>
       <td>8</td>
@@ -1548,7 +1548,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
     <tr>
       <th>15</th>
       <td>Porky<br/>Shagga</td>
-      <td>Schubell<br/>Private Ant</td>
+      <td>Schubell<br/>Soldier Ant</td>
       <td>Pop Tank<br/>Master Ninja</td>
       <td><span class="item">Kengo</span><br/>Muron</td>
       <td>Pudding<br/>Jagan Mask</td>
@@ -1557,7 +1557,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
     <tr>
       <th>16</th>
       <td>Porky<br/>Shagga</td>
-      <td>Schubell<br/>Private Ant</td>
+      <td>Schubell<br/>Soldier Ant</td>
       <td>Pop Tank<br/>Master Ninja</td>
       <td><span class="item">Kengo</span><br/>Horse Samurai</td>
       <td>Pudding<br/>Floor Dragon</td>

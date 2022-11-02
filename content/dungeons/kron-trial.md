@@ -479,7 +479,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td>Bone Dragon<br/>Lovely Locks</td>
       <td>Muron<br/>Spike Dragon</td>
       <td>Hannya Warrior</td>
-      <td>Private Ant</td>
+      <td>Soldier Ant</td>
     </tr>
     <tr>
       <th>14</th>
@@ -489,7 +489,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td>Horse Samurai</td>
       <td>Floor Dragon</td>
       <td>Hannya Warrior</td>
-      <td>Private Ant</td>
+      <td>Soldier Ant</td>
     </tr>
     <tr>
       <th>15</th>

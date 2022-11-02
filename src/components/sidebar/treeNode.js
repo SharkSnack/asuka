@@ -42,11 +42,12 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[12] = { items:[], label: 'skill-scrolls', title: 'Skill Scrolls', url: '/items/skill-scrolls'};
         items[13] = { items:[], label: 'other-items', title: 'Other', url: '/items/other-items'};
         break;
-      case 'resonance': // items
+      case 'monsters': // system
         items[0] = { items:[], label: 'resonance', title: 'Resonance', url: '/system/resonance'};
         items[1] = { items:[], label: 'synthesis-seals', title: 'Seals', url: '/system/synthesis-seals'};
-        items[2] = { items:[], label: 'skill-scrolls', title: 'Secret Skills', url: '/system/secret-skills'};
-        items[3] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
+        items[2] = { items:[], label: 'secret-skills', title: 'Secret Skills', url: '/system/secret-skills'};
+        items[3] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
+        items[4] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
         break;
       case 'bufu-trial': // dungeons
         items[0] = { items:[], label: 'tenrin-easy', title: 'Tenrin Easy', url: '/dungeons/tenrin-easy'};

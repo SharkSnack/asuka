@@ -145,9 +145,9 @@ The listed Mon Boxes are all pretty common, and can put up a fight with minimal 
 - Horse Ronin
     - Buy in Yakagura Forest. Wear it to shoot Silver Arrows.
     - Level it to Lv20 - It can be risky to leave it out, since it shoots through allies.
-- Private Ant
+- Soldier Ant
     - Found in Bufu Trial (13-14F). General Ant is double speed and can dig wall tiles.
-    - Private Ant's limit is Lv15, and Captain Ant is Lv30, so it doesn't take too long to reach General Ant.
+    - Soldier Ant's limit is Lv15, and Captain Ant is Lv30, so it doesn't take too long to reach General Ant.
 - King Tusker
     - Buy in Yakagura Forest. Wear it to gain access to an unlimited use Paralysis Staff.
     - Level it to Lv15 - Don't upgrade it to Monarch Tusker since you'll lose the Paralysis Staff special.
@@ -393,7 +393,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td>Porky<br/>Shagga<br/>Tiger Tosser<br/><span class="item">Slime</span></td>
       <td>Demon Warrior<br/>Floor Dragon<br/>Lt. Spearfish</td>
       <td>Horse Samurai<br/>Mutaikon<br/>Pumphantasm<br/>Capt. Spearfish</td>
-      <td>Jagan Mask<br/>Boy Cart<br/>Inferno<br/>Private Ant</td>
+      <td>Jagan Mask<br/>Boy Cart<br/>Inferno<br/>Soldier Ant</td>
       <td>Lovely Locks<br/>Kappa Pest<br/><span class="item">Curse Girl</span></td>
     </tr>
     <tr>
@@ -404,7 +404,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td>Porky<br/>Shagga<br/>Tiger Tosser<br/><span class="item">Slime</span></td>
       <td>Demon Warrior<br/>Floor Dragon<br/>Lt. Spearfish</td>
       <td>Horse Samurai<br/><span class="danger">Dazikon</span><br/>Pumphantasm<br/>Capt. Spearfish</td>
-      <td>Jagan Mask<br/>Boy Cart<br/>Inferno<br/>Private Ant</td>
+      <td>Jagan Mask<br/>Boy Cart<br/>Inferno<br/>Soldier Ant</td>
       <td>Lovely Locks<br/>Kappa Pest<br/><span class="item">Curse Girl</span></td>
     </tr>
     <tr>

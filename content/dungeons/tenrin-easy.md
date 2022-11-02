@@ -738,7 +738,7 @@ If the other ninjas are giving you trouble, you can wipe them out using 2\~3 Roc
     </tr>
     <tr>
       <td>15-16</td>
-      <td>Private Ant</td>
+      <td>Soldier Ant</td>
       <td>58</td>
       <td>28</td>
       <td>8</td>
@@ -976,7 +976,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td class="highlightGray"></td>
       <td>Kappa Pest</td>
       <td><span class="item">Curse Girl</span></td>
-      <td>Muron<br/>Private Ant</td>
+      <td>Muron<br/>Soldier Ant</td>
       <td>Pumphantasm</td>
       <td>Pudding<br/>Adept Ninja</td>
     </tr>
@@ -986,7 +986,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td>Muron<br/>Private Ant</td>
+      <td>Muron<br/>Soldier Ant</td>
       <td class="highlightGray"></td>
       <td>Pudding<br/>Adept Ninja</td>
     </tr>

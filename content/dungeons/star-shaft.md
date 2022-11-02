@@ -83,6 +83,12 @@ A staircase leading to treasure appears on the deepest floor after clearing the 
 
 ### General
 
+The order of boss appearances is Tina → Soran & Doran → Sanju → Aquila → Ponto → Nemuri → Kufuku.<br/>Every Eight Fiends boss has the same stats and abilities as before, and Soran & Doran don't actually fight.
+
+If you have a Cave Mamel box, you can quickly win most of these fights just by throwing it at the boss.<br/>However, you'll want to play more carefully against Nemuri since she deals fixed damage.<br/>Mon Boxes are also innately immune to the final boss's lightning attacks.
+
+It's best to rush stairs between <span class="redText">21-24F</span> and possibly 25-32F due to the lineup of dangerous monsters.
+
 ### Equipment
 
 #### Weapon
@@ -271,56 +277,586 @@ A staircase leading to treasure appears on the deepest floor after clearing the 
   <tbody>
     <tr>
       <td class="highlightGray">Scout Bracelet</td>
-      <td>item_description</td>
+      <td>Reveals Monster Houses and shops at a glance.</td>
     </tr>
     <tr>
       <td class="highlightGray">Vision Bracelet</td>
-      <td>item_description</td>
+      <td>Makes traps a non-issue, and reveals Ether Devil types.</td>
     </tr>
     <tr>
       <td class="highlightGray">Thief Bracelet</td>
-      <td>item_description</td>
+      <td>Makes Monster Houses mostly a non-issue if you're playing without allies.</td>
     </tr>
     <tr>
       <td class="highlightGray">Decoy Bracelet</td>
-      <td>item_description</td>
+      <td>Revives you if you collapse, but must be equipped when your HP falls to 0.</td>
     </tr>
     <tr>
       <td class="highlightGray">Phantasm Bracelet</td>
-      <td>item_description</td>
+      <td>Unequip it inside a wall to warp to a random room on the current floor.</td>
     </tr>
     <tr>
       <td class="highlightGray">Float Bracelet</td>
-      <td>item_description</td>
+      <td>Lets you walk on water or lava tiles, but you're still susceptible to traps.</td>
     </tr>
     <tr>
       <td class="highlightGray">No-Rust Bracelet</td>
-      <td>item_description</td>
+      <td>Protects against Sludge's seal erasing special attack.</td>
     </tr>
     <tr>
       <td class="highlightGray">Bind Bracelet</td>
-      <td>item_description</td>
+      <td>Protects against Kengo type's equipment disarming special attack.</td>
     </tr>
     <tr>
       <td class="highlightGray">Spirit Bracelet</td>
-      <td>item_description</td>
-    </tr>
-    <tr>
-      <td class="highlightGray">Trapper Bracelet</td>
-      <td>item_description</td>
+      <td>Counters Cranky Tank and Sky Dragon if you've mastered <span class="strong">Nullify Blast</span> and <span class="strong">Zen</span>.</td>
     </tr>
     <tr>
       <td class="highlightGray">Identify Bracelet</td>
-      <td>item_description</td>
+      <td>Makes it easier to resupply items using floor drops inside the dungeon.</td>
     </tr>
   </tbody>
 </table>
 
 ### Other Items
 
+#### Mon Boxes
+
+The same Mon Boxes listed on [Reeva Trial's page](/dungeons/reeva-trial#mon-boxes) can be used for this dungeon.<br/>If you feel like grinding, these Mon Boxes are a significant help in particular:
+
+- Cave Mamel
+    - Pretty much turns the dungeon into a victory lap.
+    - Use it as an ally, wear it to ensure safety in hallways, throw it at bosses, and so on.
+    - Just be careful of fixed damage such as Cranky Tank's cannonballs.
+- Nigiri Master
+    - Increase max fullness to 200% to reduce the risk of starvation while wearing Mon Boxes. 
+- Astral Devil
+    - Obtained by purchasing it from Baribari in the Rescue Branch in Yakagura Forest.
+    - Triple speed from the start, and can move over water and through walls.
+    - Use Mirage Devil if you want it to be more predictable as an ally.
+- Curse Mom
+    - Instantly purifies all inventory items when you wear it.
+    - It's still good to bring a Purify Scroll in case this Mon Box gets cursed.
+
+#### Miscellaneous
+
+- Revival Grass
+    - Revives you if you collapse while carrying it, as long as it's not inside a pot.
+- Warp Grass
+    - Escape from a Monster House, or if you become surrounded.
+- Swift Seed
+    - Escape from a Monster House or other sticky situation.
+- Blank Scroll
+    - Use it as any scroll you've read at least once in the past.
+- Copy Scroll
+    - Lets you duplicate any scroll.
+- Extinction Scroll
+    - Throw it at a troublesome monster like Devil Kangaroo or Sludge.
+- Confusion Scroll
+    - Great to have for Monster Houses.
+- Slumber Scroll
+    - Not as good as Confusion Scroll, but not bad for Monster Houses.
+- Fear Scroll
+    - Inflict Afraid status on a Thief Pelican to safely synthesize items, or use it when you're surrounded.
+- Fixer Scroll
+    - Can be used to replenish fullness, or heal HP and paralyze monsters when you're surrounded.
+- Sanctuary Scroll
+    - Powerful for Monster Houses and other sticky situations, but can't be used during boss fights.
+- Decoy Staff
+    - Great to escape from a bad situation.
+- Slow Staff
+    - Makes most 1 vs 1 fights winnable.
+- Seal Staff
+    - Use it against furious monsters or those with troublesome special attacks.
+    - Example targets include Kengo, Curse Girl, Nigiri Morph, Sludge, Bellthoven, etc.
+
 # Floor Guide
 
+### 1-2F
+
+Mamel, Chintala, Lady Locks, Sluggy, Tug Frog, Crow Tengu, Gazer.
+
+Beware of Gazer if you don't have the 山 (Echo Shield) seal.<br/>Discard risky items like cannonballs that can cause you to self-destruct when hypnotized.
+
+### 3-4F
+
+Pit Mamel, Mid Chintala, Lovely Locks, Bitter Sluggy, Pull Frog, Falcon Tengu, Gazer, Bomb.
+
+Most monsters have already leveled up to their Lv2 variant.<br/>Continue to be careful around Gazers.
+
+### Tina
+
+Fight against Tina and 2 Taurs.
+
+|Name|HP|Atk|Def|Exp|Notes|
+|-|-|-|-|-|-|
+|Tina|200|50|10|3000|・Throws Asuka or a monster within a 20 tile radius.|
+
+You shouldn't have problems if you brought strong equipment or Mon Boxes,<br/>but you might want to level up a bit beforehand.
+
+### 5-6F
+
+Bat Kangaroo, Curse Girl, Mutaikon, King Tusker, Shadow Hat, Jagan Mask, Pud, Bored Kappa, Lt. Spearfish.
+
+Bat Kangaroo grants Enraged status to monsters, which raises special usage rate to 100% and doubles strength.<br/>As you can imagine, this can be a problem if you're facing an enraged Curse Girl or King Tusker.
+
+### 7-8F
+
+Bat Kangaroo, Curse Girl, Mutaikon, King Tusker, Black Hat, Jagar Prince, Pudding, Kappa Pest, Capt. Spearfish.
+
+Bat Kangaroo is still around, so play carefully around enraged monsters.
+
+### Soran & Doran
+
+Soran and Doran don't fight, but instead increase the number of hidden traps to 30 on the next floor.
+
+### 9-12F
+
+Boy Cart, Kengo, Horse Samurai, Ironhead, Tiny Phoenix, Lime Zalokleft, Froggucci, Robber Pelican, Twisty Hani.
+
+Nothing too threatening, so synthesize using Robber Pelicans if desired.
+
+### Sanju
+
+Fight against Sanju.
+
+|Name|HP|Atk|Def|Exp|Notes|
+|-|-|-|-|-|-|
+|Sanju|150|30|12|3000|・Warps and summons 1 Sanju clone when hit.<br/>・Steals an item and warps. (Can't be blocked by Walrus Shield)<br/>・Uses the stolen item on himself, or throws it at Asuka.|
+
+Be careful not to have important items stolen - If he gets close, attack him to make him warp away.
+
+### 13-14F
+
+Spike Dragon, Ether Devil, Dazikon, Curse Sister, Soldier Ant, Rocket Boar, Tiger Tosser, Muron, Porky, Grime.
+
+Water tiles are often generated, so beware of being tripped and losing items due to Rocket Boar.<br/>If you have a Balance Staff, keep it outside of a pot.
+
+### 15-16F
+
+Spike Dragon, Ether Devil, Dazikon, Curse Sister, Captain Ant, Jet Boar, Tiger Hurler, Yenron, Porko, Ooze.
+
+A selection of monsters level up to their Lv2 variants - Again, be careful near Jet Boar.
+
+### Aquila
+
+Fight against Aquila.
+
+|Name|HP|Atk|Def|Exp|Notes|
+|-|-|-|-|-|-|
+|Aquila|100|20|5|3000|・Tries to stay at least 2 tiles away from Asuka.<br/>・Does a knockback attack when adjacent.<br/>・Summons Whirlwinds.|
+|Whirlwind|5|3|1|6|・Converts non-fixed damage attacks to 1 damage.<br/>・Does a knockback attack when adjacent, then vanishes.<br/>・Reflects projectiles.|
+
+It's easiest to use projectiles, but note that summoned Whirlwinds will reflect flying objects.
+
+### 17-20F
+
+Inferno, Kigny, Shagga, Goldie Locks, Super Gazer, Chainhead, Iron Zalokleft, Vexing Kappa, Emperor Tusker, etc.
+
+Beware of Iron Zalokleft's ability to steal equipped items if you don't have the ト (Walrus Shield) seal.<br/>Bind Bracelet can also be used to block its theft if you have one on hand.
+
+Emperor Tusker swings a Slow Staff, which can be a problem if you're surrounded.<br/>If you're unsure about your current level, linger and hunt some Emperor Tuskers to level up.
+
+### Ponto
+
+Story scene without a fight or any obstruction effect.
+
+### 21-24F
+
+Devil Kangaroo, Iai, Jagar King, Curse Mom, Hyper Gazer, Pumphantom, Phantom Devil, Shogun, Dozikon, etc.
+
+<p><span class="redText">Extremely dangerous floor range</span> - Devil Kangaroo has a high spawn rate, so rush stairs as fast as possible.<br/>Devil Kangaroo swings a Fury Staff, which grants both Enraged and Swift statuses at the same time.<br/>Combined with Iai, Curse Mom, Hyper Gazer, and Dozikon, a nightmare scenario can occur at any moment.</p>
+
+If you don't have Scout Bracelet, Bind Bracelet, Echo Shield, or other items that counter these monsters,<br/>don't be stingy with staves and scrolls, and throw an Extinction Scroll at a Devil Kangaroo if possible.
+
+### Nemuri
+
+Fight against Nemuri and her enamored monster followers.<br/>The fight begins with 9 other monsters on the field, including Dazikon, Horse Samurai, and Yenron.
+
+|Name|HP|Atk|Def|Exp|Notes|
+|-|-|-|-|-|-|
+|Nemuri|80|30|15|3000|・Doesn't move, but warps and summons 1 monster when hit.<br/>・Fires a long ranged 30 damage piercing laser when lined up.<br/>・Reflects magic, and is immune to status conditions.|
+
+As mentioned earlier, Nemuri deals fixed damage so it can be a bit risky to throw a Cave Mamel box at the start.<br/>If you've raised your strength using 根 (Bamboo Sword) seals, you might be able to one-shot her with an arrow.
+
+### 25-28F
+
+Sing Polygon, Venom Sluggy, Twisty Hani, Nigiri Boss, Nigiri Master, Bellthoven, Custard, Dark Hat, etc.
+
+There's risk of starvation due to high level Laugh Polygon types, so be mindful of your remaining food.<br/>Fight Bellthoven in a hallway, and use a staff or scroll if you become adjacent to a Nigiri Master.
+
+Monster Traps are also quite common on these floors.
+
+### Kufuku
+
+Fight against Kufuku.
+
+|Name|HP|Atk|Def|Exp|Notes|
+|-|-|-|-|-|-|
+|Kufuku|200|40|15|3000|・Decreases max fullness by 50%.<br/>・Warps and summons 1 Dance Polygon when hit.|
+
+Be careful not to get hit by Kufuku's max fullness reducing special attack.<br/>This same attack will halve a Mon Box's HP, which might be a problem if the fight drags on.
+
+### 29-32F
+
+Yank Frog, Dragon, Nashagga, Dragon Head, Minotaur, Chainhead, Adm. Spearfish, Fire Bomb, Porkon, Sludge.
+
+Sludge can erase equipment seals, has a chance to multiply when hit, and has 145 HP + 25 defense.<br/>No matter how strong your equipment is, you likely won't one-shot it, and its special attack can be devastating.<br/>Equip a No-Rust Bracelet, swing a Seal Staff or Unlucky Staff, or throw an Extinction Scroll.
+
+If you have a counter to Sludge, go ahead and check for shops to see if you can obtain a rare Dragon Mon Box,<br/>which is shop-exclusive in both Bufu Trial (80F+) and this dungeon (29F+).
+
+### Empty Chamber
+
+This room is always empty, no matter when you visit.
+
+### 33-36F
+
+Earth Needle, Skull Dragon, Sky Dragon, Tunnel Dragon, Thunder Lance, Garm Dragon, Shenron, Lashagga.
+
+Floor range where only Dragon type monsters appear.<br/>Thunder Lance and Lashagga have high HP and attack, so be careful even with strong Mon Boxes.<br/>Sky Dragons can be dangerous in single room Monster Houses, so keep a Confusion Scroll on hand.
+
+Again, check for shops, since there's a chance of a rare Dragon Mon Box being for sale.
+
+### Final Boss
+
+Fight against Dark Elf and her hands.
+
+|Name|HP|Atk|Def|Exp|Notes|
+|-|-|-|-|-|-|
+|Dark Elf|500|60|0|9999|・Doesn't move, but can warp.<br/>・Immune to traps, scrolls, staff magic, fire, and lightning attacks.<br/>・Unleashes lightning in a straight line which deals a fixed 30 damage.<br/>・Changes the behavior of her hands based on a dice roll.<br/>　・Oni → Summons hands until there are 4 on the floor, hands summon monsters.<br/>　・Woman → Hands do a 20 damage lightning attack, monsters near hands level up.<br/>　・Clown → Hands power up and deal knockback when they attack.<br/>　・Flame → Fire pillars surround Lagoon and his hands.|
+|Dark Elf's Hand|80|50|0|500|・Immune to magic, fire, and lightning attacks.<br/>・Behavior changes based on a dice roll.|
+
+Dark Elf has similar behavior to Lagoon, but also uses a lightning attack that deals 30 damage nearly every turn.<br/>Silver Arrows (Horse Ronin Mon Box) or a Pierce Bracelet can be used to attack from a distance through fire pillars.<br/>Allies that aren't Mon Boxes usually get wiped out by the lightning attacks, so don't count on them.<br/>There's risk of Sky Dragons leveling up into Archdragons if the fight drags on, so use items like Swift Seed<br/>or Invincible Grass and keep attacking to try and end the fight quickly.
+
 # Monsters
+
+Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</span> <span class="item">Destroys Items</span> <span class="danger">Dangerous</span> <span class="extreme">Very Dangerous</span>
+
+<table class="monsterTable">
+  <thead>
+    <tr>
+      <th>F</th>
+      <th colspan="5">Monsters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1</th>
+      <td><span class="item">Gazer</span><br/>Sluggy</td>
+      <td>Mamel<br/>Lady Locks</td>
+      <td>N'dubba<br/>Tug Frog</td>
+      <td>Chintala</td>
+      <td>Crow Tengu</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td><span class="item">Gazer</span><br/>Sluggy</td>
+      <td>Mamel<br/>Lady Locks</td>
+      <td>N'dubba<br/>Tug Frog</td>
+      <td>Chintala</td>
+      <td>Crow Tengu</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td><span class="item">Gazer</span><br/>Bitter Sluggy</td>
+      <td>Pit Mamel<br/>Lovely Locks</td>
+      <td>N'dubba<br/>Pull Frog</td>
+      <td>Mid Chintala<br/>Bomb</td>
+      <td>Falcon Tengu</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td><span class="item">Gazer</span><br/>Bitter Sluggy</td>
+      <td>Pit Mamel<br/>Lovely Locks</td>
+      <td>N'dubba<br/>Pull Frog</td>
+      <td>Mid Chintala<br/>Bomb</td>
+      <td>Falcon Tengu</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightYellow">Boss (Tina)</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Mutaikon<br/>Lt. Spearfish</td>
+      <td><span class="item">Curse Girl</span><br/>Jagan Mask</td>
+      <td>Bored Kappa<br/>Pud</td>
+      <td>King Tusker<br/>Shadow Hat</td>
+      <td><span class="danger">Bat Kangaroo</span></td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>Mutaikon<br/>Lt. Spearfish</td>
+      <td><span class="item">Curse Girl</span><br/>Jagan Mask</td>
+      <td>Bored Kappa<br/>Pud</td>
+      <td>King Tusker<br/>Shadow Hat</td>
+      <td><span class="danger">Bat Kangaroo</span></td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Mutaikon<br/>Capt. Spearfish</td>
+      <td><span class="item">Curse Girl</span><br/>Jagar Prince</td>
+      <td>Kappa Pest<br/>Pudding</td>
+      <td>King Tusker<br/>Black Hat</td>
+      <td><span class="danger">Bat Kangaroo</span></td>
+    </tr>
+    <tr>
+      <th>8</th>
+      <td>Mutaikon<br/>Capt. Spearfish</td>
+      <td><span class="item">Curse Girl</span><br/>Jagar Prince</td>
+      <td>Kappa Pest<br/>Pudding</td>
+      <td>King Tusker<br/>Black Hat</td>
+      <td><span class="danger">Bat Kangaroo</span></td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightGreen">Event (Soran & Doran)</td>
+    </tr>
+    <tr>
+      <th>9</th>
+      <td>Froggucci<br/><span class="item">Kengo</span></td>
+      <td>Twisty Hani<br/>Tiny Phoenix</td>
+      <td><span class="farming">Lime Zalokleft</span><br/>Ironhead</td>
+      <td>Boy Cart<br/><span class="useful">Robber Pelican</span></td>
+      <td>Horse Samurai</td>
+    </tr>
+    <tr>
+      <th>10</th>
+      <td>Froggucci<br/><span class="item">Kengo</span></td>
+      <td>Twisty Hani<br/>Tiny Phoenix</td>
+      <td><span class="farming">Lime Zalokleft</span><br/>Ironhead</td>
+      <td>Boy Cart<br/><span class="useful">Robber Pelican</span></td>
+      <td>Horse Samurai</td>
+    </tr>
+    <tr>
+      <th>11</th>
+      <td>Froggucci<br/><span class="item">Kengo</span></td>
+      <td>Twisty Hani<br/>Tiny Phoenix</td>
+      <td><span class="farming">Lime Zalokleft</span><br/>Ironhead</td>
+      <td>Boy Cart<br/><span class="useful">Robber Pelican</span></td>
+      <td>Horse Samurai</td>
+    </tr>
+    <tr>
+      <th>12</th>
+      <td>Froggucci<br/><span class="item">Kengo</span></td>
+      <td>Twisty Hani<br/>Tiny Phoenix</td>
+      <td><span class="farming">Lime Zalokleft</span><br/>Ironhead</td>
+      <td>Boy Cart<br/><span class="useful">Robber Pelican</span></td>
+      <td>Horse Samurai</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightYellow">Boss (Sanju)</td>
+    </tr>
+    <tr>
+      <th>13</th>
+      <td>Porky<br/><span class="item">Grime</span></td>
+      <td>Ether Devil<br/>Rocket Boar</td>
+      <td><span class="danger">Dazikon</span><br/>Tiger Tosser</td>
+      <td><span class="item">Curse Sister</span><br/>Muron</td>
+      <td>Soldier Ant<br/>Spike Dragon</td>
+    </tr>
+    <tr>
+      <th>14</th>
+      <td>Porky<br/><span class="item">Grime</span></td>
+      <td>Ether Devil<br/>Rocket Boar</td>
+      <td><span class="danger">Dazikon</span><br/>Tiger Tosser</td>
+      <td><span class="item">Curse Sister</span><br/>Muron</td>
+      <td>Soldier Ant<br/>Spike Dragon</td>
+    </tr>
+    <tr>
+      <th>15</th>
+      <td>Porko<br/><span class="item">Ooze</span></td>
+      <td>Ether Devil<br/>Jet Boar</td>
+      <td><span class="danger">Dazikon</span><br/>Tiger Hurler</td>
+      <td><span class="item">Curse Sister</span><br/>Yenron</td>
+      <td>Captain Ant<br/>Spike Dragon</td>
+    </tr>
+    <tr>
+      <th>16</th>
+      <td>Porko<br/><span class="item">Ooze</span></td>
+      <td>Ether Devil<br/>Jet Boar</td>
+      <td><span class="danger">Dazikon</span><br/>Tiger Hurler</td>
+      <td><span class="item">Curse Sister</span><br/>Yenron</td>
+      <td>Captain Ant<br/>Spike Dragon</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightYellow">Boss (Aquila)</td>
+    </tr>
+    <tr>
+      <th>17</th>
+      <td><span class="item">Super Gazer</span><br/>Vexing Kappa</td>
+      <td><span class="farming">Iron Zalokleft</span><br/><span class="danger">Emperor Tusker</span></td>
+      <td>Inferno<br/>Shagga</td>
+      <td>Kigny<br/>Chainhead</td>
+      <td>Big Chintala<br/>Goldie Locks</td>
+    </tr>
+    <tr>
+      <th>18</th>
+      <td><span class="item">Super Gazer</span><br/>Vexing Kappa</td>
+      <td><span class="farming">Iron Zalokleft</span><br/><span class="danger">Emperor Tusker</span></td>
+      <td>Inferno<br/>Shagga</td>
+      <td>Kigny<br/>Chainhead</td>
+      <td>Big Chintala<br/>Goldie Locks</td>
+    </tr>
+    <tr>
+      <th>19</th>
+      <td><span class="item">Super Gazer</span><br/>Vexing Kappa</td>
+      <td><span class="farming">Iron Zalokleft</span><br/><span class="danger">Emperor Tusker</span></td>
+      <td>Inferno<br/>Shagga</td>
+      <td>Kigny<br/>Chainhead</td>
+      <td>Big Chintala<br/>Goldie Locks</td>
+    </tr>
+    <tr>
+      <th>20</th>
+      <td><span class="item">Super Gazer</span><br/>Vexing Kappa</td>
+      <td><span class="farming">Iron Zalokleft</span><br/><span class="danger">Emperor Tusker</span></td>
+      <td>Inferno<br/>Shagga</td>
+      <td>Kigny<br/>Chainhead</td>
+      <td>Big Chintala<br/>Goldie Locks</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightGreen">Event (Ponto)</td>
+    </tr>
+    <tr>
+      <th>21</th>
+      <td><span class="item">Hyper Gazer</span><br/>Shogun</td>
+      <td>Pumphantom<br/><span class="item">Curse Mom</span></td>
+      <td>Phantom Devil<br/><span class="item">Iai</span></td>
+      <td><span class="extreme">Dozikon</span><br/>Bone Dragon</td>
+      <td><span class="extreme">Devil Kangaroo</span><br/>Jagar King</td>
+    </tr>
+    <tr>
+      <th>22</th>
+      <td><span class="item">Hyper Gazer</span><br/>Shogun</td>
+      <td>Pumphantom<br/><span class="item">Curse Mom</span></td>
+      <td>Phantom Devil<br/><span class="item">Iai</span></td>
+      <td><span class="extreme">Dozikon</span><br/>Bone Dragon</td>
+      <td><span class="extreme">Devil Kangaroo</span><br/>Jagar King</td>
+    </tr>
+    <tr>
+      <th>23</th>
+      <td><span class="item">Hyper Gazer</span><br/>Shogun</td>
+      <td>Pumphantom<br/><span class="item">Curse Mom</span></td>
+      <td>Phantom Devil<br/><span class="item">Iai</span></td>
+      <td><span class="extreme">Dozikon</span><br/>Bone Dragon</td>
+      <td><span class="extreme">Devil Kangaroo</span><br/>Jagar King</td>
+    </tr>
+    <tr>
+      <th>24</th>
+      <td><span class="item">Hyper Gazer</span><br/>Shogun</td>
+      <td>Pumphantom<br/><span class="item">Curse Mom</span></td>
+      <td>Phantom Devil<br/><span class="item">Iai</span></td>
+      <td><span class="extreme">Dozikon</span><br/>Bone Dragon</td>
+      <td><span class="extreme">Devil Kangaroo</span><br/>Jagar King</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightYellow">Boss (Nemuri)</td>
+    </tr>
+    <tr>
+      <th>25</th>
+      <td>Twisty Hani<br/>Dance Polygon</td>
+      <td><span class="danger">Bellthoven</span><br/>Sing Polygon</td>
+      <td><span class="danger">Nigiri Boss</span><br/>Rancor Sluggy</td>
+      <td><span class="item">Nigiri Master</span><br/>Venom Sluggy</td>
+      <td>Custard<br/>Dark Hat</td>
+    </tr>
+    <tr>
+      <th>26</th>
+      <td>Twisty Hani<br/>Dance Polygon</td>
+      <td><span class="danger">Bellthoven</span><br/>Sing Polygon</td>
+      <td><span class="danger">Nigiri Boss</span><br/>Rancor Sluggy</td>
+      <td><span class="item">Nigiri Master</span><br/>Venom Sluggy</td>
+      <td>Custard<br/>Dark Hat</td>
+    </tr>
+    <tr>
+      <th>27</th>
+      <td>Twisty Hani<br/>Dance Polygon</td>
+      <td><span class="danger">Bellthoven</span><br/>Sing Polygon</td>
+      <td><span class="danger">Nigiri Boss</span><br/>Rancor Sluggy</td>
+      <td><span class="item">Nigiri Master</span><br/>Venom Sluggy</td>
+      <td>Custard<br/>Dark Hat</td>
+    </tr>
+    <tr>
+      <th>28</th>
+      <td>Twisty Hani<br/>Dance Polygon</td>
+      <td><span class="danger">Bellthoven</span><br/>Sing Polygon</td>
+      <td><span class="danger">Nigiri Boss</span><br/>Rancor Sluggy</td>
+      <td><span class="item">Nigiri Master</span><br/>Venom Sluggy</td>
+      <td>Custard<br/>Dark Hat</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightYellow">Boss (Kufuku)</td>
+    </tr>
+    <tr>
+      <th>29</th>
+      <td>Minotaur<br/>Fire Bomb</td>
+      <td><span class="danger">Porkon</span><br/>Nashagga</td>
+      <td>Dragon<br/>Adm. Spearfish</td>
+      <td>Dragon Head<br/>Chainhead</td>
+      <td><span class="item">Sludge</span><br/>Yank Frog</td>
+    </tr>
+    <tr>
+      <th>30</th>
+      <td>Minotaur<br/>Fire Bomb</td>
+      <td><span class="danger">Porkon</span><br/>Nashagga</td>
+      <td>Dragon<br/>Adm. Spearfish</td>
+      <td>Dragon Head<br/>Chainhead</td>
+      <td><span class="item">Sludge</span><br/>Yank Frog</td>
+    </tr>
+    <tr>
+      <th>31</th>
+      <td>Minotaur<br/>Fire Bomb</td>
+      <td><span class="danger">Porkon</span><br/>Nashagga</td>
+      <td>Dragon<br/>Adm. Spearfish</td>
+      <td>Dragon Head<br/>Chainhead</td>
+      <td><span class="item">Sludge</span><br/>Yank Frog</td>
+    </tr>
+    <tr>
+      <th>32</th>
+      <td>Minotaur<br/>Fire Bomb</td>
+      <td><span class="danger">Porkon</span><br/>Nashagga</td>
+      <td>Dragon<br/>Adm. Spearfish</td>
+      <td>Dragon Head<br/>Chainhead</td>
+      <td><span class="item">Sludge</span><br/>Yank Frog</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightGreen">Empty Chamber</td>
+    </tr>
+    <tr>
+      <th>33</th>
+      <td>Sky Dragon<br/>Shenron</td>
+      <td>Tunnel Dragon<br/>Earth Needle</td>
+      <td>Lashagga<br/>Thunder Lance</td>
+      <td>Skull Dragon</td>
+      <td>Garm Dragon</td>
+    </tr>
+    <tr>
+      <th>34</th>
+      <td>Sky Dragon<br/>Shenron</td>
+      <td>Tunnel Dragon<br/>Earth Needle</td>
+      <td>Lashagga<br/>Thunder Lance</td>
+      <td>Skull Dragon</td>
+      <td>Garm Dragon</td>
+    </tr>
+    <tr>
+      <th>35</th>
+      <td>Sky Dragon<br/>Shenron</td>
+      <td>Tunnel Dragon<br/>Earth Needle</td>
+      <td>Lashagga<br/>Thunder Lance</td>
+      <td>Skull Dragon</td>
+      <td>Garm Dragon</td>
+    </tr>
+    <tr>
+      <th>36</th>
+      <td>Sky Dragon<br/>Shenron</td>
+      <td>Tunnel Dragon<br/>Earth Needle</td>
+      <td>Lashagga<br/>Thunder Lance</td>
+      <td>Skull Dragon</td>
+      <td>Garm Dragon</td>
+    </tr>
+    <tr>
+      <td colspan="6" class="highlightYellow">Final Boss</td>
+    </tr>
+  </tbody>
+</table>
 
 # Items
 

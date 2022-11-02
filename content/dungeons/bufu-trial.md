@@ -253,7 +253,7 @@ Most Mon Boxes can be used effectively even if they haven't reached their level 
       <td>Can be found between 5-7F.<br/>Steal 1 item per enemy, or escape from a bad situation.<br/>Insert a Steady Circuit if you don't want to warp.</td>
     </tr>
     <tr>
-      <td class="highlightGray">Private Ant</td>
+      <td class="highlightGray">Soldier Ant</td>
       <td>Can be found between 13-14F. Dig paths through walls.<br/>Double speed when ranked up to General Ant.</td>
     </tr>
     <tr>
@@ -573,7 +573,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td>Bone Dragon<br/><span class="item">Kengo</span></td>
       <td>Porky<br/>Shagga</td>
       <td>Pudding<br/>Pop Tank</td>
-      <td><span class="useful">Robber Pelican</span><br/>Private Ant</td>
+      <td><span class="useful">Robber Pelican</span><br/>Soldier Ant</td>
       <td>Schubell</td>
       <td>Hannya Warrior</td>
       <td>Muron</td>
@@ -583,7 +583,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td>Floor Dragon<br/><span class="item">Kengo</span></td>
       <td>Porky<br/>Shagga</td>
       <td>Pudding<br/>Pop Tank</td>
-      <td><span class="useful">Robber Pelican</span><br/>Private Ant</td>
+      <td><span class="useful">Robber Pelican</span><br/>Soldier Ant</td>
       <td>Schubell</td>
       <td>Hannya Warrior</td>
       <td>Horse Samurai</td>

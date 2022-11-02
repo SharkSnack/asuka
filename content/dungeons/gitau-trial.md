@@ -390,7 +390,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td>Pop Tank<br/>Muron</td>
       <td>Mutaikon<br/>Pudding</td>
       <td>Hannya Warrior</td>
-      <td>Private Ant<br/><span class="useful">Robber Pelican</span></td>
+      <td>Soldier Ant<br/><span class="useful">Robber Pelican</span></td>
       <td>Horse Samurai</td>
     </tr>
     <tr>
@@ -400,7 +400,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
       <td>Pop Tank<br/>Muron</td>
       <td>Mutaikon<br/>Pudding</td>
       <td>Hannya Warrior</td>
-      <td>Private Ant<br/><span class="useful">Robber Pelican</span></td>
+      <td>Soldier Ant<br/><span class="useful">Robber Pelican</span></td>
       <td>Horse Samurai</td>
     </tr>
     <tr>
