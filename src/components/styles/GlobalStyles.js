@@ -767,11 +767,12 @@ export const baseStyles = css`
     font-weight: normal;
     background-color: #ececec;
     text-align: center;
-    padding: 3.5px;
+    padding: 4px;
   }
   .dungeonItemTable td {
     text-align: center;
-    padding: 3.5px;
+    min-width: 30px;
+    padding: 4px;
   }
   .itemTable th {
     text-align: center;
@@ -1144,6 +1145,9 @@ export const baseStyles = css`
   }
   .highlightLightblue {
     background-color: #eef6ff !important;
+  }
+  .highlightNeon {
+    background-color: #ddfff7 !important;
   }
   .highlightNight {
     background-color: #ebf8ff !important;
