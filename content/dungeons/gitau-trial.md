@@ -1511,10 +1511,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
     <td></td>
     <td>X</td>
     <td>X</td>
-    <td class="leftText">Fuuma Stone</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td rowspan="2" colspan="4" class="highlightGray"></td>
   </tr>
   <tr>
     <td colspan="4" class="highlightGray"></td>
@@ -1522,7 +1519,6 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="4" class="highlightGray"></td>
   </tr>
 </table>
 

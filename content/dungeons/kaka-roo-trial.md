@@ -1881,16 +1881,13 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
     <td class="leftText">Special Onigiri</td>
     <td></td>
     <td>X</td>
-    <td class="leftText">Fuuma Stone</td>
-    <td></td>
-    <td></td>
+    <td rowspan="2" colspan="3" class="highlightGray"></td>
   </tr>
   <tr>
     <td colspan="3" class="highlightGray"></td>
     <td class="leftText">Spoiled Onigiri</td>
     <td></td>
     <td></td>
-    <td colspan="3" class="highlightGray"></td>
   </tr>
 </table>
 

@@ -59,7 +59,7 @@ Dungeon where floors consist of puzzles, similar to Fay's Puzzles in Shiren 1 an
     <th>Clear Icon</th>
     <td></td>
     <th>Reward</th>
-    <td>Fuuma Stone (1st clear)</td>
+    <td>Fuuma Stone (50F)</td>
   </tr>
 </table>
 

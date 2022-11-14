@@ -2552,10 +2552,7 @@ The values like "23+" in columns represent the floor range where the item can ap
     <td></td>
     <td>X</td>
     <td>X</td>
-    <td class="leftText">Fuuma Stone</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td rowspan="2" colspan="4" class="highlightGray"></td>
   </tr>
   <tr>
     <td colspan="4" class="highlightGray"></td>
@@ -2563,7 +2560,6 @@ The values like "23+" in columns represent the floor range where the item can ap
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="4" class="highlightGray"></td>
   </tr>
 </table>
 

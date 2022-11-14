@@ -860,7 +860,7 @@ Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</
 
 # Items
 
-The values like "11" in columns represent the floor where the item can begin to appear.
+The values like "29+" in columns represent the floor where the item can begin to appear.
 
 - F = Floor
 - S = Shop
@@ -893,16 +893,16 @@ The values like "11" in columns represent the floor where the item can begin to 
   <tr>
     <td class="leftText">Wooden Sword</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Calm Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Weeds</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Club</td>
@@ -910,153 +910,153 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">No-Rust Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Herb</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Nagamaki</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Alert Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Sleep Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Katana</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Holy Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Dizzy Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Dotanuki</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Bind Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Swift Seed</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Kabura's Blade</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Warp Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Warp Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Ghost Sickle</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Strength Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Amnesia Grass</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Marine Slasher</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Thief Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Kigny Seed</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Cyclops Killer</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Wish Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Twisty Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Drain Buster</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Pierce Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Life Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Crescent Arm</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Bullseye Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Antidote Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Dragon Killer</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Bend Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Expand Seed</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Sapping Branch</td>
@@ -1064,41 +1064,41 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Heal Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Shrink Seed</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Pickaxe</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">No-Drain Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Disaster Seed</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>33+</td>
+    <td>33+</td>
   </tr>
   <tr>
     <td class="leftText">Razor Wind</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Vision Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Otogiriso</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Froggo Whip</td>
@@ -1106,41 +1106,41 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Critical Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Sight Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Bamboo Sword</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Regret Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Dragon Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Gold Sword</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Protect Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Flame Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Onigiri Sword</td>
@@ -1148,55 +1148,55 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Decoy Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Boost Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Homing Blade</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Float Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Strength Seed</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Dried Bonito</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Scout Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Poison Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Bladed Wheel</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Phantasm Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Happy Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Crisis Sword</td>
@@ -1204,11 +1204,11 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Bargain Bracelet</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Unlucky Seed</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
@@ -1218,23 +1218,23 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Parry Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Invincible Grass</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Tessen</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Happy Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Revival Grass</td>
     <td></td>
     <td></td>
@@ -1242,34 +1242,34 @@ The values like "11" in columns represent the floor where the item can begin to 
   </tr>
   <tr>
     <td class="leftText">Shoddy Sword</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Nirvana Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Angel Seed</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Morning Star</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Hunger Bracelet</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <th colspan="4" class="highlightNeon">Staff</th>
   </tr>
   <tr>
     <td class="leftText">Power Pole</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Spirit Bracelet</td>
     <td></td>
     <td></td>
@@ -1287,50 +1287,50 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td class="leftText">Identify Bracelet</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Knockback Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Spear</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Trapper Bracelet</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Rage Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Blast Hammer</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <th colspan="4" class="highlightNeon">Scroll</th>
     <td class="leftText">Empathy Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Mallet</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <th>Name</th>
     <th>F</th>
     <th>S</th>
     <th>E</th>
     <td class="leftText">Exchange Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Minotaur's Axe</td>
@@ -1338,13 +1338,13 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Trap Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Monster Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Yomino Minasoko</td>
@@ -1352,24 +1352,24 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Identify Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Bomb Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <th colspan="4" class="highlightNeon">Shield</th>
     <td class="leftText">Navigation Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Swap Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <th>Name</th>
@@ -1377,41 +1377,41 @@ The values like "11" in columns represent the floor where the item can begin to 
     <th>S</th>
     <th>E</th>
     <td class="leftText">Puddle Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Pull Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Wooden Shield</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Burn Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Heal Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Elegant Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Retreat Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Balance Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Bronze Shield</td>
@@ -1419,121 +1419,121 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Purify Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Slow Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Iron Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Fear Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Transient Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Beast Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Accuracy Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Paralysis Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Fuuma Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Cheer Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Seal Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Leather Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Trap Erase Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Lightning Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Spry Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Pin Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Invisible Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Echo Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Gravity Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Tunnel Staff</td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Festive Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Escape Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Decoy Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Walrus Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Heaven Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Quarter Staff</td>
     <td></td>
     <td></td>
@@ -1541,27 +1541,27 @@ The values like "11" in columns represent the floor where the item can begin to 
   </tr>
   <tr>
     <td class="leftText">Gold Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Earth Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Swift Staff</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Rubber Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Slumber Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Fury Staff</td>
     <td></td>
     <td></td>
@@ -1573,55 +1573,55 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Blaze Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Miss Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Blast Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Confusion Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Fire Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Counter Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Rockfall Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Happy Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Bowl Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Lightning Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Unlucky Staff</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Dodge Shield</td>
@@ -1629,20 +1629,20 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Fixer Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <th colspan="4" class="highlightNeon">Pot</th>
   </tr>
   <tr>
     <td class="leftText">Scale Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Trouble Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <th>Name</th>
     <th>F</th>
     <th>S</th>
@@ -1650,59 +1650,59 @@ The values like "11" in columns represent the floor where the item can begin to 
   </tr>
   <tr>
     <td class="leftText">Happy Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Mon House Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Heal Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Steady Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Technique Scroll</td>
     <td></td>
     <td></td>
     <td></td>
     <td class="leftText">Water Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Dragon Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Desert Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Degrade Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Heavy Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Great Hall Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Storage Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Frontal Shield</td>
@@ -1710,55 +1710,55 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Sturdy Pot Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Sale Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Shoddy Shield</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Pot Expand Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Identify Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Halberd Shield</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Copy Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Presto Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Grand Counter</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Suction Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Hide Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Yomino Mikogami</td>
@@ -1766,24 +1766,24 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td></td>
     <td></td>
     <td class="leftText">Plating Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Black Hole Pot</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <th colspan="4" class="highlightNeon">Projectile</th>
     <td class="leftText">Blank Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Sticky Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <th>Name</th>
@@ -1791,33 +1791,33 @@ The values like "11" in columns represent the floor where the item can begin to 
     <th>S</th>
     <th>E</th>
     <td class="leftText">Sanctuary Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Mailing Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Wood Arrow</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Extinction Scroll</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Synthesis Pot</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Iron Arrow</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <th colspan="4" class="highlightNeon">Food</th>
     <td class="leftText">Blessing Pot</td>
     <td></td>
@@ -1826,9 +1826,9 @@ The values like "11" in columns represent the floor where the item can begin to 
   </tr>
   <tr>
     <td class="leftText">Silver Arrow</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <th>Name</th>
     <th>F</th>
     <th>S</th>
@@ -1836,28 +1836,28 @@ The values like "11" in columns represent the floor where the item can begin to 
     <td class="leftText">Upgrade Pot</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>X</td>
   </tr>
   <tr>
     <td class="leftText">Critical Arrow</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Onigiri</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <th colspan="4" class="highlightNeon">Other</th>
   </tr>
   <tr>
     <td class="leftText">Razor Arrow</td>
+    <td>X</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
     <td class="leftText">Large Onigiri</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <th>Name</th>
     <th>F</th>
     <th>S</th>
@@ -1865,36 +1865,36 @@ The values like "11" in columns represent the floor where the item can begin to 
   </tr>
   <tr>
     <td class="leftText">Cannonball</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Huge Onigiri</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td>X</td>
     <td class="leftText">Gitan</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Porky Rock</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td class="leftText">Special Onigiri</td>
     <td></td>
+    <td>X</td>
+    <td>X</td>
+    <td class="leftText">Dragon</td>
     <td></td>
-    <td></td>
-    <td class="leftText">Fuuma Stone</td>
-    <td></td>
-    <td></td>
+    <td>29+</td>
     <td></td>
   </tr>
   <tr>
     <td colspan="4" class="highlightGray"></td>
     <td class="leftText">Spoiled Onigiri</td>
-    <td></td>
+    <td>X</td>
     <td></td>
     <td></td>
     <td colspan="4" class="highlightGray"></td>

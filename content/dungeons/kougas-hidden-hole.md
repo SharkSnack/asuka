@@ -1427,10 +1427,7 @@ The value "43" in columns represent the single floor where the item can appear.
     <td></td>
     <td></td>
     <td></td>
-    <td class="leftText">Fuuma Stone</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td rowspan="2" colspan="4" class="highlightGray"></td>
   </tr>
   <tr>
     <td colspan="4" class="highlightGray"></td>
@@ -1438,7 +1435,6 @@ The value "43" in columns represent the single floor where the item can appear.
     <td></td>
     <td></td>
     <td></td>
-    <td colspan="4" class="highlightGray"></td>
   </tr>
 </table>
 

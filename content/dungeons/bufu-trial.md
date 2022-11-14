@@ -2239,16 +2239,13 @@ The values like "3+" in columns represent the floor where the item can begin to 
     <td class="leftText">Special Onigiri</td>
     <td></td>
     <td></td>
-    <td class="leftText">Fuuma Stone</td>
-    <td></td>
-    <td></td>
+    <td rowspan="2" colspan="3" class="highlightGray"></td>
   </tr>
   <tr>
     <td colspan="3" class="highlightGray"></td>
     <td class="leftText">Spoiled Onigiri</td>
     <td></td>
     <td></td>
-    <td colspan="3" class="highlightGray"></td>
   </tr>
 </table>
 
