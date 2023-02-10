@@ -38,6 +38,7 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/index',
+      '/patches',
       '/guides',
       '/items',
       '/system',
