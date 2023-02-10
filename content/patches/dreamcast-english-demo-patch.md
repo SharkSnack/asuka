@@ -20,7 +20,7 @@ Store Links: <a href="https://www.nintendo.com/store/products/shiren-the-wandere
 
 #### Patch Details
 
-Download: <a href="https://github.com/SharkSnack/asuka/releases/tag/v0.15.0">Release Page (Click on  Shiren.Gaiden.-.Asuka.Kenzan.English.Demo.v0.15.0.zip)</a>
+Download: <a href="https://github.com/SharkSnack/asuka/releases/tag/v0.16.0">Release Page (Click on Shiren.Gaiden.-.Asuka.Kenzan.English.Demo.v0.16.zip)</a>
 
 <table>
   <tr>
@@ -29,7 +29,7 @@ Download: <a href="https://github.com/SharkSnack/asuka/releases/tag/v0.15.0">Rel
   </tr>
   <tr>
     <th>Patch Name</th>
-    <td>Shiren Gaiden - Asuka Kenzan (English Demo v0.15).dcp</td>
+    <td>Shiren Gaiden - Asuka Kenzan (English Demo v0.16).dcp</td>
   </tr>
   <tr>
     <th>Language</th>
